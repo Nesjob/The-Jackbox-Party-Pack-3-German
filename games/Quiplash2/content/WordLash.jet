@@ -1,0 +1,90 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"WordLash",
+            "quip":"Erfinde eine neue lustige Sitcom mit diesem Wort im Titel:"
+        },
+        {
+            "id":1,
+            "type":"WordLash",
+            "quip":"Erfinde eine neue TV Sendung mit diesem Wort im Titel:"
+        },
+        {
+            "id":2,
+            "type":"WordLash",
+            "quip":"Erfinde eine Hit Single mit diesem Wort im Titel:"
+        },
+        {
+            "id":3,
+            "type":"WordLash",
+            "quip":"Erfinde eine romatische Komödie mit diesem Wort im Titel:"
+        },
+        {
+            "id":4,
+            "type":"WordLash",
+            "quip":"Erfinde einen klassischen Roman mit diesem Wort im Titel:"
+        },
+        {
+            "id":5,
+            "type":"WordLash",
+            "quip":"Erfinde eine neue Sportart mit diesem Wort im Namen:"
+        },
+        {
+            "id":6,
+            "type":"WordLash",
+            "quip":"Erfinde einen preisgekrönten Film mit diesem Wort im Titel:"
+        },
+        {
+            "id":7,
+            "type":"WordLash",
+            "quip":"Erfinde eine schockierende Schlagzeile mit diesem Wort im Titel:"
+        },
+        {
+            "id":8,
+            "type":"WordLash",
+            "quip":"Erfinde einen neuen Cartoon Charakter mit diesem Wort im Namen:"
+        },
+        {
+            "id":9,
+            "type":"WordLash",
+            "quip":"Erfinde ein neues Broadway Musical mit diesem Wort im Namen:"
+        },
+        {
+            "id":10,
+            "type":"WordLash",
+            "quip":"Erfinde ein Fast Food Restaurant mit diesem Wort im Namen:"
+        },
+        {
+            "id":11,
+            "type":"WordLash",
+            "quip":"Erfinde ein neues Top-Game mit diesem Wort im Titel:"
+        },
+        {
+            "id":12,
+            "type":"WordLash",
+            "quip":"Erfinde eine Musikgruppe mit diesem Wort in deren Name:"
+        },
+        {
+            "id":13,
+            "type":"WordLash",
+            "quip":"Erfinde eine clevere Beleidigung mit diesem Wort:"
+        },
+        {
+            "id":14,
+            "type":"WordLash",
+            "quip":"Erfinde einen Werbespruch mit diesem Wort im Titel:"
+        },
+        {
+            "id":15,
+            "type":"WordLash",
+            "quip":"Erfinde einen neuen Snack mit diesem Wort im Namen:"
+        },
+        {
+            "id":16,
+            "type":"WordLash",
+            "quip":"Erfinde eine beliebte neue Webseite mit diesem Wort im Namen:"
+        }
+    ],
+    "episodeid":1
+}

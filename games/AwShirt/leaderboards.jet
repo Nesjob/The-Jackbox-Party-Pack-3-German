@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Session-Statistik",
+            "description": "Statistik der aktuellen Spielsession (wird mit Beenden des Spiels zurückgesetzt.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch-Statistik",
+            "description": "Statistik der Twitch-Sessions (Statistik bleibt gespeichert)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Spielername"
+    }, {
+        "id": "gamesWon",
+        "name": "Gewonnene Turniere"
+    }, {
+        "id": "roundsWon",
+        "name": "Gewonnene Runden"
+    }, {
+        "id": "streaksWon",
+        "name": "Gewonnene Serien"
+    }, {
+        "id": "shirtalities",
+        "name": "Shirt-Duelle"
+    }]
+}

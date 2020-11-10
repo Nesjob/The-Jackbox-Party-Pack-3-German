@@ -1,0 +1,137 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"ComicLash",
+            "label":"Comic01",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":1,
+            "type":"ComicLash",
+            "label":"Comic02",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":2,
+            "type":"ComicLash",
+            "label":"Comic03",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":3,
+            "type":"ComicLash",
+            "label":"Comic04",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":4,
+            "type":"ComicLash",
+            "label":"Comic05",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":5,
+            "type":"ComicLash",
+            "label":"Comic06",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":6,
+            "type":"ComicLash",
+            "label":"Comic07",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":7,
+            "type":"ComicLash",
+            "label":"Comic08",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":8,
+            "type":"ComicLash",
+            "label":"Comic09",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":9,
+            "type":"ComicLash",
+            "label":"Comic10",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":10,
+            "type":"ComicLash",
+            "label":"Comic11",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":11,
+            "type":"ComicLash",
+            "label":"Comic12",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":12,
+            "type":"ComicLash",
+            "label":"Comic13",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":13,
+            "type":"ComicLash",
+            "label":"Comic14",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":14,
+            "type":"ComicLash",
+            "label":"Comic15",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":15,
+            "type":"ComicLash",
+            "label":"Comic16",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":16,
+            "type":"ComicLash",
+            "label":"Comic17",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":17,
+            "type":"ComicLash",
+            "label":"Comic18",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":18,
+            "type":"ComicLash",
+            "label":"Comic19",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":19,
+            "type":"ComicLash",
+            "label":"Comic20",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":20,
+            "type":"ComicLash",
+            "label":"Comic21",
+            "prompt":"Vervollständige den Comic!"
+        },
+        {
+            "id":21,
+            "type":"ComicLash",
+            "label":"Comic22",
+            "prompt":"Vervollständige den Comic!"
+        }
+    ],
+    "episodeid":1
+}

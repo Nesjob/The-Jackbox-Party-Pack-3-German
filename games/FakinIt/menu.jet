@@ -1,0 +1,26 @@
+[
+    {
+        "title":"SPIELEN",
+        "action":"doPlayGame",
+        "description":"Raum erstellen und spielen!",
+        "value":0
+    },
+    {
+        "title":"BESTENLISTE",
+        "action":"doLeaderboards",
+        "description":"Statistiken der letzten Spiele",
+        "value":1
+    },
+    {
+        "title":"EINSTELLUNGEN",
+        "action":"doSettings",
+        "description":"Familien-Filter, Publikumsoptionen & mehr...",
+        "value":2
+    },
+    {
+        "title":"ZURÜCK ZUM PACK",
+        "action":"doBackToPack",
+        "description":"Wechsle zurück zum Party Pack",
+        "value":3
+    }
+]

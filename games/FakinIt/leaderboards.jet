@@ -1,0 +1,33 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Session-Statistik",
+            "description": "Statistik der aktuellen Spielsession (wird mit Beenden des Spiels zurückgesetzt.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch-Statistik",
+            "description": "Statistik der Twitch-Sessions (Statistik bleibt gespeichert)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Spielername"
+    }, {
+        "id": "topScore",
+        "name": "Highscore"
+    }, {
+        "id": "averageScore",
+        "name": "Ø-Punkte"
+    }, {
+        "id": "gamesWon",
+        "name": "Gewonnene Spiele"
+    }, {
+        "id": "fakerWins",
+        "name": "Entkommen"
+    }, {
+        "id": "sleuthWins",
+        "name": "Richtige Votes"
+    }]
+}
