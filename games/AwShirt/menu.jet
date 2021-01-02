@@ -14,7 +14,7 @@
     {
         "title":"EINSTELLUNGEN",
         "action":"doSettings",
-        "description":"Zensieren, Publikumsoptionen & mehr...",
+        "description":"Zensureinstellungen, Publikumsoptionen & mehr...",
         "value":2
     },
     {
