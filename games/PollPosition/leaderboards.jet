@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Sitzungsstatistiken",
+            "description": "Statistik der aktuellen Spielsession (wird mit Beenden des Spiels zurückgesetzt.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch-Statistik",
+            "description": "Statistik der Twitch-Sessions (Statistik bleibt gespeichert.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Spielername"
+    }, {
+        "id": "topScore",
+        "name": "Highscore"
+    }, {
+        "id": "averageScore",
+        "name": "Durchschnitt"
+    }, {
+        "id": "gamesPlayed",
+        "name": "Anzahl Spiele"
+    }, {
+        "id": "averagePercentageOff",
+        "name": "Durchschnitt aus"
+    }]
+}

@@ -15,7 +15,7 @@
             "description": "Mach das Spiel LAUT oder LEISE."
         },
         {
-            "title": "Vollbild",
+            "title": "Vollbildmodus",
             "type": "Toggle",
             "clip": "AwShirtToggleWidget",
             "width": 1,
@@ -31,12 +31,12 @@
             "description": "Spieler kreieren nur 3 Zeichnungen und haben eine kürzere Schreibdauer. Gut für Streaming."
         },
         {
-            "title": "Publikum",
+            "title": "Publikum-Modus",
             "type": "Toggle",
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtAudienceOn",
-            "description": "Zuschauer können das Spiel beeinflussen."
+            "description": "Einschalten, um Zuschauern zu erlauben dem Spiel beizutreten und es zu beeinflussen."
         },
         {
             "title": "Publikum-Vorschläge",
@@ -76,7 +76,7 @@
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtGamepadStart",
-            "description": "Spiele können nur über PC gestartet werden."
+            "description": "Spiele können nur über den PC gestartet werden, nicht von den Geräten der Spieler."
         },
         {
             "title": "Raum-Code verstecken",
@@ -84,7 +84,7 @@
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtHideRoomCode",
-            "description": "Raum-Code verstecken, um Spieler daran zu hindern dem Spiel frühzeitig beizutreten."
+            "description": "Raum-Code verstecken, um Spieler daran zu hindern, dem Spiel frühzeitig beizutreten."
         }
     ]
 }
