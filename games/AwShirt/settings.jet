@@ -28,7 +28,7 @@
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtQuickTraining",
-            "description": "Spieler kreieren nur 3 Zeichnungen und haben eine k�rzere Schreibdauer. Gut für Streaming."
+            "description": "Spieler kreieren nur 3 Zeichnungen und haben eine kürzere Schreibdauer. Gut für Streaming."
         },
         {
             "title": "Publikum-Modus",
@@ -84,7 +84,7 @@
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtHideRoomCode",
-            "description": "Raum-Code verstecken, um Spieler daran zu hindern, dem Spiel fr�hzeitig beizutreten."
+            "description": "Raum-Code verstecken, um Spieler daran zu hindern, dem Spiel frühzeitig beizutreten."
         }
     ]
 }
