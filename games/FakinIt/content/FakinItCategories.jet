@@ -1,0 +1,35 @@
+{
+    "episodeid": 0,
+    "content": [
+        {
+            "id": 0,
+            "type": "Hands",
+            "name": "Hände der Wahrheit",
+            "duration": 3
+        },
+        {
+            "id": 1,
+            "type": "Pointing",
+            "name": "Gut gezeigt",
+            "duration": 3
+        },
+        {
+            "id": 2,
+            "type": "Faces",
+            "name": "Ins Gesicht geschrieben",
+            "duration": 3
+        },
+        {
+            "id": 3,
+            "type": "Counting",
+            "name": "Zahlen, bitte!",
+            "duration": 3
+        },
+        {
+            "id": 4,
+            "type": "Input",
+            "name": "Textet euch voll",
+            "duration": 90
+        }
+    ]
+}
