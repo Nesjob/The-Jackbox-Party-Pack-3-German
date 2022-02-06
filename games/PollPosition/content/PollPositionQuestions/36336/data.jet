@@ -1,1 +1,67 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"56","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute können ein Musikinstrument spielen?","n":"QText"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Kannst du ein Musikinstrument spielen?","n":"PollQ"},{"t":"S","v":"Producers of sound. Facile manipulators.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"500987_3","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "56",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute können ein Musikinstrument spielen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Hidden Home Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Kannst du ein Musikinstrument spielen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Producers of sound. Facile manipulators.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500987_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,79 +1,69 @@
 {
-    "fields": [
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasIntro"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasResponse"
-        },
-        {
-            "t": "N",
-            "v": "57",
-            "n": "A"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "PollAns"
-        },
-        {
-            "t": "S",
-            "v": "",
-            "n": "Target"
-        },
-        {
-            "t": "S",
-            "v": "mc",
-            "n": "Type"
-        },
-        {
-            "t": "S",
-            "v": "Wie viel Prozent der Leute denken, dass Lee Harvey Oswald nicht alleine für die Ermordung JFKs verantwortlich ist?",
-            "n": "QText"
-        },
-        {
-            "t": "S",
-            "v": "Nein, ich denke, da waren noch andere beteiligt.",
-            "n": "Choice1"
-        },
-        {
-            "t": "S",
-            "v": "E-Data Decryption",
-            "n": "DataMode"
-        },
-        {
-            "t": "S",
-            "v": "Glaubst du, dass Lee Harvey Oswald alleine die Ermordung JFKs geplant und durchgeführt hat?",
-            "n": "PollQ"
-        },
-        {
-            "t": "S",
-            "v": "Ja, ich denke, das war der Fall.",
-            "n": "Choice0"
-        },
-        {
-            "t": "S",
-            "v": "JFK Mörder Theorien. Verschwörungswahrscheinlichkeit.",
-            "n": "ExpResults"
-        },
-        {
-            "t": "A",
-            "v": "480264_1",
-            "n": "Response"
-        },
-        {
-            "t": "A",
-            "v": "480262_1",
-            "n": "Q"
-        },
-        {
-            "t": "A",
-            "v": "480265_1",
-            "n": "Intro"
-        }
-    ]
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute waren in den letzten 3 Jahren in einem Kletterpark?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Warst du in den letzten 3 Jahren in einem Kletterpark?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "JFK Mörder Theorien. Verschwörungswahrscheinlichkeit.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480264_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480262_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "480265_1",
+      "n": "Intro"
+    }
+  ]
 }

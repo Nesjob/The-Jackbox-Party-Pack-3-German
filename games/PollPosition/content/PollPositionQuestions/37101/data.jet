@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"27","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute würden, nach Fangen eines Rekord Home Run Balls, diesen dem Hitter oder einem Museum geben (statt ihn zu behalten oder versuchen zu verkaufen)?","n":"QText"},{"t":"S","v":"versuchen, ihn zu verkaufen","n":"Choice1"},{"t":"S","v":"Predictive Analytics","n":"DataMode"},{"t":"S","v":"behalten","n":"Choice2"},{"t":"S","v":"Du hast in einem Ligaspiel einen Rekord Home Run Ball gefangen! Was tust du damit?","n":"PollQ"},{"t":"S","v":"dem Hitter oder einem Jseum kostenlos überlassen","n":"Choice0"},{"t":"S","v":"Spectator ethics. Ball abandonment.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"517403_5","n":"Q"},{"t":"A","v":"517406_3","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute wissen, wie man einen Rubics Cube löst?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Weißt du, wie man einen Rubics Cube / Zauberwürfel löst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Spectator ethics. Ball abandonment.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517403_5",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "517406_3",
+      "n": "Intro"
+    }
+  ]
+}

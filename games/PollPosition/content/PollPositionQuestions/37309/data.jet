@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"52","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben gerade Kondome zu Hause?","n":"QText"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Liegen gerade bei dir zu Hause Kondome?","n":"PollQ"},{"t":"S","v":"Prophylactic inventory. Domestic storage.","n":"ExpResults"},{"t":"A","v":"519671_1","n":"Response"},{"t":"A","v":"519669_1","n":"Q"},{"t":"A","v":"519672_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "52",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben gerade Kondome zu Hause?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Population Profiling",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Liegen gerade bei dir zu Hause Kondome?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Prophylactic inventory. Domestic storage.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "519671_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519669_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "519672_1",
+      "n": "Intro"
+    }
+  ]
+}

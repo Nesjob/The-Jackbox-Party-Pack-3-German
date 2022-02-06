@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"63","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben jemanden gerickrolled?","n":"QText"},{"t":"S","v":"Broadband Traffic Monitoring","n":"DataMode"},{"t":"S","v":"Hast du jemanden gerickrolled? (If you don\u2019t know, you haven\u2019t.)","n":"PollQ"},{"t":"S","v":"He who will never give you up. Astley-related.","n":"ExpResults"},{"t":"A","v":"493448_3","n":"Response"},{"t":"A","v":"493446_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "63",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben jemanden gerickrolled?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Broadband Traffic Monitoring",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du jemanden gerickrolled? (Hast du nicht, wenn du nicht weißt, was das ist.)",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "He who will never give you up. Astley-related.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493448_3",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493446_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

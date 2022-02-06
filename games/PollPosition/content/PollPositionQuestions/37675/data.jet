@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"29","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute kennen einen Zaubertrick, den sie sofort aufführen könnten?","n":"QText"},{"t":"S","v":"Agency Informants","n":"DataMode"},{"t":"S","v":"Könntest du jetzt einen Zaubertrick aufführen?","n":"PollQ"},{"t":"S","v":"Prestidigitation preparedness quotients.","n":"ExpResults"},{"t":"A","v":"524824_1","n":"Response"},{"t":"A","v":"524822_1","n":"Q"},{"t":"A","v":"524825_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute kennen einen Zaubertrick, den sie sofort aufführen könnten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Könntest du jetzt einen Zaubertrick aufführen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Prestidigitation preparedness quotients.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "524824_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524822_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "524825_1",
+      "n": "Intro"
+    }
+  ]
+}

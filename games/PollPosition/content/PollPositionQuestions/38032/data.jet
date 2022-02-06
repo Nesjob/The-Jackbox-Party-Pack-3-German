@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"23","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute nehmen Insekten aus ihrem Haus nach draußen (statt sie zu töten)?","n":"QText"},{"t":"S","v":"Ich lasse sie in Ruhe.","n":"Choice3"},{"t":"S","v":"Ich erschlage sie.","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Ich spüle sie die Toilette hinunter.","n":"Choice2"},{"t":"S","v":"Was machst du, wenn du zu Hause eine Spinne oder einen Käfer findest?","n":"PollQ"},{"t":"S","v":"Ich nehme sie nach draußen.","n":"Choice0"},{"t":"S","v":"Insect elimination protocols. Relocation tendencies.","n":"ExpResults"},{"t":"A","v":"529313_1","n":"Response"},{"t":"A","v":"529311_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute bringen Insekten aus ihrem Haus nach draußen (statt sie zu töten)?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Ich erschlage sie.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Faked Focus-Group Study",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Ich spüle sie die Toilette hinunter.",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Was machst du, wenn du zu Hause eine Spinne oder einen Käfer findest?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ich nehme sie nach draußen.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Insect elimination protocols. Relocation tendencies.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "529313_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529311_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

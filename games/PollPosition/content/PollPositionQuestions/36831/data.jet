@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"23","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben Dr. Seuss\u2019s <i>Oh, the Places You\u2019ll Go!<\/i> als Geschenk bekommen?","n":"QText"},{"t":"S","v":"Security Cam","n":"DataMode"},{"t":"S","v":"Hast du jemals das Buch <i>Oh, the Places You\u2019ll Go!<\/i> von Dr. Seuss als Geschenk bekommen?","n":"PollQ"},{"t":"S","v":"Trope gifts. Childhood classics.","n":"ExpResults"},{"t":"A","v":"512172_1","n":"Response"},{"t":"A","v":"512170_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben ein Guinnes Buch der Rekorde zuhause?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du ein Guinnes Buch der Rekorde zuhause?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Trope gifts. Childhood classics.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512172_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512170_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

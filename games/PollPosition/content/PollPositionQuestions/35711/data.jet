@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"28","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute ziehen sich am St. Patrick\u2019s Day IMMER grün an?","n":"QText"},{"t":"S","v":"manchmal","n":"Choice1"},{"t":"S","v":"Aerial Drone","n":"DataMode"},{"t":"S","v":"Nie absichtlich","n":"Choice2"},{"t":"S","v":"Ziehst du dich am St. Patrick\u2019s Day grün an?","n":"PollQ"},{"t":"S","v":"immer","n":"Choice0"},{"t":"S","v":"Holiday garments. The color of the Irish.","n":"ExpResults"},{"t":"A","v":"482976_1","n":"Response"},{"t":"A","v":"482974_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "28",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute benutzen am Computer normalerweise Lautsprecher statt Kopfhörer?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Kopfhörer",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Aerial Drone",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Was benutzt du normalerweise am Computer?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Lautsprecher",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "482976_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482974_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

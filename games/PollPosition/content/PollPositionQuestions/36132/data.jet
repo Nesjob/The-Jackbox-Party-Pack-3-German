@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"44","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute möchten die Brotenden nicht essen?","n":"QText"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"Isst du das Brotende?","n":"PollQ"},{"t":"S","v":"Consumption practices. Loaf-specific.","n":"ExpResults"},{"t":"A","v":"496232_1","n":"Response"},{"t":"A","v":"496230_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute möchten die Brotränder lieber nicht essen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Ja, die stören mich nicht",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Isst du Brotränder?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nein, die lasse ich weg",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Consumption practices. Loaf-specific.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "496232_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496230_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

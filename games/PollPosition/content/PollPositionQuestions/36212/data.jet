@@ -1,1 +1,84 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"18","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Biertrinker nehmen Macrobrews statt welches aus einer Kleinbrauerei?","n":"QText"},{"t":"S","v":"Macrobrews","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"An die Biertrinker: Kleinbrauerei oder Macrobrews?","n":"PollQ"},{"t":"S","v":"Kleinbrauerei","n":"Choice0"},{"t":"S","v":"Brewery product. Large vs. small volume.","n":"ExpResults"},{"t":"A","v":"497856_1","n":"Response"},{"t":"A","v":"497854_2","n":"Q"},{"t":"A","v":"497857_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Biertrinker trinken lieber bekannte Marken statt welches aus einer Kleinbrauerei?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Bekannte Marken",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Population Profiling",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "An die Biertrinker: Kleinbrauerei oder bekannte Marken?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Kleinbrauerei",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Brewery product. Large vs. small volume.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497856_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497854_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "497857_1",
+      "n": "Intro"
+    }
+  ]
+}

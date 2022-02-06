@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"13","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Amerikaner verstehen die Regeln von Rugby?","n":"QText"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"U.S. Bürger: Verstehst du die Regeln von Rugby?","n":"PollQ"},{"t":"S","v":"International sports. Comprehension levels.","n":"ExpResults"},{"t":"A","v":"528203_1","n":"Response"},{"t":"A","v":"528201_4","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute in Deutschland kennen die Regeln von Football?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Kennst du die Regeln von Football? (Nicht Fußball. Wir meinen das, was beim Super Bowl gespielt wird)",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "International sports. Comprehension levels.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "528203_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528201_4",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

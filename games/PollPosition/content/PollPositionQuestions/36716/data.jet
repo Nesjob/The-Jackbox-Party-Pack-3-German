@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"3","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute schneiden ihre Fingernägel mit einer Schere?","n":"QText"},{"t":"S","v":"Nichts. Ich lasse sie wachsen.","n":"Choice3"},{"t":"S","v":"Nagelschere","n":"Choice1"},{"t":"S","v":"Predictive Analytics","n":"DataMode"},{"t":"S","v":"irgendetwas anderes","n":"Choice2"},{"t":"S","v":"Was benutzt du, um deine Fingernägel zu schneiden?","n":"PollQ"},{"t":"S","v":"Nagelknipser","n":"Choice0"},{"t":"S","v":"Clipping fingernails. Preferred devices.","n":"ExpResults"},{"t":"A","v":"509665_1","n":"Response"},{"t":"A","v":"509663_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute schneiden ihre Fingernägel mit einer Schere?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Nagelschere",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Predictive Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "irgendetwas anderes",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Was benutzt du, um deine Fingernägel zu schneiden?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nagelknipser",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Clipping fingernails. Preferred devices.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "509665_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509663_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

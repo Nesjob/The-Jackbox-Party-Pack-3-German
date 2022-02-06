@@ -1,0 +1,3173 @@
+{
+  "episodeid": 1255,
+  "content": [
+    {
+      "x": true,
+      "id": 35609,
+      "category": "Hintern abwischen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35611,
+      "category": "Lotto Gewinner",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35623,
+      "category": "Ohrenreinigung",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35624,
+      "category": "Intelligenz",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35625,
+      "category": "Tankanzeigen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35627,
+      "category": "Kletterparks",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35628,
+      "category": "Dart",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35629,
+      "category": "Oreos",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35630,
+      "category": "Unterwäsche",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35631,
+      "category": "Sci-Fi",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35632,
+      "category": "Kaugummi",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35633,
+      "category": "Einkaufswagen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35634,
+      "category": "Fürze",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35635,
+      "category": "Sockenschläfer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35636,
+      "category": "ET",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35661,
+      "category": "Personalausweise",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35662,
+      "category": "Gefällt mir",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35665,
+      "category": "Marathon",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35692,
+      "category": "Langschläfer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35695,
+      "category": "Türknäufe",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35698,
+      "category": "Exhibitionismus",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35700,
+      "category": "Aufzüge",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35701,
+      "category": "Bettmacher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35704,
+      "category": "Duscher",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35707,
+      "category": "Partnerhilfe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35709,
+      "category": "Ovationen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35710,
+      "category": "Friedhöfe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35711,
+      "category": "Ausgabegeräte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35738,
+      "category": "Abzocker",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35740,
+      "category": "Bankkarten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35743,
+      "category": "Telefonbücher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35747,
+      "category": "Geschenkgutscheine",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35750,
+      "category": "Demos",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35754,
+      "category": "Blutabnahmen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35759,
+      "category": "Bügel",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35760,
+      "category": "Haushaltsplagen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35763,
+      "category": "Centbeträge",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35764,
+      "category": "Geburtstagskerzen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35765,
+      "category": "Ordnungsfimmel",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35801,
+      "category": "Haarschnitte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35802,
+      "category": "Animierte Familien",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35804,
+      "category": "Salsa",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35807,
+      "category": "Leser",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35812,
+      "category": "Popcorn",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35813,
+      "category": "Trinker",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35814,
+      "category": "Lebenserwartung",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35815,
+      "category": "Noch 15 Minuten",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35816,
+      "category": "Zeitreisende",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35818,
+      "category": "Freunde mit Ex",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35819,
+      "category": "Titanic-Fans",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35820,
+      "category": "Altes Essen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35822,
+      "category": "Bowling",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35848,
+      "category": "Nachbarn",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35895,
+      "category": "Spoiler",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35897,
+      "category": "Pizza",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35905,
+      "category": "Weibliche Begleiter",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35906,
+      "category": "Login Daten",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35908,
+      "category": "Apps",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35915,
+      "category": "Schleudern",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35916,
+      "category": "Rasierer",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35917,
+      "category": "Körperbehaarung",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35919,
+      "category": "Elektroroller",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35920,
+      "category": "Rock ‘n’ Roll Ikonen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35922,
+      "category": "Hochzeiten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35924,
+      "category": "Vaping",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35925,
+      "category": "Eiskalte Autos",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35928,
+      "category": "Gruselfilme",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35963,
+      "category": "Mimik",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35964,
+      "category": "Erste Dates",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35986,
+      "category": "Fantasy Bücher",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35992,
+      "category": "Private Bilder",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36003,
+      "category": "Hintergrundbilder",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36004,
+      "category": "Vertrauliche Dokumente",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36007,
+      "category": "Jahreszeiten",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36010,
+      "category": "Duftwasser",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36011,
+      "category": "Geister",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36012,
+      "category": "Vereinsarbeit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36014,
+      "category": "Texten",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36015,
+      "category": "FKK-Strände",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36017,
+      "category": "Superhelden Comics",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36020,
+      "category": "Wahlen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36022,
+      "category": "Wartemusik",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36023,
+      "category": "Bauchtaschen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36024,
+      "category": "Teure Haare",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36025,
+      "category": "Dating",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36027,
+      "category": "Alte Technik",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36030,
+      "category": "Kühlschränke",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36036,
+      "category": "Rickrolling",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36037,
+      "category": "Pinkler",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36042,
+      "category": "Lügner",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36043,
+      "category": "Soft Drinks",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36044,
+      "category": "Inlineskating",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36050,
+      "category": "Siri Beleidiger",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36051,
+      "category": "Déjà Vu",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36065,
+      "category": "Plastikbeutel",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36066,
+      "category": "Nacktbilder",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36067,
+      "category": "Haar im Essen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36068,
+      "category": "Frühstück",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36070,
+      "category": "Nach dem Weg fragen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36071,
+      "category": "Wutbürger",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36072,
+      "category": "Boomer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36073,
+      "category": "Einkaufszentren",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36074,
+      "category": "Crushes",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36075,
+      "category": "Fast Food Apps",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36076,
+      "category": "Restaurant Beilagen",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36077,
+      "category": "Balkanhalbinseln",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36087,
+      "category": "Erstes Date",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36089,
+      "category": "Bettlaken",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36092,
+      "category": "WLAN",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36097,
+      "category": "Alte Handys",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36099,
+      "category": "Durchmacher",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36102,
+      "category": "Lichtschalter",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36105,
+      "category": "Toilettensitze",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36117,
+      "category": "Zähneputzen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36118,
+      "category": "Facebook Freunde",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36121,
+      "category": "Harry Potter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36123,
+      "category": "Pro Fußball",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36126,
+      "category": "Hotdogs",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36130,
+      "category": "Vampire",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36132,
+      "category": "Brot",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36135,
+      "category": "Sexy Unterwäsche",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36148,
+      "category": "Jeans",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36150,
+      "category": "Musikstreamingdienste",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36151,
+      "category": "Fußgängerzonen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36156,
+      "category": "Flaschenpinkeln",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36157,
+      "category": "Museumsbesucher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36158,
+      "category": "Melonen-Prüfer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36160,
+      "category": "Baden",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36161,
+      "category": "Ofenkartoffeln",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36163,
+      "category": "Live Singen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36164,
+      "category": "Zahnänderungen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36166,
+      "category": "Freizeitparks",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36170,
+      "category": "Wasserbetten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36171,
+      "category": "Infomercials",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36173,
+      "category": "Tierkostüme",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36174,
+      "category": "Auto Sticker",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36176,
+      "category": "Joghurt",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36180,
+      "category": "Popel",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36181,
+      "category": "Nacktbaden",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36183,
+      "category": "Miese Filme",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36184,
+      "category": "Schuhputzer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36185,
+      "category": "Handy Sicherheit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36186,
+      "category": "Schlafpositionen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36188,
+      "category": "Haarschnitte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36189,
+      "category": "Gesundheit",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36195,
+      "category": "Sportbekleidung",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36196,
+      "category": "Online Konflikte",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36198,
+      "category": "Kindheitstrauma",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36201,
+      "category": "Oliven",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36209,
+      "category": "Betrunkenes Shoppen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36211,
+      "category": "Die Welle",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36212,
+      "category": "Bier",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36215,
+      "category": "Urlaubsbilder",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36216,
+      "category": "Tattoos",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36227,
+      "category": "Burger",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36229,
+      "category": "Schwimmbäder",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36230,
+      "category": "Dosentrinker",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36257,
+      "category": "Naseputzen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36258,
+      "category": "Sauber machen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36259,
+      "category": "Aprilscherze",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36261,
+      "category": "Armbanduhren",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36262,
+      "category": "Glückszahlen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36264,
+      "category": "Baden",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36267,
+      "category": "Fiktive Liebe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36268,
+      "category": "Weise Worte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36269,
+      "category": "Tagebücher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36271,
+      "category": "Etiketten-Gutachter",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36272,
+      "category": "Erkältungen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36273,
+      "category": "Fußgänger",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36274,
+      "category": "Verbotener Sex",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36275,
+      "category": "Lange Haare",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36276,
+      "category": "Promi-Kontakt",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36277,
+      "category": "Performer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36280,
+      "category": "Action auf der Hochzeit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36281,
+      "category": "Essens-Veröffentlicher",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36282,
+      "category": "Gaming",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36283,
+      "category": "Pommes",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36284,
+      "category": "Ketchup",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36286,
+      "category": "Unanständigkeit im Flugzeug",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36287,
+      "category": "Rauswurf",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36289,
+      "category": "Hoden",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36290,
+      "category": "Fahrradfahrer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36291,
+      "category": "Browserverläufe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36293,
+      "category": "Abgehobene",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36295,
+      "category": "Cosplay",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36297,
+      "category": "Sandwiches",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36298,
+      "category": "Sex auf der Arbeit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36301,
+      "category": "Schlange stehen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36302,
+      "category": "Körperflüssigkeiten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36303,
+      "category": "Auf der Reise schlafen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36304,
+      "category": "Besondere Anlässe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36305,
+      "category": "Feuerwerk",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36308,
+      "category": "Umzugskartons",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36321,
+      "category": "Golf",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36322,
+      "category": "Parken",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36323,
+      "category": "Barfuß",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36325,
+      "category": "Nutella",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36326,
+      "category": "Hubschrauber",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36327,
+      "category": "Rülpser",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36328,
+      "category": "Schuhe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36329,
+      "category": "Bauernhöfe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36330,
+      "category": "Überraschungsparties",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36331,
+      "category": "Die Lotterie",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36332,
+      "category": "Reality Shows",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36333,
+      "category": "Essens-Mitnehmer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36335,
+      "category": "Dating",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36336,
+      "category": "Musiker",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36338,
+      "category": "Wald",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36340,
+      "category": "Segways",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36341,
+      "category": "Mitsingen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36342,
+      "category": "Verstecke",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36344,
+      "category": "Depardieu",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36347,
+      "category": "Gewinner",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36348,
+      "category": "Der Leseraum",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36350,
+      "category": "Tankstellenverhütung",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36351,
+      "category": "Mais",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36352,
+      "category": "Reparatur benötigt",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36353,
+      "category": "Aufklärung",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36354,
+      "category": "Drachen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36355,
+      "category": "Lutscher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36356,
+      "category": "Restaurant Spezialitäten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36358,
+      "category": "Bidets",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36359,
+      "category": "Trampoline",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36360,
+      "category": "Seife",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36362,
+      "category": "Schaufensterpuppen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36364,
+      "category": "Katzen-Küsser",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36365,
+      "category": "Heimsicherheit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36369,
+      "category": "Unterdrückte Nummern",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36370,
+      "category": "Telefonbetrug",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36372,
+      "category": "Freizeitparks",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36375,
+      "category": "Streuner",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36526,
+      "category": "Keramik",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36527,
+      "category": "Schlechte Frisur",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36528,
+      "category": "Drive-Ins",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36529,
+      "category": "Lehrer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36530,
+      "category": "Sprechverbot",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36531,
+      "category": "Süßes oder Saures",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36538,
+      "category": "Monopoly",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36539,
+      "category": "Crowdfunding",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36544,
+      "category": "Kostüme",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36566,
+      "category": "Textnachrichten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36589,
+      "category": "Internet Videos",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36597,
+      "category": "Haarprodukte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36601,
+      "category": "Party Knigge",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36609,
+      "category": "Der Ententanz",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36634,
+      "category": "Autogramme",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36636,
+      "category": "Klavierunterricht",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36642,
+      "category": "Photobombing",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36643,
+      "category": "T-Shirts",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36650,
+      "category": "Politik auf Twitter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36653,
+      "category": "Kontostände",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36657,
+      "category": "Elternkontakt",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36659,
+      "category": "Kühlschrankmagnete",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36662,
+      "category": "Badesachen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36666,
+      "category": "Frauenschuhe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36668,
+      "category": "Zahnbürsten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36669,
+      "category": "WhatsApp Sticker",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36674,
+      "category": "Gurken",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36694,
+      "category": "Spargelpipi",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36698,
+      "category": "Interviews",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36699,
+      "category": "Filmzitate",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36701,
+      "category": "Aufzüge",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36702,
+      "category": "Langzeitfreundschaften",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36703,
+      "category": "Krawatten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36704,
+      "category": "Telefonverkäufer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36716,
+      "category": "Fingernägel",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36739,
+      "category": "Crowd Surfing",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36741,
+      "category": "Etagenbetten",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36742,
+      "category": "Mit Karte zahlen",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36743,
+      "category": "LKW Hupen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36762,
+      "category": "Bitte nicht stören",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36764,
+      "category": "Sneaker",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36768,
+      "category": "Wahrheit oder Pflicht",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36772,
+      "category": "Bewegungsempfindlichkeit",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36773,
+      "category": "Fischeier",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36774,
+      "category": "Brunch",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36780,
+      "category": "Fluchen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36787,
+      "category": "Boden",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36788,
+      "category": "Urinale",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36807,
+      "category": "Heißluftballons",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36823,
+      "category": "AutoPay",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36828,
+      "category": "Nationalhymne",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36831,
+      "category": "Weltrekorde",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36834,
+      "category": "Fondue",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36835,
+      "category": "Passwörter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36837,
+      "category": "Wetter",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36838,
+      "category": "Weihnachtsbäume",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36866,
+      "category": "Graffiti",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36867,
+      "category": "Handschrift",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36868,
+      "category": "Pullover",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36869,
+      "category": "Clowns",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36904,
+      "category": "Kuscheltiere",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36906,
+      "category": "Hochzeitszusagen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36908,
+      "category": "Ersatzschlüssel",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36909,
+      "category": "Weinkorken",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36911,
+      "category": "Spitznamen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36916,
+      "category": "Ständer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36917,
+      "category": "Brettspiele",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36918,
+      "category": "Fitnesstudios",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36924,
+      "category": "Selbstgespräche",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36935,
+      "category": "Fast und Furious",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36947,
+      "category": "Socken in Sandalen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36954,
+      "category": "Kappen rückwärts",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36958,
+      "category": "Salz",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36970,
+      "category": "Puzzle",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36981,
+      "category": "Eiswürfel",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36985,
+      "category": "Wald",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36992,
+      "category": "Sitzen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36993,
+      "category": "Kirchliche Zusammenschlüsse",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36998,
+      "category": "Pfeifen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36999,
+      "category": "Müsli",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37000,
+      "category": "Fäustlinge gegen Handschuhe",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37001,
+      "category": "Mondlandung",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37005,
+      "category": "Aquarien",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37007,
+      "category": "Sandwich-Krusten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37008,
+      "category": "Abschlussball",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37010,
+      "category": "Dosenchili",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37013,
+      "category": "Gespräche",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37018,
+      "category": "Autoscooter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37021,
+      "category": "Möchtegernwissenschaft",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37027,
+      "category": "Dieter Bohlen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37053,
+      "category": "Fluchen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37054,
+      "category": "Nochmal nachschauen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37056,
+      "category": "Bücher",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37068,
+      "category": "Black Friday",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37069,
+      "category": "Diäten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37070,
+      "category": "Emojis",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37071,
+      "category": "Bingewatchen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37079,
+      "category": "Adele",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37080,
+      "category": "Kleiderschränke",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37082,
+      "category": "Draußen-Schläfer",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37083,
+      "category": "Nacktchats",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37088,
+      "category": "Zehenringe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37089,
+      "category": "Jonglieren",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37091,
+      "category": "Fallschirmspringer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37094,
+      "category": "Astrologie",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37096,
+      "category": "Lagerfeuer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37097,
+      "category": "Brennholz",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37098,
+      "category": "Niesen",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37101,
+      "category": "Zauberwürfel",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37107,
+      "category": "Öffentliche Redner",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37110,
+      "category": "Der Mittelfinger",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37113,
+      "category": "Faxen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37141,
+      "category": "Dosenlaschen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37142,
+      "category": "DVD Sammlungen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37146,
+      "category": "Kurze Hosen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37151,
+      "category": "Area 51",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37152,
+      "category": "Göffel",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37154,
+      "category": "Hockey Pucks",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37155,
+      "category": "Essen zurückgeben",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37156,
+      "category": "Flugzeugplätze",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37158,
+      "category": "Vampire",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37160,
+      "category": "Vokuhila",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37161,
+      "category": "To-Do Listen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37224,
+      "category": "Greifautomaten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37225,
+      "category": "Hip Hop Tänze",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37228,
+      "category": "Zungenküsse",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37230,
+      "category": "Statuen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37231,
+      "category": "Perücken",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37239,
+      "category": "Unterschriften",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37307,
+      "category": "Zahnbürsten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37309,
+      "category": "Kondome",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37312,
+      "category": "Piercings",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37313,
+      "category": "Zahnärzte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37314,
+      "category": "Liebesbriefe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37315,
+      "category": "Brieföffner",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37317,
+      "category": "Fingerknacken",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37328,
+      "category": "Essen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37329,
+      "category": "Katzen gegen Hunde",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37330,
+      "category": "Teurer Alkohol",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37334,
+      "category": "Bargeld",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37335,
+      "category": "Mechanische Bullen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37336,
+      "category": "Schimpansen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37338,
+      "category": "Monatsclubs",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37341,
+      "category": "Schreien",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37342,
+      "category": "Frisbee",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37344,
+      "category": "Bayern",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37346,
+      "category": "Fernseher",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37347,
+      "category": "Superkräfte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37361,
+      "category": "Rolltreppen",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37362,
+      "category": "Eis",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37363,
+      "category": "Kakteen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37365,
+      "category": "Kamelberührungen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37366,
+      "category": "Mittelaltermärkte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37370,
+      "category": "Naseputzen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37384,
+      "category": "Angeln im TV",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37386,
+      "category": "Shuffleboard",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37388,
+      "category": "Urlaubsplanung",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37396,
+      "category": "Furzkissen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37399,
+      "category": "Katzen im Käfig",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37401,
+      "category": "Verkausautomaten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37428,
+      "category": "Trocknertücher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37435,
+      "category": "Brownies",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37437,
+      "category": "Berlin vs. Köln",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37439,
+      "category": "Promi Sprecher",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37494,
+      "category": "Kniffel",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37498,
+      "category": "Hustenbonbons",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37506,
+      "category": "Esstäbchen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37512,
+      "category": "Zweite Vornamen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37515,
+      "category": "Minigolf",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37518,
+      "category": "Millionäre",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37519,
+      "category": "Getränkemischer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37534,
+      "category": "Hotelkriminalität",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37535,
+      "category": "Schreibtischstühle",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37538,
+      "category": "Döner Donnerstage",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37544,
+      "category": "Politiker",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37545,
+      "category": "Vergraben",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37548,
+      "category": "Gewürze",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37554,
+      "category": "<i>Cards Against Humanity</i>",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37556,
+      "category": "Froschschenkel",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37557,
+      "category": "Schuhe",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37559,
+      "category": "Steuern",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37563,
+      "category": "Musicals",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37564,
+      "category": "Leitungswasser",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37568,
+      "category": "<i>Loriot</i>",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37569,
+      "category": "Mitarbeiterkonflikte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37572,
+      "category": "Nutella mit Butter",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37575,
+      "category": "Brotbrösel",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37577,
+      "category": "Schulbücher",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37589,
+      "category": "Kettensägen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37593,
+      "category": "Oberstufenschüler",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37594,
+      "category": "Essen am Arbeitsplatz",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37597,
+      "category": "Hängematten",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37600,
+      "category": "Beschriftete Shorts",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37607,
+      "category": "Ausschnitte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37618,
+      "category": "Wer wird Millionär",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37623,
+      "category": "Grußkarten",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37627,
+      "category": "Zungen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37628,
+      "category": "ProSieben",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37631,
+      "category": "Superkräfte",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37638,
+      "category": "Kerzen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37650,
+      "category": "Alleine reisen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37653,
+      "category": "Happy Meals",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37656,
+      "category": "Deutsche Post",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37657,
+      "category": "Sänger",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37659,
+      "category": "Kokosnüsse",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37661,
+      "category": "Flugzeugtoiletten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37668,
+      "category": "Musik in Dauerschleife",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37675,
+      "category": "Zaubertricks",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37676,
+      "category": "Twinkies",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37692,
+      "category": "Diskussionen mit Beamten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37695,
+      "category": "Straftaten",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37710,
+      "category": "Bibliotheken",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37713,
+      "category": "Mountain Dew Mischer",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37715,
+      "category": "Discounter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37717,
+      "category": "Bücherwürmer",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37722,
+      "category": "DVDs",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37741,
+      "category": "Hai Filme",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37747,
+      "category": "Frühstück",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37776,
+      "category": "80er Musik",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37778,
+      "category": "Peinliche Videos",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37779,
+      "category": "Kameras",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37780,
+      "category": "Wäsche",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37790,
+      "category": "TV Freunde",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37793,
+      "category": "Karierte Hemden",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37794,
+      "category": "Webseitenlisten",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37798,
+      "category": "Internetsuchen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37799,
+      "category": "Das Theater",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37800,
+      "category": "Bauernmärkte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37801,
+      "category": "YouTube",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37803,
+      "category": "Quiona",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37808,
+      "category": "Neuer Job",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37813,
+      "category": "Seitenwagen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37819,
+      "category": "Erstmal benutzen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37824,
+      "category": "Ketchup Flaschen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37827,
+      "category": "LEGOs",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37830,
+      "category": "Bielefeld",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37835,
+      "category": "Marshmallows",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37839,
+      "category": "Twitter",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37844,
+      "category": "Mülleimernahrung",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37848,
+      "category": "Nuggets",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37851,
+      "category": "Selbstdiagnose",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37852,
+      "category": "Eurovision Song Contest",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37853,
+      "category": "Körperbehaarung",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37854,
+      "category": "TV Anwälte",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37855,
+      "category": "Starbucks",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37857,
+      "category": "T-Shirts",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37858,
+      "category": "Staubsammeln",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37859,
+      "category": "Metalldetektoren",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37869,
+      "category": "Das Atom",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37870,
+      "category": "Bogenschießen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37873,
+      "category": "Kakao",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37874,
+      "category": "Kabelfernsehen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37880,
+      "category": "Schlimme Frisuren",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37893,
+      "category": "Im Auto lesen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37894,
+      "category": "Glückskekse",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37895,
+      "category": "Zwinkern",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37896,
+      "category": "Trinkgeld",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37897,
+      "category": "Werkzeug",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37900,
+      "category": "Fotoprofis",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37901,
+      "category": "Strandbesuche",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37915,
+      "category": "Super-Bowl Kenner",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37921,
+      "category": "Kühlakkus",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37922,
+      "category": "Hot Dog Wettessen",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37924,
+      "category": "Wettessen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37930,
+      "category": "Filmklassiker",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37937,
+      "category": "Mix Tapes",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37939,
+      "category": "Im Flugzeug schlafen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37943,
+      "category": "Interaktion mit Publikum",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37944,
+      "category": "Gewinnspiele",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37945,
+      "category": "Cartoon Tiere",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37946,
+      "category": "Bindedraht",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38028,
+      "category": "Betriebssysteme",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38030,
+      "category": "Stricken",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38032,
+      "category": "Käfer",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38033,
+      "category": "Autowäsche",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38037,
+      "category": "Bälle",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38038,
+      "category": "Saft",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38043,
+      "category": "Papierflieger",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38046,
+      "category": "Comics",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38048,
+      "category": "Capri-Sonne",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38050,
+      "category": "Schwarze Unterwäsche",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38053,
+      "category": "Wutbürger auf Twitter",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38060,
+      "category": "Blasinstrumente",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38106,
+      "category": "Polizeitour",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38108,
+      "category": "Aliens in Filmen",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38109,
+      "category": "Free-to-Play",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38123,
+      "category": "Detektive",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 38131,
+      "category": "Nutzernamen",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38134,
+      "category": "Berufliche Probleme",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38147,
+      "category": "Festnetz",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38154,
+      "category": "Kaffee",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38166,
+      "category": "Kakao",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38189,
+      "category": "Löffelgröße",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38269,
+      "category": "Wohnsitze",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38322,
+      "category": "Bowling",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38802,
+      "category": "Grautöne",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 39155,
+      "category": "Flugzeugplätze",
+      "type": "mc"
+    }
+  ]
+}

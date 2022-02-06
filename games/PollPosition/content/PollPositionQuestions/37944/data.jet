@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"76","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute wussten NICHT, dass Ice Road Trucker ein Beruf ist, bevor es die Reality Show gab?","n":"QText"},{"t":"S","v":"Broadband Traffic Monitoring","n":"DataMode"},{"t":"S","v":"Wusstest du, dass <i>Ice Road Trucker<\/i> ein Beruf ist, bevor es die Reality Show gab?","n":"PollQ"},{"t":"S","v":"Odd jobs. Unfamiliar arctic careers.","n":"ExpResults"},{"t":"A","v":"528619_1","n":"Response"},{"t":"A","v":"528617_3","n":"Q"},{"t":"A","v":"528620_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben schon einmal bei einem Gewinnspiel im Fernsehen mitgemacht?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du schon einmal bei einem Gewinnspiel im Fernsehen mitgemacht?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Odd jobs. Unfamiliar arctic careers.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "528619_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528617_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "528620_1",
+      "n": "Intro"
+    }
+  ]
+}

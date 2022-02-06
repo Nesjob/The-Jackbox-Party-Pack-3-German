@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"33","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute ziehen DC Comics Charaktere (Superman, Batman, etc.) den Marvel Charakteren (Iron Man, Captain America, etc.) vor?","n":"QText"},{"t":"S","v":"Marvel Comics","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"Bevorzugst du DC Comics Charaktere (Superman, Batman, etc.) oder Marvel Charaktere (Iron Man, Captain America, etc.)?","n":"PollQ"},{"t":"S","v":"DC Comics","n":"Choice0"},{"t":"S","v":"Preferred defenders of the universe: DC vs. Marvel.","n":"ExpResults"},{"t":"A","v":"493097_1","n":"Response"},{"t":"A","v":"493095_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute ziehen DC Comics Charaktere (Superman, Batman, etc.) den Marvel Charakteren (Iron Man, Captain America, etc.) vor?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Marvel Comics",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Consumer Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Bevorzugst du DC Comics Charaktere (Superman, Batman, etc.) oder Marvel Charaktere (Iron Man, Captain America, etc.)?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "DC Comics",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Preferred defenders of the universe: DC vs. Marvel.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493097_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493095_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

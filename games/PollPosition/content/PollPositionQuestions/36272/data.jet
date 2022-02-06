@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"56","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute essen Hühnersuppe, wenn sie erkältet sind?","n":"QText"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Isst du normalerweise Hühnersuppe, wenn du erkältet bist?","n":"PollQ"},{"t":"S","v":"Chicken soup consumption. Cold remedy usage.","n":"ExpResults"},{"t":"A","v":"499637_1","n":"Response"},{"t":"A","v":"499635_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "56",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute essen Hühnersuppe, wenn sie erkältet sind?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Population Profiling",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Isst du normalerweise Hühnersuppe, wenn du erkältet bist?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Chicken soup consumption. Cold remedy usage.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499637_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499635_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

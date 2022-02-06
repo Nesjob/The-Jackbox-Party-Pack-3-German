@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"33","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben als Kind ihren Mund mit Seife gewaschen?","n":"QText"},{"t":"S","v":"Agency Informants","n":"DataMode"},{"t":"S","v":"Hast du als Kind einmal deinen Mund mit Seife gewaschen?","n":"PollQ"},{"t":"S","v":"Childhood punishments. Oral detergents.","n":"ExpResults"},{"t":"A","v":"511049_4","n":"Response"},{"t":"A","v":"511047_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben als Kind ihren Mund mit Seife gewaschen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agency Informants",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du als Kind einmal deinen Mund mit Seife gewaschen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Childhood punishments. Oral detergents.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "511049_4",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "511047_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

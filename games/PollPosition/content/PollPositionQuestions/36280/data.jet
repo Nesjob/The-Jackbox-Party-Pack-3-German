@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"3","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Bei wie viel Prozent der Leute wurde aus einer Bekannschaft auf einer Hochzeit eine romantische Beziehung?","n":"QText"},{"t":"S","v":"Social Media Data Mining","n":"DataMode"},{"t":"S","v":"Wurde bei dir aus einer Bekanntschaft auf einer Hochzeit einmal eine romantische Beziehung?","n":"PollQ"},{"t":"S","v":"Nuptial guests. Romantic networking.","n":"ExpResults"},{"t":"A","v":"499773_1","n":"Response"},{"t":"A","v":"499771_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Bei wie viel Prozent der Leute wurde aus einer Bekannschaft auf einer Hochzeit eine romantische Beziehung?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Social Media Data Mining",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Wurde bei dir aus einer Bekanntschaft auf einer Hochzeit einmal eine romantische Beziehung?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nuptial guests. Romantic networking.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499773_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499771_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

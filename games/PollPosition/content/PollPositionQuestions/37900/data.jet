@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"24","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"Males","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Männer haben ihre Haare einmal in einem typischen Barbershop machen lassen?","n":"QText"},{"t":"S","v":"Closed Circuit TV","n":"DataMode"},{"t":"S","v":"An die Männer: Hast du deine Haare einmal in einem typischen Barbershop machen lassen?","n":"PollQ"},{"t":"S","v":"Symbols of the hair trade. Swirling, stationary.","n":"ExpResults"},{"t":"A","v":"527989_1","n":"Response"},{"t":"A","v":"527987_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "20",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute besitzen eine professionelle Fotokamera?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Besitzt du eine professionelle Fotokamera?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Symbols of the hair trade. Swirling, stationary.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527989_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527987_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,82 +1,82 @@
 {
-    "fields": [
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasIntro"
-        },
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasResponse"
-        },
-        {
-            "t": "N",
-            "v": "29",
-            "n": "A"
-        },
-        {
-            "t": "N",
-            "v": "0",
-            "n": "PollAns"
-        },
-        {
-            "t": "S",
-            "v": "",
-            "n": "Target"
-        },
-        {
-            "t": "S",
-            "v": "mc",
-            "n": "Type"
-        },
-        {
-            "t": "S",
-            "v": "Wie viel Prozent der Leute lassen ihre Tankanzeige bis oder unter E gehen, bevor sie nachtanken?",
-            "n": "QText"
-        },
-        {
-            "t": "S",
-            "v": "recht tief, aber selten bis E",
-            "n": "Choice1"
-        },
-        {
-            "t": "S",
-            "v": "GPS",
-            "n": "DataMode"
-        },
-        {
-            "t": "S",
-            "v": "ungefähr ein Viertel voll",
-            "n": "Choice2"
-        },
-        {
-            "t": "S",
-            "v": "Wie weit lässt du im Normalfall deine Tankanzeige gehen vorm Nachtanken?",
-            "n": "PollQ"
-        },
-        {
-            "t": "S",
-            "v": "bis oder unter E",
-            "n": "Choice0"
-        },
-        {
-            "t": "S",
-            "v": "Tankauffüll-Glücksspiel. Weniger als leer.",
-            "n": "ExpResults"
-        },
-        {
-            "t": "A",
-            "n": "Response"
-        },
-        {
-            "t": "A",
-            "v": "480250_1",
-            "n": "Q"
-        },
-        {
-            "t": "A",
-            "n": "Intro"
-        }
-    ]
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute lassen ihre Tankanzeige bis oder unter E gehen, bevor sie nachtanken?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "recht tief, aber selten bis E",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "GPS",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "ungefähr ein Viertel voll",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wie weit lässt du im Normalfall deine Tankanzeige gehen vorm Nachtanken?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "bis oder unter E",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Tankauffüll-Glücksspiel. Weniger als leer.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480250_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
 }

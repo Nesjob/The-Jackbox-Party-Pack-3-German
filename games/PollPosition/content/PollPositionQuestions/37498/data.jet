@@ -1,1 +1,67 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"41","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute lutschen ein Hustenbonbon, auch wenn sie nicht erkältet sind?","n":"QText"},{"t":"S","v":"Human Microchip","n":"DataMode"},{"t":"S","v":"Lutschst du ein Hustenbonbon, auch wenn du nicht erkältet bist?","n":"PollQ"},{"t":"S","v":"Cough drop consumption, abuse.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"522091_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "41",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute lutschen ein Hustenbonbon, auch wenn sie nicht erkältet sind?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Human Microchip",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lutschst du ein Hustenbonbon, auch wenn du nicht erkältet bist?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Cough drop consumption, abuse.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "522091_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

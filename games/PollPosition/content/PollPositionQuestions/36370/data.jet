@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"70","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben einen eingehenden Anruf oder Textnachricht vorgetäuscht, um aus einem Gespräch herauszukommen?","n":"QText"},{"t":"S","v":"Field Operatives","n":"DataMode"},{"t":"S","v":"Hast du einmal einen eingehenden Anruf oder Textnachricht vorgetäuscht, um aus einem Gespräch herauszukommen?","n":"PollQ"},{"t":"S","v":"Communication devices. Conversation killers.","n":"ExpResults"},{"t":"A","v":"501567_1","n":"Response"},{"t":"A","v":"501565_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "70",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben einen eingehenden Anruf oder Textnachricht vorgetäuscht, um aus einem Gespräch herauszukommen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Field Operatives",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du einmal einen eingehenden Anruf oder Textnachricht vorgetäuscht, um aus einem Gespräch herauszukommen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Communication devices. Conversation killers.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "501567_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501565_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"51","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Gäste können sich NICHT sofort die Restaurant-Spezialitäten merken, nachdem der Kellner sie ihnen vorgetragen hat?","n":"QText"},{"t":"S","v":"Covert Stakeout","n":"DataMode"},{"t":"S","v":"Kannst du dir sofort die Restaurant-Spezialitäten merken, nachdem der Kellner sie vorgetragen hat?","n":"PollQ"},{"t":"S","v":"Short-term menu items, memory.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"501327_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "51",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Gäste können sich NICHT sofort die Restaurant-Spezialitäten merken, nachdem der Kellner sie ihnen vorgetragen hat?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Covert Stakeout",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Kannst du dir sofort die Restaurant-Spezialitäten merken, nachdem der Kellner sie vorgetragen hat?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Short-term menu items, memory.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501327_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

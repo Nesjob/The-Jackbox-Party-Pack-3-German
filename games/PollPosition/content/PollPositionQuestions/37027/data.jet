@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"13","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute können die sechs erwachsenen Kardashian/Jenner Kinder benennen?","n":"QText"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Kannst du die sechs erwachsenen Kardashian/Jenner Kinder benennen?","n":"PollQ"},{"t":"S","v":"Fame awareness. Reality star recognition.","n":"ExpResults"},{"t":"A","v":"516227_1","n":"Response"},{"t":"A","v":"516225_1","n":"Q"},{"t":"A","v":"516228_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute finden Dieter Bohlen sympathisch?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Findest du Dieter Bohlen sympathisch?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Modern Talking. Sympathiepunkte.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "516227_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "516225_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "516228_1",
+      "n": "Intro"
+    }
+  ]
+}

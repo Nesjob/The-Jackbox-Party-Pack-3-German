@@ -1,62 +1,83 @@
 {
-    "fields": [{
-        "t": "B",
-        "v": "false",
-        "n": "HasIntro"
-    }, {
-        "t": "B",
-        "v": "true",
-        "n": "HasResponse"
-    }, {
-        "t": "N",
-        "v": "46",
-        "n": "A"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "PollAns"
-    }, {
-        "t": "S",
-        "v": "",
-        "n": "Target"
-    }, {
-        "t": "S",
-        "v": "mc",
-        "n": "Type"
-    }, {
-        "t": "S",
-        "v": "Wie viel Prozent der Leute nehmen einen Oreo vorm Essen auseinander?",
-        "n": "QText"
-    }, {
-        "t": "S",
-        "v": "Ich nehme ihn auseinander.",
-        "n": "Choice1"
-    }, {
-        "t": "S",
-        "v": "Population Profiling",
-        "n": "DataMode"
-    }, {
-        "t": "S",
-        "v": "Isst du normalerweise einen Oreo ganz oder nimmst du ihn vorher auseinander?",
-        "n": "PollQ"
-    }, {
-        "t": "S",
-        "v": "Ich essen ihn komplett.",
-        "n": "Choice0"
-    }, {
-        "t": "S",
-        "v": "Sandwich cookie pre-ingestion dissection.",
-        "n": "ExpResults"
-    }, {
-        "t": "A",
-        "v": "480276_1",
-        "n": "Response"
-    }, {
-        "t": "A",
-        "v": "480274_2",
-        "n": "Q"
-    }, {
-        "t": "A",
-        "n": "Intro"
-    }]
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute nehmen einen Oreo vor dem Essen auseinander?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Ich nehme ihn auseinander.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Isst du normalerweise einen Oreo ganz oder nimmst du ihn vorher auseinander?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ich essen ihn komplett.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Sandwich cookie pre-ingestion dissection.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480276_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480274_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
 }

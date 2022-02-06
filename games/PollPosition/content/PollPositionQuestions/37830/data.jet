@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"26","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute glauben, dass Bigfoot existiert?","n":"QText"},{"t":"S","v":"Social Media Data Mining","n":"DataMode"},{"t":"S","v":"Existiert Bigfoot?","n":"PollQ"},{"t":"S","v":"Urban legends. Sasquatch plausibility.","n":"ExpResults"},{"t":"A","v":"526941_1","n":"Response"},{"t":"A","v":"526939_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "49",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute sind sich nicht sicher, ob Bielefeld existiert?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Existiert Bielefeld?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Urban legends. Sasquatch plausibility.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526941_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526939_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

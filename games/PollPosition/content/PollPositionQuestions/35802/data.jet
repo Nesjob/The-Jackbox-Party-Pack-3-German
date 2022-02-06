@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"36","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute ziehen <i>Family Guy<\/i> den <i>Simpsons<\/i> vor?","n":"QText"},{"t":"S","v":"<i>Family Guy<\/i>","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Bevorzugst du <i>Die Simpsons<\/i> oder <i>Family Guy<\/i>?","n":"PollQ"},{"t":"S","v":"<i>Die Simpsons<\/i>","n":"Choice0"},{"t":"S","v":"Dysfunctional prime time households. <i>The Simpsons<\/i> vs. <i>Family Guy.<\/i>","n":"ExpResults"},{"t":"A","v":"485404_1","n":"Response"},{"t":"A","v":"485402_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute ziehen <i>Family Guy</i> den <i>Simpsons</i> vor?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Family Guy</i>",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Faked Focus-Group Study",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Bevorzugst du <i>Die Simpsons</i> oder <i>Family Guy</i>?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Die Simpsons</i>",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Dysfunctional prime time households. <i>The Simpsons</i> vs. <i>Family Guy.</i>",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "485404_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485402_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

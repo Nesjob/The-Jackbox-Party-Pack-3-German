@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"75","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wenn man auf YouTube einen 30-Sekunden-Werbeclip vor dem eigentlichen Video abwarten muss, wie viel Prozent der Zuschauer gucken ihn nicht?","n":"QText"},{"t":"S","v":"Laufen lassen, aber währenddessen etwas anderes tun.","n":"Choice1"},{"t":"S","v":"Broadband Traffic Monitoring","n":"DataMode"},{"t":"S","v":"abbrechen","n":"Choice2"},{"t":"S","v":"Wenn du vor dem YouTube Video einen 30-Sekunden-Werbeclip abwarten musst, was tust du?","n":"PollQ"},{"t":"S","v":"die Werbung schauen","n":"Choice0"},{"t":"S","v":"Internet advertising patience. Wait tolerance.","n":"ExpResults"},{"t":"A","v":"526511_1","n":"Response"},{"t":"A","v":"526509_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "75",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wenn man auf YouTube einen 30-Sekunden-Werbeclip vor dem eigentlichen Video abwarten muss, wie viel Prozent der Zuschauer gucken ihn nicht?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Laufen lassen, aber währenddessen etwas anderes tun.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Broadband Traffic Monitoring",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "abbrechen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du vor dem YouTube Video einen 30-Sekunden-Werbeclip abwarten musst, was tust du?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "die Werbung schauen",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Internet advertising patience. Wait tolerance.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526511_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526509_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

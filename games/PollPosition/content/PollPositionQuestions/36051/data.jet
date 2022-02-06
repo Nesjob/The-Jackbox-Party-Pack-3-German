@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"17","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben regelmÃ¤ÃŸig ein Deja-vu-Erlebnis?","n":"QText"},{"t":"S","v":"Nie","n":"Choice3"},{"t":"S","v":"manchmal","n":"Choice1"},{"t":"S","v":"Human Microchip","n":"DataMode"},{"t":"S","v":"selten","n":"Choice2"},{"t":"S","v":"Wie oft hast du ein Deja-vu-Erlebnis?","n":"PollQ"},{"t":"S","v":"regelmÃ¤ÃŸig","n":"Choice0"},{"t":"S","v":"Eerie paranormal experience. Eerie paranormal experience.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"493797_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben regelmäßig ein Deja-vu-Erlebnis?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "manchmal",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Human Microchip",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "selten",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wie oft hast du ein Deja-vu-Erlebnis?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "regelmäßig",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Eerie paranormal experience. Eerie paranormal experience.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493797_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

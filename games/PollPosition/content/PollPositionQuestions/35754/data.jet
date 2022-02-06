@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"25","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute möchten ihr Blut lieber vom rechten Arm abgenommen haben?","n":"QText"},{"t":"S","v":"Rechter Arm","n":"Choice1"},{"t":"S","v":"Human Microchip","n":"DataMode"},{"t":"S","v":"Egal","n":"Choice2"},{"t":"S","v":"Von welchem Arm möchtest du lieber Blut abgenommen haben?","n":"PollQ"},{"t":"S","v":"Left arm","n":"Choice0"},{"t":"S","v":"Phlebotomy conundrums. Arm preference.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"484002_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute möchten ihr Blut lieber vom rechten Arm abgenommen haben?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Rechter Arm",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Human Microchip",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Egal",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Von welchem Arm möchtest du lieber Blut abgenommen haben?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Left arm",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Phlebotomy conundrums. Arm preference.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "484002_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

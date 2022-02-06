@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"62","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute mögen glatte Erdnussbutter lieber als Erdnussbutter mit Stückchen?","n":"QText"},{"t":"S","v":"glatt","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Glatte Erdnussbutter oder welche mit Stückchen?","n":"PollQ"},{"t":"S","v":"mit Stückchen","n":"Choice0"},{"t":"S","v":"Sandwich spreads. Textural choices.","n":"ExpResults"},{"t":"A","v":"497669_1","n":"Response"},{"t":"A","v":"497667_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "40",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute mögen Oliven?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Magst du Oliven?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sandwich spreads. Textural choices.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497669_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497667_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

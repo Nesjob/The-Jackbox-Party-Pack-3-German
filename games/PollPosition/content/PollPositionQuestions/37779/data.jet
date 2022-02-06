@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"9","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute benutzen für Schnappschüsse richtige Fotokameras?","n":"QText"},{"t":"S","v":"Fotokamera","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"Was benutzt du für Fotos am häufigsten?","n":"PollQ"},{"t":"S","v":"Handy","n":"Choice0"},{"t":"S","v":"Image capture devices. Traditional models.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"526156_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute benutzen für Schnappschüsse richtige Fotokameras?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fotokamera",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Consumer Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Was benutzt du für Fotos am häufigsten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Handy",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Image capture devices. Traditional models.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526156_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

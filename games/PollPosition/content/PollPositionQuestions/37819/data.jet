@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"4","n":"A"},{"t":"N","v":"2","n":"PollAns"},{"t":"S","v":"Females","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Frauen tragen neue Kleidung mit dem Preisschild, bevor sie entscheiden, ob sie es zurückschicken?","n":"QText"},{"t":"S","v":"Sometimes","n":"Choice1"},{"t":"S","v":"Robotic Spy Hummingbirds","n":"DataMode"},{"t":"S","v":"Regularly","n":"Choice2"},{"t":"S","v":"An die Frauen: Trägst du neue Kleidung mit Preisschild, bevor du entscheidest, ob du es zurückschickst?","n":"PollQ"},{"t":"S","v":"Never","n":"Choice0"},{"t":"S","v":"Apparel attachments. Worn price tags.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"526757_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Frauen",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Frauen tragen neue Kleidung mit dem Preisschild, bevor sie entscheiden, ob sie es zurückschicken?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Sometimes",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Robotic Spy Hummingbirds",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Regularly",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "An die Frauen: Trägst du neue Kleidung mit Preisschild, bevor du entscheidest, ob du es zurückschickst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Never",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Apparel attachments. Worn price tags.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526757_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

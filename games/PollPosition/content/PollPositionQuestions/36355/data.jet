@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"47","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben komplette Lutscher konsumiert OHNE zu beißen?","n":"QText"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Hast du jemals einen Lutscher konsumiert ohne zu beißen?","n":"PollQ"},{"t":"S","v":"Sucker consumption. Herculean restraint.","n":"ExpResults"},{"t":"A","v":"501312_1","n":"Response"},{"t":"A","v":"501310_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "47",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben komplette Lutscher konsumiert OHNE zu beißen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Hidden Home Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du jemals einen Lutscher konsumiert ohne zu beißen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sucker consumption. Herculean restraint.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "501312_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501310_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

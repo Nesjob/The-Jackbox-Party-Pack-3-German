@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"15","n":"A"},{"t":"N","v":"2","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben in ihrem Leben NIE Brunch gegessen?","n":"QText"},{"t":"S","v":"vor über einem Monat","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"nie","n":"Choice2"},{"t":"S","v":"Wann hast du das letzte Mal Brunch gegessen?","n":"PollQ"},{"t":"S","v":"im letzten Monat","n":"Choice0"},{"t":"S","v":"Breakfast/lunch hybrids. Outright rejection.","n":"ExpResults"},{"t":"A","v":"510907_1","n":"Response"},{"t":"A","v":"510905_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben in ihrem Leben NIE Brunch gegessen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "vor über einem Monat",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Population Profiling",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "nie",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wann hast du das letzte Mal Brunch gegessen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "im letzten Monat",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Breakfast/lunch hybrids. Outright rejection.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "510907_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "510905_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

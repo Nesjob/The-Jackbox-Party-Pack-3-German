@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"39","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute sind vor 5 Uhr morgens aufgestanden, um Black Friday Angebote zu bekommen?","n":"QText"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"Bist du schon einmal vor 5 Uhr morgens aufgestanden, um ein Black Friday Angebot zu bekommen?","n":"PollQ"},{"t":"S","v":"Post-turkey holiday sales. Sleep sacrifice.","n":"ExpResults"},{"t":"A","v":"516903_1","n":"Response"},{"t":"A","v":"516901_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "39",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute sind vor 5 Uhr morgens aufgestanden, um Black Friday Angebote zu bekommen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Consumer Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Bist du schon einmal vor 5 Uhr morgens aufgestanden, um ein Black Friday Angebot zu bekommen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Post-turkey holiday sales. Sleep sacrifice.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "516903_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "516901_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

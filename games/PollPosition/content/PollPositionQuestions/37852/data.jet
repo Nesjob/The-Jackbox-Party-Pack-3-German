@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"33","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute fühlen sich zu Donatello stärker hingezogen als zu den anderen Teenage Mutant Ninja Turtles?","n":"QText"},{"t":"S","v":"Michelangelo","n":"Choice3"},{"t":"S","v":"Donatello","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Raphael","n":"Choice2"},{"t":"S","v":"Zu welcher Teenage Mutant Ninja Turtle fühlst du dich am meisten hingezogen?","n":"PollQ"},{"t":"S","v":"Leonardo","n":"Choice0"},{"t":"S","v":"Shelled reptile bonding. Renaissance artist affinities.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"527248_1","n":"Q"},{"t":"A","v":"527251_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben schon mal beim Eurovision Song Contest per Telefon abgestimmt?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du beim Eurovision Song Contest schon mal per Telefon abgestimmt?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Shelled reptile bonding. Renaissance artist affinities.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527248_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "527251_1",
+      "n": "Intro"
+    }
+  ]
+}

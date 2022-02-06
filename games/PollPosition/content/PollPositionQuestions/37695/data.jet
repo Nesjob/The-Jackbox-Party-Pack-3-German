@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"23","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben Zeitschriften aus einem Krankenhaus oder Wartezimmer mit nach Hause genommen?","n":"QText"},{"t":"S","v":"Security Cam","n":"DataMode"},{"t":"S","v":"Hast du schon einmal eine Zeitschrift aus einem Krankenhaus oder Wartezimmer mit nach Hause genommen?","n":"PollQ"},{"t":"S","v":"Waiting room periodicals. Petty theft.","n":"ExpResults"},{"t":"A","v":"525066_1","n":"Response"},{"t":"A","v":"525064_1","n":"Q"},{"t":"A","v":"525067_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben Zeitschriften aus einem Krankenhaus oder Wartezimmer mit nach Hause genommen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Security Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du schon einmal eine Zeitschrift aus einem Krankenhaus oder Wartezimmer mit nach Hause genommen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Waiting room periodicals. Petty theft.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525066_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525064_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "525067_1",
+      "n": "Intro"
+    }
+  ]
+}

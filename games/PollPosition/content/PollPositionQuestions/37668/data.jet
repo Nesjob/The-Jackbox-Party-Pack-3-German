@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"42","n":"A"},{"t":"N","v":"2","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben \u201cLet It Go\u201d aus <i>Frozen<\/i> mehr als 20-mal in voller Länge gehört?","n":"QText"},{"t":"S","v":"10-20-mal","n":"Choice1"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"mehr als 20-mal","n":"Choice2"},{"t":"S","v":"Wie oft hast du aus <i>Frozen<\/i> den Song \u201cLet It Go\u201d in voller Länge gehört?","n":"PollQ"},{"t":"S","v":"0-10-mal","n":"Choice0"},{"t":"S","v":"Incessant anthems. Ability to let go.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"524724_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben “Let It Go” aus <i>Frozen</i> mehr als 20-mal in voller Länge gehört?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "10-20-mal",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "E-Data Decryption",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "mehr als 20-mal",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wie oft hast du aus <i>Frozen</i> den Song “Let It Go” in voller Länge gehört?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "0-10-mal",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Incessant anthems. Ability to let go.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524724_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

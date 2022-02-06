@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"32","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben einen Golfball mit nichts anderem als einen Putter geschlagen?","n":"QText"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Hast du jemals einen Golfball mit etwas anderem geschlagen als einen Putter?","n":"PollQ"},{"t":"S","v":"Pastime choices. Non-swingers.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"500732_3","n":"Q"},{"t":"A","v":"500735_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute behaupten von sich selber, dass sie gut Golf spielen können?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Würdest du sagen, dass du gut Golf spielen kannst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Pastime choices. Non-swingers.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500732_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "500735_1",
+      "n": "Intro"
+    }
+  ]
+}

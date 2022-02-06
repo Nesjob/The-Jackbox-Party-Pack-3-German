@@ -1,54 +1,68 @@
 {
-    "fields": [{
-        "t": "B",
-        "v": "false",
-        "n": "HasIntro"
-    }, {
-        "t": "B",
-        "v": "true",
-        "n": "HasResponse"
-    }, {
-        "t": "N",
-        "v": "12",
-        "n": "A"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "PollAns"
-    }, {
-        "t": "S",
-        "v": "",
-        "n": "Target"
-    }, {
-        "t": "S",
-        "v": "yn",
-        "n": "Type"
-    }, {
-        "t": "S",
-        "v": "Wie viel Prozent der Leute versuchen zur Kleidung passende Unterwäsche zu finden?",
-        "n": "QText"
-    }, {
-        "t": "S",
-        "v": "Predictive Analytics",
-        "n": "DataMode"
-    }, {
-        "t": "S",
-        "v": "Versuchst du normalerweise, zur Kleidung passende Unterwäsche zu finden?",
-        "n": "PollQ"
-    }, {
-        "t": "S",
-        "v": "Obsessive dressing practices. Garment pairings.",
-        "n": "ExpResults"
-    }, {
-        "t": "A",
-        "v": "480282_1",
-        "n": "Response"
-    }, {
-        "t": "A",
-        "v": "480280_1",
-        "n": "Q"
-    }, {
-        "t": "A",
-        "n": "Intro"
-    }]
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute versuchen zur Kleidung passende Unterwäsche zu finden?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Predictive Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Versuchst du normalerweise, zur Kleidung passende Unterwäsche zu finden?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Obsessive dressing practices. Garment pairings.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480282_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480280_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
 }

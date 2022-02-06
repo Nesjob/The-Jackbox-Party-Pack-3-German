@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"12","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben ein Piercing außerhalb der Ohren?","n":"QText"},{"t":"S","v":"Cell Phone Cam","n":"DataMode"},{"t":"S","v":"Hast du ein Piercing außerhalb der Ohren?","n":"PollQ"},{"t":"S","v":"Fashionable flesh puncture. Non-lobal.","n":"ExpResults"},{"t":"A","v":"519722_2","n":"Response"},{"t":"A","v":"519720_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben ein Piercing außerhalb der Ohren?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Cell Phone Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du ein Piercing außerhalb der Ohren?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Fashionable flesh puncture. Non-lobal.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "519722_2",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519720_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

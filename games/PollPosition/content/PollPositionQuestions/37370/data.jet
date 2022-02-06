@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"35","n":"A"},{"t":"N","v":"2","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute nehmen oft Toilettenpapier zum Naseputzen?","n":"QText"},{"t":"S","v":"Kosmetiktuch","n":"Choice1"},{"t":"S","v":"Satellite Imagery","n":"DataMode"},{"t":"S","v":"Toilettenpapier","n":"Choice2"},{"t":"S","v":"Was nimmst du meistens zum Naseputzen?","n":"PollQ"},{"t":"S","v":"Taschentuch","n":"Choice0"},{"t":"S","v":"Phlegm removal. Square cloth.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"520552_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute nehmen oft Toilettenpapier zum Naseputzen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Kosmetiktuch",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Satellite Imagery",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Toilettenpapier",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Was nimmst du meistens zum Naseputzen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Taschentuch",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Phlegm removal. Square cloth.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520552_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

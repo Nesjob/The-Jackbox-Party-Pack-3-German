@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"33","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute lassen beim Zähneputzen das Wasser laufen?","n":"QText"},{"t":"S","v":"Das Wasser läuft so lange, bis ich fertig bin.","n":"Choice1"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Lässt du beim Zähneputzen das Wasser laufen oder machst du es zwischendurch aus?","n":"PollQ"},{"t":"S","v":"Ich mache es zwischendurch aus.","n":"Choice0"},{"t":"S","v":"Water preservation. Hygiene-related.","n":"ExpResults"},{"t":"A","v":"495977_1","n":"Response"},{"t":"A","v":"495975_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute lassen beim Zähneputzen das Wasser laufen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Das Wasser läuft so lange, bis ich fertig bin.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Hidden Home Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lässt du beim Zähneputzen das Wasser laufen oder machst du es zwischendurch aus?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ich mache es zwischendurch aus.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Water preservation. Hygiene-related.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "495977_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495975_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

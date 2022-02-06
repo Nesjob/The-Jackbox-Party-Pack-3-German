@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"64","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Fußgänger schreiben Textnachrichten beim Laufen?","n":"QText"},{"t":"S","v":"stehen bleiben, dann schreiben","n":"Choice1"},{"t":"S","v":"Aerial Drone","n":"DataMode"},{"t":"S","v":"Wie schreibst du unterwegs normalerweise Textnachrichten?","n":"PollQ"},{"t":"S","v":"beim Laufen","n":"Choice0"},{"t":"S","v":"21st century obliviousness. Perambulatory messaging.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"493044_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "64",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Fußgänger schreiben Textnachrichten beim Laufen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "stehen bleiben, dann schreiben",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Aerial Drone",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wie schreibst du unterwegs normalerweise Textnachrichten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "beim Laufen",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "21st century obliviousness. Perambulatory messaging.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493044_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

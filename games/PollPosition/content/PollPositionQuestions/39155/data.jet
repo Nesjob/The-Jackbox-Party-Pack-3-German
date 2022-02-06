@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"38","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Economy-Class Passagiere finden es unverschämt, wenn der Vordermann die Rückenlehne zurückklappt?","n":"QText"},{"t":"S","v":"I finde es unverschämt.","n":"Choice1"},{"t":"S","v":"Human Microchip","n":"DataMode"},{"t":"S","v":"Es erinnert mich daran, meinen eigenen Sitz zurückzuklappen.","n":"Choice2"},{"t":"S","v":"Wenn du in der Economy-Class fliegst, wie reagierst du, wenn der Vordermann die Rückenlehne zurückklappt?","n":"PollQ"},{"t":"S","v":"Es stört mich nicht.","n":"Choice0"},{"t":"S","v":"Mid-flight reclining. Rudeness quotients.","n":"ExpResults"},{"t":"A","v":"540169_1","n":"Response"},{"t":"A","v":"540167_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Economy-Class Passagiere finden es unverschämt, wenn der Vordermann die Rückenlehne zurückklappt?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "I finde es unverschämt.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Human Microchip",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Es erinnert mich daran, meinen eigenen Sitz zurückzuklappen.",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du in der Economy-Class fliegst, wie reagierst du, wenn der Vordermann die Rückenlehne zurückklappt?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Es stört mich nicht.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mid-flight reclining. Rudeness quotients.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "540169_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "540167_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

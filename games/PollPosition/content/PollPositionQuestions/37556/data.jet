@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"28","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben Froschschenkel gegessen?","n":"QText"},{"t":"S","v":"Predictive Analytics","n":"DataMode"},{"t":"S","v":"Hast du jemals Froschschenkel gegessen?","n":"PollQ"},{"t":"S","v":"Amphibian cuisine. Devourance ratios.","n":"ExpResults"},{"t":"A","v":"522962_1","n":"Response"},{"t":"A","v":"522960_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "28",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben Froschschenkel gegessen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Predictive Analytics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du jemals Froschschenkel gegessen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Amphibian cuisine. Devourance ratios.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "522962_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "522960_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

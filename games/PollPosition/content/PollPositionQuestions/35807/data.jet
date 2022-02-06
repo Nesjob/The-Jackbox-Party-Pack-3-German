@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"30","n":"A"},{"t":"N","v":"2","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben im letzten Jahr keinen Roman gelesen?","n":"QText"},{"t":"S","v":"1-4","n":"Choice1"},{"t":"S","v":"Social Media Data Mining","n":"DataMode"},{"t":"S","v":"0","n":"Choice2"},{"t":"S","v":"Wie viele Romane hast du im letzten Jahr gelesen?","n":"PollQ"},{"t":"S","v":"5 oder mehr","n":"Choice0"},{"t":"S","v":"Literacy engagement. Novel avoidance.","n":"ExpResults"},{"t":"A","v":"485434_0","n":"Response"},{"t":"A","v":"485432_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "46",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben im letzten Jahr einen Roman gelesen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": 0,
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Befragung der deutschen Community",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wie viele Romane hast du im letzten Jahr gelesen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "1 oder mehr",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Literacy engagement. Novel avoidance.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "485434_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485432_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

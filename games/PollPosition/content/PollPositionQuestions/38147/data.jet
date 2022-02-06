@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"35","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben noch einen Festnetzanschluss?","n":"QText"},{"t":"S","v":"Telecom Interception","n":"DataMode"},{"t":"S","v":"Hast du aktuell noch einen Festnetzanschluss?","n":"PollQ"},{"t":"S","v":"Telephony interactions. Domicile-related.","n":"ExpResults"},{"t":"A","v":"530877_1","n":"Response"},{"t":"A","v":"530875_4","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben noch einen Festnetzanschluss?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Telecom Interception",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du aktuell noch einen Festnetzanschluss?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Telephony interactions. Domicile-related.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "530877_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530875_4",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

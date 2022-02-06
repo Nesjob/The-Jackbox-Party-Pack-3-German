@@ -1,1 +1,82 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"38","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute zwinkern mit dem linken Auge?","n":"QText"},{"t":"S","v":"rechts","n":"Choice1"},{"t":"S","v":"Biometrics","n":"DataMode"},{"t":"S","v":"Mit welchem Auge zwinkerst du?","n":"PollQ"},{"t":"S","v":"links","n":"Choice0"},{"t":"S","v":"Sexy facial muscle contractions. Left eye vs. right eye.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"527902_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute zwinkern mit dem linken Auge?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "rechts",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biometrics",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Mit welchem Auge zwinkerst du?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "links",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Sexy facial muscle contractions. Left eye vs. right eye.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527902_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

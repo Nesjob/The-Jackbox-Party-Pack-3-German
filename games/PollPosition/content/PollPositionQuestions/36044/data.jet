@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"4","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute waren letztes Jahr inlineskaten?","n":"QText"},{"t":"S","v":"vor über einem Jahr","n":"Choice1"},{"t":"S","v":"Robotic Spy Hummingbirds","n":"DataMode"},{"t":"S","v":"nie","n":"Choice2"},{"t":"S","v":"Wann warst du das letzte Mal inlineskaten?","n":"PollQ"},{"t":"S","v":"innerhalb des letzten Jahres","n":"Choice0"},{"t":"S","v":"Inline skate usage. General experience.","n":"ExpResults"},{"t":"A","v":"493584_3","n":"Response"},{"t":"A","v":"493582_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute waren letztes Jahr inlineskaten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "vor über einem Jahr",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Robotic Spy Hummingbirds",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "nie",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wann warst du das letzte Mal inlineskaten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "innerhalb des letzten Jahres",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Inline skate usage. General experience.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493584_3",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493582_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

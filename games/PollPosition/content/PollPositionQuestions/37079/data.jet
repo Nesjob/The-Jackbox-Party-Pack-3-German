@@ -1,1 +1,68 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"16","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben beim Hören von Adele geweint?","n":"QText"},{"t":"S","v":"Hidden-Microphone Fake Rocks","n":"DataMode"},{"t":"S","v":"Musstest du beim Hören von Adele einmal weinen?","n":"PollQ"},{"t":"S","v":"Emotionally evocative singers. British.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"517043_1","n":"Q"},{"t":"A","v":"517046_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": false,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben beim Hören von Adele geweint?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Hidden-Microphone Fake Rocks",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Musstest du beim Hören von Adele einmal weinen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Emotionally evocative singers. British.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517043_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "517046_1",
+      "n": "Intro"
+    }
+  ]
+}

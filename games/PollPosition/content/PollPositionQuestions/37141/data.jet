@@ -1,1 +1,83 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"43","n":"A"},{"t":"N","v":"1","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"mc","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute fummeln beim Trinken einer Getränkedose an der Lasche herum, entfernen sie aber nicht?","n":"QText"},{"t":"S","v":"Ich fummle damit, aber meistens bleibt sie dran.","n":"Choice1"},{"t":"S","v":"Cell Phone Cam","n":"DataMode"},{"t":"S","v":"Nein","n":"Choice2"},{"t":"S","v":"Wenn du eine Getränkedose trinkst, entfernst du die Lasche?","n":"PollQ"},{"t":"S","v":"Ja, muss ich.","n":"Choice0"},{"t":"S","v":"Can handling. Aluminum accessory removal.","n":"ExpResults"},{"t":"A","v":"517849_1","n":"Response"},{"t":"A","v":"517847_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "43",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute fummeln beim Trinken einer Getränkedose an der Lasche herum, entfernen sie aber nicht?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Ich fummle damit, aber meistens bleibt sie dran.",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Cell Phone Cam",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Nein",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du eine Getränkedose trinkst, entfernst du die Lasche?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ja, muss ich.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Can handling. Aluminum accessory removal.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "517849_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517847_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

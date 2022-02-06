@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"7","n":"A"},{"t":"N","v":"0","n":"PollAns"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"yn","n":"Type"},{"t":"S","v":"Wie viel Prozent der Leute haben wissentlich ein Gericht gegessen, das Hoden enthielt?","n":"QText"},{"t":"S","v":"Closed Circuit TV","n":"DataMode"},{"t":"S","v":"Hast du schon einmal wissentlich ein Gericht gegessen, dass Hoden enthielt?","n":"PollQ"},{"t":"S","v":"Specialty menu items. Gonad content.","n":"ExpResults"},{"t":"A","v":"499926_1","n":"Response"},{"t":"A","v":"499924_1","n":"Q"},{"t":"A","v":"499927_1","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": true,
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wie viel Prozent der Leute haben wissentlich ein Gericht gegessen, das Hoden enthielt?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Closed Circuit TV",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hast du schon einmal wissentlich ein Gericht gegessen, dass Hoden enthielt?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Specialty menu items. Gonad content.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499926_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499924_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "499927_1",
+      "n": "Intro"
+    }
+  ]
+}
