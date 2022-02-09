@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "48",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute gruseln sich in Horrorfilmen mehr vor besessenen Puppen als besessenen Kindern?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "besessene Kinder",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Biometrie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Was gruselt dich in Horrorfilmen mehr?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "besessene Puppen",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Innocent but deadly: Evil dolls vs. evil kids.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "488778_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "488776_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"13","n":"Val0"},{"t":"N","v":"8","n":"Val1"},{"t":"N","v":"7","n":"Val2"},{"t":"N","v":"7","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Welche Art von Suppe schlägt alle anderen?","n":"QText"},{"t":"S","v":"Welche Art von Suppe isst du am liebsten?","n":"PollQ"},{"t":"S","v":"Hühner-Nudelsuppe","n":"Choice0"},{"t":"S","v":"Sauer-Scharf-Suppe","n":"Choice7"},{"t":"S","v":"Ofenkartoffelsuppe","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Eiereinlaufsuppe","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"französische Zwiebelsuppe","n":"Choice6"},{"t":"S","v":"sämige Muschelsuppe","n":"Choice3"},{"t":"S","v":"Kartoffelsuppe","n":"Choice4"},{"t":"S","v":"Tomatensuppe","n":"Choice1"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Brokkoli-Cheddar-Suppe","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"509303_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Art von Suppe schlägt alle anderen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Art von Suppe isst du am liebsten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Hühner-Nudelsuppe",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Sauer-Scharf-Suppe",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Ofenkartoffelsuppe",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Eiereinlaufsuppe",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "französische Zwiebelsuppe",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "sämige Muschelsuppe",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Kartoffelsuppe",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Tomatensuppe",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Versteckte Heimkameras",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Brokkoli-Cheddar-Suppe",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509303_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

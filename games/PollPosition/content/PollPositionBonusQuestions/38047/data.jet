@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"18","n":"Val0"},{"t":"N","v":"10","n":"Val1"},{"t":"N","v":"9","n":"Val2"},{"t":"N","v":"3","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Was ist nach rot die geeignetste Farbe für ein schnelles Auto?","n":"QText"},{"t":"S","v":"Was ist die geeignetste Farbe für ein schnelles Auto?","n":"PollQ"},{"t":"S","v":"Schwarz","n":"Choice0"},{"t":"S","v":"Weiß","n":"Choice7"},{"t":"S","v":"Pink","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Orange","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Lila","n":"Choice6"},{"t":"S","v":"Silber","n":"Choice3"},{"t":"S","v":"Grün","n":"Choice4"},{"t":"S","v":"Gelb","n":"Choice1"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"Blau","n":"Choice2"},{"t":"S","v":"High Speed Automobiles. Vehicular Chromatic Pairings.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"529566_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was ist nach rot die geeignetste Farbe für ein schnelles Auto?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist die geeignetste Farbe für ein schnelles Auto?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Schwarz",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Weiß",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Pink",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Orange",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Lila",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Silber",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Grün",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Gelb",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Elektronische Datenentschlüsselung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Blau",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Schnelle Autos. Passende Chromatik.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529566_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "38",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute versuchen Ketchup aus einer Glasflasche durch kräftiges Schütteln herauszubekommen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Rollen oder Drehen der Flasche",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Externe Untersuchungen",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Klopfen",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Was versuchst du als erstes, um Ketchup aus einer Glasflasche zu bekommen?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "kräftiges Schütteln der Flasche",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Contained condiments. Tedious removal.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "526837_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "526835_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

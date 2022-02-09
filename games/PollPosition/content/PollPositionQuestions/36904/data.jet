@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Social Media Data Mining",
+      "v": "Social Media Datenauswertung",
       "n": "DataMode"
     },
     {
@@ -61,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "513878_1",
       "n": "Intro"
     }
   ]

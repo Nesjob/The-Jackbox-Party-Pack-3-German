@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"24","n":"Val0"},{"t":"N","v":"19","n":"Val1"},{"t":"N","v":"10","n":"Val2"},{"t":"N","v":"9","n":"Val3"},{"t":"N","v":"6","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welchen Film mit Tom Hanks mögen die Leute am meisten?","n":"QText"},{"t":"S","v":"Was ist der beste Film mit Tom Hanks?","n":"PollQ"},{"t":"S","v":"<i>Forrest Gump<\/i>","n":"Choice0"},{"t":"S","v":"<i>Toy Story 3<\/i>","n":"Choice7"},{"t":"S","v":"<i>Apollo 13<\/i>","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"<i>The Green Mile<\/i>","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"<i>Meine teuflischen Nachbarn<\/i>","n":"Choice6"},{"t":"S","v":"<i>Toy Story<\/i>","n":"Choice3"},{"t":"S","v":"<i>Der Soldat James Ryan<\/i>","n":"Choice4"},{"t":"S","v":"<i>Big<\/i>","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"<i>Cast Away<\/i>","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"540106_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Film mit Anke Engelke mögen die Leute am meisten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist der beste Film mit Anke Engelke?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Der Schuh des Manitu</i>",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>Das schönste Mädchen der Welt</i>",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>Tödliche Geheimnisse</i>",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>Urmel aus dem Eis</i>",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>Urmel voll in Fahrt</i>",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Findet Dorie</i>",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frau Müller muss weg!</i>",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>Findet Nemo</i>",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Marktanalysen",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Die Simpsons – Der Film</i>",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "540106_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

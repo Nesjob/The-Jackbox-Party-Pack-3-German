@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "64",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben schon einmal eine Katze geküsst?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Satellitenbilder",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du schon einmal eine Katze geküsst?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Physical affection. Cat & mouth games.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "000002_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "501463_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

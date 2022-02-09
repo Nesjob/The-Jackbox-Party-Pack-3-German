@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"71","n":"Val0"},{"t":"N","v":"14","n":"Val1"},{"t":"N","v":"6","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"2","n":"Val4"},{"t":"N","v":"1","n":"Val5"},{"t":"N","v":"1","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Welche Münze werfen die Leute am häufigsten in einen Brunnen, um sich etwas zu wünschen?","n":"QText"},{"t":"S","v":"Welche Münze wirfst du in einen Brunnen, um dir etwas zu wünschen?","n":"PollQ"},{"t":"S","v":"1 Cent","n":"Choice0"},{"t":"S","v":"2 Cent","n":"Choice7"},{"t":"S","v":"2 Dollar","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Nichts","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Das niedrigste was vorhanden ist","n":"Choice6"},{"t":"S","v":"10 Cent","n":"Choice3"},{"t":"S","v":"Das komplette Kleingeld","n":"Choice4"},{"t":"S","v":"25 Cent","n":"Choice1"},{"t":"S","v":"Cell Phone Cam","n":"DataMode"},{"t":"S","v":"5 Cent","n":"Choice2"},{"t":"S","v":"Public fountains. Coin choices.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"493276_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "71",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Münze werfen die Leute am häufigsten in einen Brunnen, um sich etwas zu wünschen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Münze wirfst du in einen Brunnen, um dir etwas zu wünschen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "1 Cent",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "2 Cent",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "2 Dollar",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Nichts",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Das niedrigste was vorhanden ist",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "10 Cent",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Das komplette Kleingeld",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "25 Cent",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Handykameras",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "5 Cent",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Öffentliche Brunnen. Münzauswahl.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493276_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

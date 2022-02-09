@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"13","n":"Val0"},{"t":"N","v":"9","n":"Val1"},{"t":"N","v":"4","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Wenn die Leute ein exotisches Tier zu Hause halten könnten, was wäre das?","n":"QText"},{"t":"S","v":"Wenn du ein exotisches Tier zu Hause halten könntest, was wäre das?","n":"PollQ"},{"t":"S","v":"Tiger","n":"Choice0"},{"t":"S","v":"Otter","n":"Choice7"},{"t":"S","v":"Pinguin","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Bär","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Wolf","n":"Choice6"},{"t":"S","v":"Löwe","n":"Choice3"},{"t":"S","v":"Elefant","n":"Choice4"},{"t":"S","v":"Affe","n":"Choice1"},{"t":"S","v":"Phone Decryption","n":"DataMode"},{"t":"S","v":"Fuchs","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"540079_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Wenn die Leute ein exotisches Tier zu Hause halten könnten, was wäre das?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du ein exotisches Tier zu Hause halten könntest, was wäre das?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Tiger",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Otter",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Bär",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Wolf",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Löwe",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Elefant",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Affe",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Handy Entschlüsselung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Fuchs",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "540079_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": true,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "21",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute können auf 10€ genau ihren Kontostand nennen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Weißt du auf 10€ genau deinen Kontostand? (Nicht nachschauen!)",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Personal finance. Account balance estimates.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "508232_1",
+"n": "Q"
+},
+{
+"t": "A",
+"v": "508235_2",
+"n": "Intro"
+}
+]
+}

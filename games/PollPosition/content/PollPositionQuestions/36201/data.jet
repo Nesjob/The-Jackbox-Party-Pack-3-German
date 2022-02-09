@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "497669_1",
       "n": "Response"
     },
     {

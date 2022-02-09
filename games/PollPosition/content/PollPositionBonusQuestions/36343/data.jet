@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"16","n":"Val0"},{"t":"N","v":"10","n":"Val1"},{"t":"N","v":"4","n":"Val2"},{"t":"N","v":"3","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Wenn sie in einem Monat sterben würden, was wäre das erste, was sie von ihrer To-Do-Liste streichen?","n":"QText"},{"t":"S","v":"Wenn du in einem Monat sterben würdest, was wäre das erste, was du von deiner To-Do-Liste streichst?","n":"PollQ"},{"t":"S","v":"Weltreise","n":"Choice0"},{"t":"S","v":"Job kündigen","n":"Choice7"},{"t":"S","v":"Autoreise","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"heiraten","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"nach Hawaii reisen","n":"Choice6"},{"t":"S","v":"Jungfräulichkeit verlieren","n":"Choice3"},{"t":"S","v":"nach Europa reisen","n":"Choice4"},{"t":"S","v":"Skydive","n":"Choice1"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"nach Japan reisen","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"501106_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was würden die meisten Leute als erstes von ihrer To-Do Liste streichen, wenn sie morgen sterben würden? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du morgen sterben würdest, was wäre das erste, was du von deiner To-Do-Liste streichst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Weltreise",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Job kündigen",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Autoreise",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "heiraten",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "nach Hawaii reisen",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Jungfräulichkeit verlieren",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "nach Europa reisen",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Skydive",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Elektronische Datenentschlüsselung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "nach Japan reisen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501106_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

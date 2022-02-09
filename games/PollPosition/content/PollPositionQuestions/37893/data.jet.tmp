@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "42",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute können in einem Fahrzeug NICHT lesen, ohne dass sie ein mulmiges Gefühl bekommen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Informanten der Agentur",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du ein mulmiges Gefühl, wenn du in einem Fahrzeug liest?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Vehicular nausea. Reading in cars.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "527868_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

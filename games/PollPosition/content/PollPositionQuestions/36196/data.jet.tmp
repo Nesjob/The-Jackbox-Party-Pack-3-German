@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "72",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute hatten mit einem Fremden online eine Auseinandersetzung?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Überwachung des Breitbandverkehrs",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hattest du jemals online eine Auseinandersetzung mit einem Fremden?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Internet trolls. Feeding of.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "497582_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

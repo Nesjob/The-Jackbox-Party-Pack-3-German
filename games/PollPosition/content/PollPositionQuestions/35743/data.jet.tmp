@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "32",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben im letzten Jahr durch ein Telefonbuch geblättert?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Versteckte Heimkamera",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du im letzten Jahr durch ein Telefonbuch geblättert?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Telephone directories. The Internet-challenged.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "483903_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "483901_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

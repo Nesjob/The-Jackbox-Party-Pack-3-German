@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"17","n":"Val0"},{"t":"N","v":"9","n":"Val1"},{"t":"N","v":"5","n":"Val2"},{"t":"N","v":"5","n":"Val3"},{"t":"N","v":"5","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welchen Sketch oder Filmszene von Monty Python finden die Leute am lustigsten?","n":"QText"},{"t":"S","v":"Was ist der lustigste Sketch oder Filmszene von Monty Python?","n":"PollQ"},{"t":"S","v":"\u201cDer Papagei ist tot\u201d","n":"Choice0"},{"t":"S","v":"\u201cDie Brücke des Todes\u201d","n":"Choice7"},{"t":"S","v":"\u201cDer Käseladen\u201d","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"\u201cDas Ministerium für alberne Gänge\u201d","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"\u201cRitter vom \u2018Ni!\u2019\u201d","n":"Choice6"},{"t":"S","v":"\u201cHöhle von Caerbarnog\u201d","n":"Choice3"},{"t":"S","v":"\u201cFrench Taunts\u201d","n":"Choice4"},{"t":"S","v":"\u201cDer schwarze Ritter\u201d","n":"Choice1"},{"t":"S","v":"Broadband Traffic Monitoring","n":"DataMode"},{"t":"S","v":"\u201cArgument Clinic\u201d","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"539933_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Sketch oder Filmszene von Monty Python finden die Leute am lustigsten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist der lustigste Sketch oder Filmszene von Monty Python?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "“Der Papagei ist tot”",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "“Die Brücke des Todes”",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "“Der Käseladen”",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "“Das Ministerium für alberne Gänge”",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "“Ritter vom ‘Ni!’”",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "“Höhle von Caerbarnog”",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "“French Taunts”",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "“Der schwarze Ritter”",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Überwachung des Breitbandverkehrs",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "“Argument Clinic”",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "539933_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

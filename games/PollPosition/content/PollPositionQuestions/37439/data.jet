@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute würden Thomas Gottschalk statt Til Schweiger als Erzähler ihrer Lebensgeschichte nehmen?",
+      "v": "Wie viel Prozent der Leute würden Thomas Gottschalk statt Til Schweiger als Erzähler ihrer Lieblingsgeschichte nehmen?",
       "n": "QText"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Wer soll deine Lebensgeschichte erzählen?",
+      "v": "Wer soll deine Lieblingsgeschichte erzählen?",
       "n": "PollQ"
     },
     {

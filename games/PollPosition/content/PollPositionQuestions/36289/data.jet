@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Closed Circuit TV",
+      "v": "Externe Untersuchungen",
       "n": "DataMode"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Specialty menu items. Gonad content.",
+      "v": "Besonderes Essen. Geschmackssache.",
       "n": "ExpResults"
     },
     {
@@ -62,7 +62,6 @@
     },
     {
       "t": "A",
-      "v": "499927_1",
       "n": "Intro"
     }
   ]

@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasResponse"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Human Microchip",
+      "v": "Menschliche Mikrochips",
       "n": "DataMode"
     },
     {
@@ -67,7 +67,6 @@
     },
     {
       "t": "A",
-      "v": "540169_1",
       "n": "Response"
     },
     {

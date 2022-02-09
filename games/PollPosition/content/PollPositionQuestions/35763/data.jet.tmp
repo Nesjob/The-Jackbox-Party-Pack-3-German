@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "44",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute ignorieren Centstücke auf dem Boden eher als sie aufzuheben?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Ich hebe es auf, weil es kostenloses Geld ist.",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Gefälschte Fokusgruppenstudie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Ich ignoriere es.",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wenn du ein Centstück auf dem Boden siehst, was machst du?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Ich hebe es als Glücksbringer auf.",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Coin discovery. The currency of currency.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "484058_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "484056_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

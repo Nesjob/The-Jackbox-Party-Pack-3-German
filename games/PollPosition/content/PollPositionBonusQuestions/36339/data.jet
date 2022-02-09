@@ -1,1 +1,153 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"26","n":"Val0"},{"t":"N","v":"21","n":"Val1"},{"t":"N","v":"8","n":"Val2"},{"t":"N","v":"6","n":"Val3"},{"t":"N","v":"6","n":"Val4"},{"t":"N","v":"6","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"4","n":"Val8"},{"t":"S","v":"Welche Methode zum Schlussmachen nutzen diejenigen, die für den persönlichen Weg zu feige sind?","n":"QText"},{"t":"S","v":"Welche Methode hast du, neben persönlich, benutzt, um mit jemanden Schluss zu machen?","n":"PollQ"},{"t":"S","v":"Telefon","n":"Choice0"},{"t":"S","v":"ignorieren","n":"Choice7"},{"t":"S","v":"Instant message","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Ghosting","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Third party","n":"Choice6"},{"t":"S","v":"E-Mail","n":"Choice3"},{"t":"S","v":"keinen","n":"Choice4"},{"t":"S","v":"Textnachricht","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Brief","n":"Choice2"},{"t":"S","v":"Relationship termination methods.","n":"ExpResults"},{"t":"A","v":"501040_0","n":"Response"},{"t":"A","v":"501038_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "26",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Methode zum Schlussmachen nutzen diejenigen, die für den persönlichen Weg zu feige sind?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Methode hast du, neben persönlich, benutzt, um mit jemanden Schluss zu machen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Telefon",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "ignorieren",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Instant message",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Ghosting",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Third party",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "E-Mail",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "keinen",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Textnachricht",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Bevölkerungsprofilierung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Brief",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Methoden zum Beenden von Beziehungen.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "501040_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501038_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

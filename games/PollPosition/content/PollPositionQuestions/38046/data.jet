@@ -2,12 +2,12 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "529551_1",
       "n": "Response"
     },
     {
@@ -62,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "529552_2",
       "n": "Intro"
     }
   ]

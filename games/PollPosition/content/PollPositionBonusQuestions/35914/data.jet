@@ -1,1 +1,154 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"45","n":"Val0"},{"t":"N","v":"15","n":"Val1"},{"t":"N","v":"7","n":"Val2"},{"t":"N","v":"5","n":"Val3"},{"t":"N","v":"5","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Was ist für die Leute die nervigste Angewohnheit ihres Schlafnachbarn?","n":"QText"},{"t":"S","v":"Was ist die nervigste Angewohnheit deines Schlafnachbarn?","n":"PollQ"},{"t":"S","v":"Schnarchen","n":"Choice0"},{"t":"S","v":"Wärme verbreiten","n":"Choice7"},{"t":"S","v":"Anklammern","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Furzen","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Zähne knirschen","n":"Choice6"},{"t":"S","v":"Wälzen, umdrehen","n":"Choice3"},{"t":"S","v":"Treten","n":"Choice4"},{"t":"S","v":"Bettdecke wegnehmen","n":"Choice1"},{"t":"S","v":"Versteckte Heimkamera","n":"DataMode"},{"t":"S","v":"Platz wegnehmen","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","v":"488694_0","n":"Response"},{"t":"A","v":"488692_1","n":"Q"},{"t":"A","v":"488695_0","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "45",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was ist für die Leute die nervigste Angewohnheit ihres Schlafnachbarn?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist die nervigste Angewohnheit deines Schlafnachbarn?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Schnarchen",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Wärme verbreiten",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Anklammern",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Furzen",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Zähne knirschen",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Wälzen, umdrehen",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Treten",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Bettdecke wegnehmen",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Versteckte Heimkameras",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Platz wegnehmen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488694_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488692_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "488695_0",
+      "n": "Intro"
+    }
+  ]
+}

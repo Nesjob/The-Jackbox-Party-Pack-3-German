@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"15","n":"Val0"},{"t":"N","v":"8","n":"Val1"},{"t":"N","v":"6","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welches Wort verbinden die meisten Leute mit Kalifornien?","n":"QText"},{"t":"S","v":"Welches Wort verbindest du mit Kalifornien?","n":"PollQ"},{"t":"S","v":"Sonnenschein","n":"Choice0"},{"t":"S","v":"Dürre","n":"Choice7"},{"t":"S","v":"Golden","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Erdbeben","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Heiß","n":"Choice6"},{"t":"S","v":"Frei","n":"Choice3"},{"t":"S","v":"Surfen","n":"Choice4"},{"t":"S","v":"Hollywood","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Strand","n":"Choice2"},{"t":"S","v":"California. Instant Reactions.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"530595_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welches Wort verbinden die meisten Leute mit Berlin?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Brandenburger Tor",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Hauptstadt / Großstadt",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Medien",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Diversität",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Dreckig",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Asozial",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Fernsehturm",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Bundestag",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Drogen",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Bevölkerungsprofilierung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Berliner Mauer",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Berlin. Erste Assoziazionen.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530595_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "50",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute besitzen einen Maiskolbenhalter?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Marktanalyse",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Besitzt du einen Maiskolbenhalter?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Kitchen implements. Maize-related.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "501242_2",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

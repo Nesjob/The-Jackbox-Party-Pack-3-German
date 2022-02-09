@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben Halloween Pun Kostüme getragen?",
+      "v": "Wie viel Prozent der Leute haben schon mal ein albernes, aber nicht gruseliges Kostüm zu Halloween getragen?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Population Profiling",
+      "v": "Bevölkerungsprofilierung",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "Hast du jemals ein Halloween Pun Kostüm getragen?",
+      "v": "Hast du jemals ein albernes, aber nicht gruseliges Kostüm zu Halloween getragen?",
       "n": "PollQ"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "505799_1",
       "n": "Response"
     },
     {

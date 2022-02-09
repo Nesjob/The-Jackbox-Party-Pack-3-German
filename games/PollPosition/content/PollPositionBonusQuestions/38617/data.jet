@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"21","n":"Val0"},{"t":"N","v":"18","n":"Val1"},{"t":"N","v":"17","n":"Val2"},{"t":"N","v":"7","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Welche Todsünde beichten die Leute am häufigsten?","n":"QText"},{"t":"S","v":"Welche Todsünde hast du begangen?","n":"PollQ"},{"t":"S","v":"Faulheit","n":"Choice0"},{"t":"S","v":"Lügen","n":"Choice7"},{"t":"S","v":"Gier","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Ehebruch","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Alles davon","n":"Choice6"},{"t":"S","v":"Neid","n":"Choice3"},{"t":"S","v":"Stolz","n":"Choice4"},{"t":"S","v":"Wollust","n":"Choice1"},{"t":"S","v":"Agency Informants","n":"DataMode"},{"t":"S","v":"Gefräßigkeit","n":"Choice2"},{"t":"S","v":"Guilty consciences. Mortal sins.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"535473_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Todsünde beichten die Leute am häufigsten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Todsünde hast du begangen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Faulheit",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Lügen",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Gier",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Ehebruch",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Alles davon",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Neid",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Stolz",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Wollust",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Informanten der Agentur",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Gefräßigkeit",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Schuldiges Gewissen. Todsünden.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "535473_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

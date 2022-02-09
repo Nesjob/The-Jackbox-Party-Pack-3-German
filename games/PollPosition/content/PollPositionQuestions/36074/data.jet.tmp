@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "53",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute sind in ein Restaurant oder Geschäft wiedergekommen, weil sie dort jemanden attraktiv fanden?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Handykameras",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Bist du einmal in ein Restaurant oder Geschäft wiedergekommen, weil ein Mitarbeiter attraktiv war?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Infatuated patrons. Return business.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "494478_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "494476_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

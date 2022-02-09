@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntro"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Closed Circuit TV",
+      "v": "Externe Untersuchungen",
       "n": "DataMode"
     },
     {
@@ -77,7 +77,6 @@
     },
     {
       "t": "A",
-      "v": "528603_3",
       "n": "Intro"
     }
   ]

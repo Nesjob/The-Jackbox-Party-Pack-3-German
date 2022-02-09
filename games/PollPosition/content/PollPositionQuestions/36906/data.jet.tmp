@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "3",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute antworten nie auf Einladungen zu einer Hochzeit, zu der sie hingehen möchten?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "kurz vor der Hochzeit",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Spyware",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Du hast gerade eine Hochzeiteinladung bekommen und möchtest hingehen. Wie schnell antwortest du?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "nach wenigen Tagen",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Invitation neglect. Head count taker’s nightmare.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "513917_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

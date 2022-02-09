@@ -2,12 +2,12 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Aerial Drone",
+      "v": "Drohnen",
       "n": "DataMode"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "500198_1",
       "n": "Response"
     },
     {
@@ -62,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "500199_1",
       "n": "Intro"
     }
   ]

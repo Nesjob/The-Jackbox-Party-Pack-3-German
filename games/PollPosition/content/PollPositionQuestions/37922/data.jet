@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben einen Hotdog Esswettbewerb mit ihren Freunden veranstaltet?",
+      "v": "Wie viel Prozent der Leute haben einen Esswettbewerb mit ihren Freunden veranstaltet?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Cell Phone Cam",
+      "v": "Handykameras",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "Hast du schon einmal einen Hotdog Esswettbewerb mit deinen Freunden veranstaltet?",
+      "v": "Hast du schon einmal einen Esswettbewerb mit deinen Freunden veranstaltet?",
       "n": "PollQ"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "528294_2",
       "n": "Response"
     },
     {

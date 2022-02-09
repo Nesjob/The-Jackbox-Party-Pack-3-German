@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Population Profiling",
+      "v": "Bevölkerungsprofilierung",
       "n": "DataMode"
     },
     {
@@ -61,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "526889_1",
       "n": "Intro"
     }
   ]

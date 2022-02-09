@@ -1,0 +1,827 @@
+{
+  "episodeid": 1260,
+  "content": [
+    {
+      "x": false,
+      "id": 35712,
+      "category": "Hab’s vergessen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35715,
+      "category": "Vorspeisen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35746,
+      "category": "Echos",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35749,
+      "category": "Yoga",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35753,
+      "category": "Eier",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35808,
+      "category": "Ängste",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35809,
+      "category": "Schönheits-OP",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35811,
+      "category": "Muppets",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35884,
+      "category": "Mehrere Bedeutungen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35891,
+      "category": "Floskeln",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35901,
+      "category": "Genau da",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35914,
+      "category": "Geteiltes Bett",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35927,
+      "category": "Super Langweilig",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36005,
+      "category": "Verzichten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36026,
+      "category": "Brunnen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36028,
+      "category": "Der Beste",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36086,
+      "category": "Werbefiguren",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36108,
+      "category": "Mt. Rushmore",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36120,
+      "category": "Aberglaube",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36122,
+      "category": "Abzeichen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36125,
+      "category": "Chips",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36127,
+      "category": "Halloween",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36129,
+      "category": "Lustiges Fernsehen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36134,
+      "category": "Weihnachtsfilme",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36152,
+      "category": "Schlafzimmer",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36162,
+      "category": "Elyas M’Barek",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36167,
+      "category": "Fernweh",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36190,
+      "category": "Sprachen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36193,
+      "category": "Euorpa",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36210,
+      "category": "Jahrhunderte",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36221,
+      "category": "Sie sind Batman",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36339,
+      "category": "Trennungen",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36343,
+      "category": "Bucket-Liste",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36346,
+      "category": "Silvester",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36525,
+      "category": "Schlüsselbund",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36582,
+      "category": "Lesezeichen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36637,
+      "category": "Schweighöfer",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36692,
+      "category": "Kölner Image",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36696,
+      "category": "Ferien",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36700,
+      "category": "Suppe",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36758,
+      "category": "Spielplätze",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36913,
+      "category": "Selbstdarstellung",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37017,
+      "category": "Zuckerersatz",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37026,
+      "category": "Schoki",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37030,
+      "category": "Pasta",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37059,
+      "category": "Ärger",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37060,
+      "category": "Schwächen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37072,
+      "category": "Vorgetäuschte Krankheit",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37092,
+      "category": "Kleingeld",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37145,
+      "category": "Ländersache",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37148,
+      "category": "Gruselige Hunde",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37153,
+      "category": "Lincoln",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37159,
+      "category": "Trends",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37164,
+      "category": "Amateur Sport",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37183,
+      "category": "Legalisieren!",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37260,
+      "category": "Zerstörte Träume",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37311,
+      "category": "Pommes",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37367,
+      "category": "Käse",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37395,
+      "category": "90er",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37440,
+      "category": "Langweiliger Sport",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37446,
+      "category": "Nervige Promis",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37509,
+      "category": "Früchte",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37592,
+      "category": "Apfelsorten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37612,
+      "category": "Bonds",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37635,
+      "category": "TV Total",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37642,
+      "category": "Disney World",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37647,
+      "category": "Eiscreme",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37655,
+      "category": "Jelly Beans",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37679,
+      "category": "Der Zirkus",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37716,
+      "category": "Dein Gesicht",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37719,
+      "category": "Musik zum abhängen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37720,
+      "category": "Beatles Songs",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37723,
+      "category": "Tote Leute",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37726,
+      "category": "Dinosaurier",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37731,
+      "category": "Wetten, dass..?",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37732,
+      "category": "Apps",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37733,
+      "category": "Verbrecher",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37777,
+      "category": "Die Tropen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37788,
+      "category": "X-Men",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37791,
+      "category": "Reality Shows",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37792,
+      "category": "Talkshow Moderatoren",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37795,
+      "category": "Brettspiele",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37796,
+      "category": "Nationalspezialitäten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37810,
+      "category": "Sängerinnen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37812,
+      "category": "Langlebig",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37820,
+      "category": "Romantikkomödien",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37822,
+      "category": "Essen für Reiche",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37825,
+      "category": "Krasse Leute",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37828,
+      "category": "Hochzeiten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37829,
+      "category": "Cartoon-Hunde",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37856,
+      "category": "Erster Kuss",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37860,
+      "category": "Boy Bands",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37862,
+      "category": "Soundtracks",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37864,
+      "category": "College",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37868,
+      "category": "Mythische Wesen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37876,
+      "category": "Arcade-Spiele",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37905,
+      "category": "Angela Merkel",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37923,
+      "category": "Sport+Essen",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37932,
+      "category": "Schimpfwörter",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37934,
+      "category": "Schulfächer",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37936,
+      "category": "Sportveranstaltungen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38031,
+      "category": "Schlechte Namen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38035,
+      "category": "Deutsche Songs",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38039,
+      "category": "Browser",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38041,
+      "category": "Sportunterricht",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38047,
+      "category": "Rennwagen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38049,
+      "category": "Fantasiewelten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38052,
+      "category": "Britische Comedians",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38114,
+      "category": "Die ersten Worte",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38116,
+      "category": "Steuern",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38117,
+      "category": "Farben",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38118,
+      "category": "Kinderbücher",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38119,
+      "category": "Dennis",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38122,
+      "category": "Unfreundlichkeit",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38124,
+      "category": "Sprachen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38126,
+      "category": "Berlin",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38129,
+      "category": "Abnehmen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38130,
+      "category": "Flughafen",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38187,
+      "category": "Kuchengeschmack",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38188,
+      "category": "Eis am Stiel",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38617,
+      "category": "Sünder",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38879,
+      "category": "Geld",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38887,
+      "category": "Gespielter Doktor",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38975,
+      "category": "Selbstbeschreibung",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39136,
+      "category": "Planeten",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39137,
+      "category": "Game of Thrones",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39138,
+      "category": "One Night Stand",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39139,
+      "category": "Fans",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39140,
+      "category": "Python (Monty)",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39141,
+      "category": "Träume",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39143,
+      "category": "Sexy Musiker",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39144,
+      "category": "Civil War",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39148,
+      "category": "Verlorene Liebe",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39149,
+      "category": "Exotische Tiere",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39151,
+      "category": "Anke",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39153,
+      "category": "Begräbnis",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39154,
+      "category": "Letzte Mahlzeit",
+      "type": "open"
+    }
+  ]
+}

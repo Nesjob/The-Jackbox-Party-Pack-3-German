@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"24","n":"Val0"},{"t":"N","v":"16","n":"Val1"},{"t":"N","v":"10","n":"Val2"},{"t":"N","v":"5","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"In welcher wohlbekannten Fantasiewelt wÃ¼rden die Leute gerne leben?","n":"QText"},{"t":"S","v":"In welcher wohlbekannten Fantasiewelt (z.B. Narnia) wÃ¼rdest du gerne leben?","n":"PollQ"},{"t":"S","v":"Zaubererwelt (<i>Harry Potter<\/i>)","n":"Choice0"},{"t":"S","v":"PokÃ©mon Universum","n":"Choice7"},{"t":"S","v":"Nimmerland (<i>Peter Pan<\/i>)","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Hyrule (<i>Legend of Zelda<\/i>)","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Azeroth (<i>World of Warcraft<\/i>)","n":"Choice6"},{"t":"S","v":"Westeros (<i>Game of Thrones<\/i>)","n":"Choice3"},{"t":"S","v":"<i>Star Wars<\/i> Universum","n":"Choice4"},{"t":"S","v":"Mittelerde (<i>Herr der Ringe<\/i>)","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Narnia (<i>Chroniken von Narnia<\/i>)","n":"Choice2"},{"t":"S","v":"Fantasy worlds. Happiest place of residency.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"529600_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "In welcher wohlbekannten Fantasiewelt wüden die Leute gerne leben?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "In welcher wohlbekannten Fantasiewelt (z.B. Narnia) wÃ¼rdest du gerne leben?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Zaubererwelt (<i>Harry Potter</i>)",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Pokémon Universum",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Nimmerland (<i>Peter Pan</i>)",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Hyrule (<i>Legend of Zelda</i>)",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Azeroth (<i>World of Warcraft</i>)",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Westeros (<i>Game of Thrones</i>)",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>Star Wars</i> Universum",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Mittelerde (<i>Herr der Ringe</i>)",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Narnia (<i>Chroniken von Narnia</i>)",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Erfundene Welten. Zufluchtsort der Bevölkerung.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529600_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

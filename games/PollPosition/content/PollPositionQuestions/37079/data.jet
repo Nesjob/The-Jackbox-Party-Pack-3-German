@@ -2,12 +2,12 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
       "t": "B",
-      "v": false,
+      "v": true,
       "n": "HasResponse"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Hidden-Microphone Fake Rocks",
+      "v": "Versteckte Mikros in Fake Steinen",
       "n": "DataMode"
     },
     {
@@ -52,6 +52,7 @@
     },
     {
       "t": "A",
+      "v": "000006_1",
       "n": "Response"
     },
     {
@@ -61,7 +62,6 @@
     },
     {
       "t": "A",
-      "v": "517046_1",
       "n": "Intro"
     }
   ]

@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "27",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute heben NIE die Hand, wenn bei einer Aufführung nach einem Freiwilligen gesucht wird?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "vielleicht",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Externe Untersuchungen",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wenn bei einer Aufführung nach einem Freiwilligen gefragt wird, würdest du die Hand heben?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "meistens ja",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Live event volunteerism. Non-handraisers.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "528602_6",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "528600_4",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

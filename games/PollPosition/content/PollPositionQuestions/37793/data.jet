@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Cell Phone Cam",
+      "v": "Handykameras",
       "n": "DataMode"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "526371_1",
       "n": "Response"
     },
     {

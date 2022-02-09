@@ -2038,7 +2038,7 @@
     {
       "x": true,
       "id": 37101,
-      "category": "Zauberwürfel",
+      "category": "Rätsel",
       "type": "yn"
     },
     {
@@ -2230,7 +2230,7 @@
     {
       "x": false,
       "id": 37335,
-      "category": "Mechanische Bullen",
+      "category": "Starke Blechkisten",
       "type": "yn"
     },
     {
@@ -2962,13 +2962,13 @@
     {
       "x": false,
       "id": 37922,
-      "category": "Hot Dog Wettessen",
+      "category": "Wettessen",
       "type": "yn"
     },
     {
       "x": true,
       "id": 37924,
-      "category": "Wettessen",
+      "category": "Bars",
       "type": "yn"
     },
     {

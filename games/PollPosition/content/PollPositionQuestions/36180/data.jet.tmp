@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "65",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben schon einmal ihre Popel unter einem Möbelstück versteckt?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Versteckte Heimkamera",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du jemals einen Popel unter einem Möbelstück versteckt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Nasal encrustations. Inconspicuous disposal.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "497312_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "497310_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"8","n":"Val0"},{"t":"N","v":"5","n":"Val1"},{"t":"N","v":"4","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welche Reality Show ist das größte heimliche Vergnügen?","n":"QText"},{"t":"S","v":"Welche Reality Show ist dein heimliches Vergnügen?","n":"PollQ"},{"t":"S","v":"<i>Big Brother<\/i>","n":"Choice0"},{"t":"S","v":"<i>The Voice<\/i>","n":"Choice7"},{"t":"S","v":"<i>Hell\u2019s Kitchen<\/i>","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"<i>America\u2019s Got Talent<\/i>","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"<i>MasterChef<\/i>","n":"Choice6"},{"t":"S","v":"<i>Der Bachelor<\/i>","n":"Choice3"},{"t":"S","v":"<i>RuPaul\u2019s Drag Race<\/i>","n":"Choice4"},{"t":"S","v":"<i>Survivor<\/i>","n":"Choice1"},{"t":"S","v":"Telecom Interception","n":"DataMode"},{"t":"S","v":"Keine","n":"Choice2"},{"t":"S","v":"Reality television programs. Remoseful allegiance.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"526332_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Reality Show ist das größte heimliche Vergnügen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Reality Show ist dein heimliches Vergnügen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Big Brother</i>",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>The Voice</i>",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>Hell’s Kitchen</i>",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>Das Supertalent</i>",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>MasterChef</i>",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Der Bachelor</i>",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>The Biggest Looser</i>",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>Survivor</i>",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Telekommunikationsüberwachung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Keine",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Gespielte Echtheit. Schadenfreude.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526332_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

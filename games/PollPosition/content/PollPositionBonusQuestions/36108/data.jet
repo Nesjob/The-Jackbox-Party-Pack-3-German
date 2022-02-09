@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"30","n":"Val0"},{"t":"N","v":"15","n":"Val1"},{"t":"N","v":"14","n":"Val2"},{"t":"N","v":"11","n":"Val3"},{"t":"N","v":"5","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Wenn noch ein U.S. Präsident zu Mount Rushmore hinzugefügt werden könnte, welchen würden die Leute gerne sehen?","n":"QText"},{"t":"S","v":"Wenn noch ein U.S. Präsident zu Mount Rushmore hinzugefügt werden könnte, wer sollte es sein?","n":"PollQ"},{"t":"S","v":"Barack Obama","n":"Choice0"},{"t":"S","v":"George Bush","n":"Choice7"},{"t":"S","v":"Jimmy Carter","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Donald Trump","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Abraham Lincoln","n":"Choice6"},{"t":"S","v":"John F. Kennedy","n":"Choice3"},{"t":"S","v":"Bill Clinton","n":"Choice4"},{"t":"S","v":"Franklin D. Roosevelt","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Ronald Reagan","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"495434_3","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ein deutscher Promi dem Mount Rushmore hinzugefügt werden könnte, welchen würden die Leute gerne sehen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ein deutscher Promi dem Mount Rushmore hinzugefügt werden könnte, welchen würdest du gerne sehen?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Otto Waalkes",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Klaus Kleber",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Helge Schneider",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Til Schweiger",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Thomas Gottschalk",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Stefan Raab",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Jan Böhmermann",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Angela Merkel",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dieter Bohlen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495434_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

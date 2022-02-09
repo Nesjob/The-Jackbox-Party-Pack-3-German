@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntro"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Consumer Analytics",
+      "v": "Marktanalyse",
       "n": "DataMode"
     },
     {
@@ -76,7 +76,6 @@
     },
     {
       "t": "A",
-      "v": "531116_1",
       "n": "Intro"
     }
   ]

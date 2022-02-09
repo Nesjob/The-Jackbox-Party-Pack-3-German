@@ -32,17 +32,17 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Männer haben im letzten Monat Cologne benutzt?",
+      "v": "Wie viel Prozent der Männer haben im letzten Monat Parfum benutzt?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Hidden Home Cam",
+      "v": "Versteckte Heimkamera",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "An die Männer: Hast du im letzten Monat Cologne benutzt?",
+      "v": "An die Männer: Hast du im letzten Monat Parfum benutzt?",
       "n": "PollQ"
     },
     {

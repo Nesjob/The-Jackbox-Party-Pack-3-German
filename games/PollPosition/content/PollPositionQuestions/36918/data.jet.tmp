@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "9",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben eine Mitgliedschaft für ein Fitnessstudio, das sie in den letzten 6 Monaten nicht besucht haben?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Überwachungskameras",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du eine Mitgliedschaft für ein Fitnessstudio, in dem du die letzten 6 Monate nicht warst?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Health club avoidance. Aerobic indifference.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "514149_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "514147_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

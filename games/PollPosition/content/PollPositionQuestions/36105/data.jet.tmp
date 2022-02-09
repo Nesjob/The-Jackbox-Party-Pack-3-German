@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "true",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "9",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute hocken auf öffentlichen Toiletten, ohne die Brille zu berühren?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Ich hocke, ohne die Brille zu berühren.",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Toilettenkamera",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Ich setze mich direkt auf die Brille.",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie bereitest du dich auf einer öffentlichen Toilette vor?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Ich decke die Brille mit Toilettenpapier ab.",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Bio-break habits. Public restrooms.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "495337_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "495335_3",
+"n": "Q"
+},
+{
+"t": "A",
+"v": "495338_1",
+"n": "Intro"
+}
+]
+}

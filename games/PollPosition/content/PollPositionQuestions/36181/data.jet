@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute waren einmal nackt baden?",
+      "v": "Wie viel Prozent der Leute waren einmal nackt baden? (öffentlich)",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Satellite Imagery",
+      "v": "Satellitenbilder",
       "n": "DataMode"
     },
     {

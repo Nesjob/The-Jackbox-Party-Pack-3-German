@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"24","n":"Val0"},{"t":"N","v":"21","n":"Val1"},{"t":"N","v":"21","n":"Val2"},{"t":"N","v":"8","n":"Val3"},{"t":"N","v":"7","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welches Maskottchen wäre nach Meinung der Leute der nervigste Mitbewohner?","n":"QText"},{"t":"S","v":"Welches Maskottchen wäre der nervigste Mitbewohner?","n":"PollQ"},{"t":"S","v":"Sonny the Cuckoo Bird","n":"Choice0"},{"t":"S","v":"Snap, Crackle & Pop","n":"Choice7"},{"t":"S","v":"Cap\u2019n Crunch","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Count Chocula","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Cookie Crook","n":"Choice6"},{"t":"S","v":"Lucky the Leprechaun","n":"Choice3"},{"t":"S","v":"Toucan Sam","n":"Choice4"},{"t":"S","v":"Trix Rabbit","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"Tony the Tiger","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","v":"494682_0","n":"Response"},{"t":"A","v":"494680_1","n":"Q"},{"t":"A","v":"494683_0","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welches Maskottchen wäre nach Meinung der Leute der nervigste Mitbewohner?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welches Maskottchen wäre der nervigste Mitbewohner?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Indeed Ingrid",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Michelin Mann",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Ronald McDonald",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Chester (Cheeto)",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Bunny (Duracell)",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Carglass Sprecher",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Mr Proper",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Check24 Familie",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Marktanalysen",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Seitenbacher Sprecher",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494680_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

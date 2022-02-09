@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"27","n":"Val0"},{"t":"N","v":"24","n":"Val1"},{"t":"N","v":"7","n":"Val2"},{"t":"N","v":"5","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Was fällt den Leuten als erstes zu Bob Marley ein?","n":"QText"},{"t":"S","v":"Was fällt dir als erstes zu Bob Marley ein?","n":"PollQ"},{"t":"S","v":"Gras","n":"Choice0"},{"t":"S","v":"Liebe","n":"Choice7"},{"t":"S","v":"Sheriff","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Jammin\u2019","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Musik","n":"Choice6"},{"t":"S","v":"Dreadlocks","n":"Choice3"},{"t":"S","v":"Jamaica","n":"Choice4"},{"t":"S","v":"Reggae","n":"Choice1"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Rastafarier","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"528058_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "27",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was fällt den Leuten als erstes zu Angela Merkel ein?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was fällt dir zuerst du Angela Merkel ein?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Bundeskanzlerin",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Eurokrise",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Physik",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Danke Merkel Meme",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Konservativ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Merkel-Raute",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Das Internet ist Neuland",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "CDU",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Versteckte Heimkameras",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Mutti",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528058_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

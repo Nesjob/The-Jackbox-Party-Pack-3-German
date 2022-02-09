@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "42",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute können ihre linke und rechte Augenbraue unabhängig voneinander hochziehen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Biometrie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Kannst du deine linke und rechte Augenbraue unabhängig voneinander hochziehen?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Eyebrow ambidexterity. Left & right archers.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "490338_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "490336_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

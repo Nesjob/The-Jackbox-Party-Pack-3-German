@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "19",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute kühlen ihren Wagen lieber mit offenen Fenstern als mit der Klimaanlage?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "offene Fenster",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Satellitenbilder",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie kühlst du im Sommer das Auto?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Klimaanlage",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Vehicle comfort. AC vs. opened windows.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "488758_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

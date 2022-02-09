@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"23","n":"Val0"},{"t":"N","v":"11","n":"Val1"},{"t":"N","v":"7","n":"Val2"},{"t":"N","v":"5","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welcher Song wird auf Sportveranstaltungen viel zu oft gespielt?","n":"QText"},{"t":"S","v":"Welcher Song wird auf Sportveranstaltungen viel zu oft gespielt?","n":"PollQ"},{"t":"S","v":"\u201cWe Will Rock You\u201d","n":"Choice0"},{"t":"S","v":"\u201cEye of the Tiger\u201d","n":"Choice7"},{"t":"S","v":"\u201cWho Let the Dogs Out?\u201d","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Cavalry charge","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"\u201cTake Me Out to the Ballgame\u201d","n":"Choice6"},{"t":"S","v":"\u201cThe Star Spangled Banner\u201d","n":"Choice3"},{"t":"S","v":"\u201cSeven Nation Army\u201d","n":"Choice4"},{"t":"S","v":"\u201cWe Are the Champions\u201d","n":"Choice1"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"\u201cRock and Roll Part Two\u201d","n":"Choice2"},{"t":"S","v":"Sport Melodies. Group Chants.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"528502_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welcher Song wird auf Sportveranstaltungen viel zu oft gespielt?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welcher Song wird auf Sportveranstaltungen viel zu oft gespielt?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "“We Will Rock You”",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "“Eye of the Tiger”",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "“Who Let the Dogs Out?”",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Cavalry charge",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "“Take Me Out to the Ballgame”",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "“The Star Spangled Banner”",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "“Seven Nation Army”",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "“We Are the Champions”",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Elektronische Datenentschlüsselung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "“Rock and Roll Part Two”",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Sportliche Melodien. Gruppengesänge.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528502_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

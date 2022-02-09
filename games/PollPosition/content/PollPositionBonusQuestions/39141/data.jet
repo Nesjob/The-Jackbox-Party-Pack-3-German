@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"29","n":"Val0"},{"t":"N","v":"6","n":"Val1"},{"t":"N","v":"5","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Worum geht es im Lieblingstraum der meisten Leute?","n":"QText"},{"t":"S","v":"Worum geht es in deinem Lieblingstraum?","n":"PollQ"},{"t":"S","v":"Sex","n":"Choice0"},{"t":"S","v":"Abenteuer","n":"Choice7"},{"t":"S","v":"Nonsense","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Freunde","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Reichtum","n":"Choice6"},{"t":"S","v":"fliegen","n":"Choice3"},{"t":"S","v":"Familie","n":"Choice4"},{"t":"S","v":"Urlaub","n":"Choice1"},{"t":"S","v":"Biometrics","n":"DataMode"},{"t":"S","v":"Liebe","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"539950_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Worum geht es im Lieblingstraum der meisten Leute?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Worum geht es in deinem Lieblingstraum?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sex",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Abenteuer",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Nonsense",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Freunde",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Reichtum",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "fliegen",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Familie",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Urlaub",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biometrie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Liebe",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "539950_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

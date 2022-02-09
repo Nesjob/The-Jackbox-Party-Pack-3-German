@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"7","n":"Val0"},{"t":"N","v":"6","n":"Val1"},{"t":"N","v":"6","n":"Val2"},{"t":"N","v":"6","n":"Val3"},{"t":"N","v":"5","n":"Val4"},{"t":"N","v":"5","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Welche TV Show ist die lustigste?","n":"QText"},{"t":"S","v":"Was war die lustigste TV Show aller Zeiten?","n":"PollQ"},{"t":"S","v":"<i>Arrested Development<\/i>","n":"Choice0"},{"t":"S","v":"<i>Community<\/i>","n":"Choice7"},{"t":"S","v":"<i>I Love Lucy<\/i>","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"<i>Seinfeld<\/i>","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"<i>South Park<\/i>","n":"Choice6"},{"t":"S","v":"<i>Whose Line Is It Anyway?<\/i>","n":"Choice3"},{"t":"S","v":"<i>Friends<\/i>","n":"Choice4"},{"t":"S","v":"<i>The Office<\/i>","n":"Choice1"},{"t":"S","v":"Telecom Interception","n":"DataMode"},{"t":"S","v":"<i>The Simpsons<\/i>","n":"Choice2"},{"t":"S","v":"Amusement preferences, superlatives.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"496179_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche TV Show ist die lustigste?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was war die lustigste TV Show aller Zeiten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Arrested Development</i>",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>Community</i>",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>I Love Lucy</i>",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>Seinfeld</i>",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>South Park</i>",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Whose Line Is It Anyway?</i>",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>Friends</i>",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>The Office</i>",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Telekommunikationsüberwachung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>The Simpsons</i>",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Unterhaltungsvorlieben. Superlative.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496179_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": true,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "31",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben sich im Supermarkt “Bekannt aus der Werbung” Produkte nur deswegen gekauft?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du jemals ein “Bekannt aus der Werbung” Produkt nur deswegen gekauft?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Superfluous home shopping products. Purchasing.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "497157_1",
+"n": "Q"
+},
+{
+"t": "A",
+"v": "497160_0",
+"n": "Intro"
+}
+]
+}

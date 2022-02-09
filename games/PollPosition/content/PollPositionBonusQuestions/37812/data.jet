@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"17","n":"Val0"},{"t":"N","v":"16","n":"Val1"},{"t":"N","v":"10","n":"Val2"},{"t":"N","v":"3","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welcher aktuell tÃ¤tige KÃ¼nstler wird nach Meinung der Leute auch in 10 Jahren noch beliebt sein?","n":"QText"},{"t":"S","v":"Welcher aktuell tÃ¤tige KÃ¼nstler wird deiner Meinung nach auch in 10 Jahren noch beliebt sein?","n":"PollQ"},{"t":"S","v":"Adele","n":"Choice0"},{"t":"S","v":"Lady Gaga","n":"Choice7"},{"t":"S","v":"Keiner","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Justin Timberlake","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Kanye West","n":"Choice6"},{"t":"S","v":"\u201cWeird Al\u201d Yankovic","n":"Choice3"},{"t":"S","v":"Bruno Mars","n":"Choice4"},{"t":"S","v":"Taylor Swift","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"BeyoncÃ©","n":"Choice2"},{"t":"S","v":"Recording artists. Longevity.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"526658_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welcher aktuell tätige Künstler wird nach Meinung der Leute auch in 10 Jahren noch beliebt sein?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welcher aktuell tätige Künstler wird deiner Meinung nach auch in 10 Jahren noch beliebt sein?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Adele",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Lady Gaga",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Keiner",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Justin Timberlake",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Kanye West",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "“Weird Al” Yankovic",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Bruno Mars",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Taylor Swift",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Treue Fans. Langlebigkeit.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526658_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

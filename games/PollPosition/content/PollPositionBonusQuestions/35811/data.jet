@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"21","n":"Val0"},{"t":"N","v":"15","n":"Val1"},{"t":"N","v":"11","n":"Val2"},{"t":"N","v":"11","n":"Val3"},{"t":"N","v":"7","n":"Val4"},{"t":"N","v":"5","n":"Val5"},{"t":"N","v":"5","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Wer ist der beliebteste Muppet?","n":"QText"},{"t":"S","v":"Wer ist dein Lieblings-Muppet?","n":"PollQ"},{"t":"S","v":"Kermit der Frosch","n":"Choice0"},{"t":"S","v":"Waldorf & Statler","n":"Choice7"},{"t":"S","v":"Miss Piggy","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Der dänische Koch","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Rolf der Hund","n":"Choice6"},{"t":"S","v":"Fozzie Bär","n":"Choice3"},{"t":"S","v":"Beaker","n":"Choice4"},{"t":"S","v":"Tier","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Gonzo der Große","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"485456_3","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welcher Muppet ist der Beliebteste?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist dein Lieblings-Muppet?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Kermit der Frosch",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Waldorf & Statler",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Miss Piggy",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Der dänische Koch",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Rolf der Hund",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Fozzie Bär",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Beaker",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Tier",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Gonzo der Große",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485456_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

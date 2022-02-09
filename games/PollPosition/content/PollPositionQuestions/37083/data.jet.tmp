@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": true,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "47",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben halbnackt oder nackt Videochats geführt?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Spyware",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du jemals einen Videochat nackt oder halbnackt geführt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Webcam conversations. Clothing optional.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "517113_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "517111_1",
+"n": "Q"
+},
+{
+"t": "A",
+"v": "517114_2",
+"n": "Intro"
+}
+]
+}

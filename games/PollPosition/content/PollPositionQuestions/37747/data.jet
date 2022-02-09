@@ -2,12 +2,12 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
       "t": "B",
-      "v": false,
+      "v": true,
       "n": "HasResponse"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Faked Focus-Group Study",
+      "v": "Gefälschte Fokusgruppenstudie",
       "n": "DataMode"
     },
     {
@@ -52,6 +52,7 @@
     },
     {
       "t": "A",
+      "v": "000010_1",
       "n": "Response"
     },
     {
@@ -61,7 +62,6 @@
     },
     {
       "t": "A",
-      "v": "525811_1",
       "n": "Intro"
     }
   ]

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": true,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "68",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben jemandem erfolgreich einen Aprilscherz gespielt?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Gefälschte Fokusgruppenstudie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du jemandem einmal erfolgreich einen Aprilscherz gespielt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Honest-to-goodness gullibility study.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "499309_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "499307_1",
+"n": "Q"
+},
+{
+"t": "A",
+"v": "499310_1",
+"n": "Intro"
+}
+]
+}

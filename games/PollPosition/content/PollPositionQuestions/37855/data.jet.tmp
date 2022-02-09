@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "1",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute gehen täglich vor der Arbeit zu Starbucks?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "3-4-mal pro Woche",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Externe Untersuchungen",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "täglich",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie oft gehst du in einer normalen Woche vor der Arbeit zu Starbucks?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "1-2-mal pro Woche",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Fast food coffee. Imbibing frequency.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "527301_0",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "527299_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

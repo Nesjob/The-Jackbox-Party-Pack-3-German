@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "33",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute machen täglich ihre Ohren mit Wattestäbchen sauber?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "manchmal",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Vorhersage künstlicher Intelligenz",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "sehr oft täglich",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie oft machst du mit Wattestäbchen deine Ohren sauber?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Wattestäbchen. Reinigungshäufigkeit.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "480240_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "480238_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

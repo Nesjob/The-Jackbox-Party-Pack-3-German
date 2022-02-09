@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "32",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben eine E-Zigarette geraucht?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Informanten der Agentur",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du jemals eine E-Zigarette geraucht?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Electronic cigarette alternatives. Usage statistics.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "488754_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "488752_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

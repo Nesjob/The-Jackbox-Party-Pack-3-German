@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "18",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben sich schon mal auf Twitter öffentlich über ein Unternehmen beschwert?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du dich schon mal auf Twitter öffentlich über ein Unternehmen beschwert?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Dimensionally transversant board games.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "529670_4",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "529668_4",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

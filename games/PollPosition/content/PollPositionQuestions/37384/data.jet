@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": false,
+      "v": true,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Telecom Interception",
+      "v": "Telekommunikationsüberwachung",
       "n": "DataMode"
     },
     {
@@ -62,6 +62,7 @@
     },
     {
       "t": "A",
+      "v": "000008_1",
       "n": "Intro"
     }
   ]

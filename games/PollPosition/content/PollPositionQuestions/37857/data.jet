@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Consumer Analytics",
+      "v": "Marktanalyse",
       "n": "DataMode"
     },
     {
@@ -52,7 +52,6 @@
     },
     {
       "t": "A",
-      "v": "527337_1",
       "n": "Response"
     },
     {

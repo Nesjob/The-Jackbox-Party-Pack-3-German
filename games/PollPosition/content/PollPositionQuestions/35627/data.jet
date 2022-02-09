@@ -2,12 +2,12 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasResponse"
     },
     {
@@ -47,12 +47,11 @@
     },
     {
       "t": "S",
-      "v": "JFK Mörder Theorien. Verschwörungswahrscheinlichkeit.",
+      "v": "Hoher Adrenalingehalt. Meist hoch.",
       "n": "ExpResults"
     },
     {
       "t": "A",
-      "v": "480264_1",
       "n": "Response"
     },
     {
@@ -62,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "480265_1",
       "n": "Intro"
     }
   ]

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "23",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben unter ihrer Kleidung Badesachen getragen, weil ihnen die Unterwäsche ausging?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Vorhersage künstlicher Intelligenz",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du schon einmal unter deiner Kleidung Badesachen getragen, weil dir die Unterwäsche ausging?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Multi-use clothing. Poor planning.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "508435_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "508433_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

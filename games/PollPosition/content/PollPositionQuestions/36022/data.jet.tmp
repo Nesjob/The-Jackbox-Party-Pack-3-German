@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "21",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Anrufer haben lieber Stille als Musik, wenn sie beim Kundendienst in der Warteschleife hängen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Stille",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Abhören",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wenn du beim Kundendienst in der Warteschleife hängst, was möchtest du lieber hören?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Musik",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Impatience multipliers. Instrumental intolerance.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "493180_3",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

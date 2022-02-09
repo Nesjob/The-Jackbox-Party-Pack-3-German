@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "93",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute arbeiten sich beim Puzzle von außen nach innen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "von außen nach innen",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Was ist deine Strategie beim Puzzeln?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "von innen nach außen",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Puzzle methodology. Construction theories.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "515266_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

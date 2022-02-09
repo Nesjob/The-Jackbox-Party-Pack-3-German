@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "14",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben schon mal beim Eurovision Song Contest per Telefon abgestimmt?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du beim Eurovision Song Contest schon mal per Telefon abgestimmt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Shelled reptile bonding. Renaissance artist affinities.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "000011_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "527248_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"17","n":"Val0"},{"t":"N","v":"6","n":"Val1"},{"t":"N","v":"4","n":"Val2"},{"t":"N","v":"3","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welchen Verbrecher hassen die Leute am liebsten?","n":"QText"},{"t":"S","v":"Wer ist dein Lieblingsverbrecher?","n":"PollQ"},{"t":"S","v":"The Joker","n":"Choice0"},{"t":"S","v":"Voldemort","n":"Choice7"},{"t":"S","v":"Riddler","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Magneto","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Professor Moriarty","n":"Choice6"},{"t":"S","v":"Loki","n":"Choice3"},{"t":"S","v":"Lex Luthor","n":"Choice4"},{"t":"S","v":"Darth Vader","n":"Choice1"},{"t":"S","v":"E-Data Decryption","n":"DataMode"},{"t":"S","v":"Malificent","n":"Choice2"},{"t":"S","v":"Fictional Antogonist. Character Obstacles.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"525619_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Verbrecher hassen die Leute am meisten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist dein Hassverbrecher?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "The Joker",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Voldemort",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Riddler",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Magneto",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Professor Moriarty",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Loki",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Lex Luthor",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Darth Vader",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Elektronische Datenentschlüsselung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Malificent",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Fiktionale Antagonisten. Wenig Sympathie.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525619_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

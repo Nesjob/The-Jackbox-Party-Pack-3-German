@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "4",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben einen Hotdog Esswettbewerb mit ihren Freunden veranstaltet?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Handykameras",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Hast du schon einmal einen Hotdog Esswettbewerb mit deinen Freunden veranstaltet?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Head-to-head gluttony. Gag reflex suppression.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "528292_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

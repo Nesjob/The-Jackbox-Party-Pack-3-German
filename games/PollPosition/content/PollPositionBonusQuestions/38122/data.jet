@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"4","n":"Val0"},{"t":"N","v":"4","n":"Val1"},{"t":"N","v":"4","n":"Val2"},{"t":"N","v":"3","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welchen weiblichen Namen verbinden die Leute am ehesten mit einer, die unfreundlich zum Kellner ist?","n":"QText"},{"t":"S","v":"Welchen weiblichen Namen würdest du am meisten mit einer verbinden, die unfreundlich zum Kellner ist?","n":"PollQ"},{"t":"S","v":"Brittany","n":"Choice0"},{"t":"S","v":"Nancy","n":"Choice7"},{"t":"S","v":"Brenda","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Jennifer","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Karen","n":"Choice6"},{"t":"S","v":"Becky","n":"Choice3"},{"t":"S","v":"Ashley","n":"Choice4"},{"t":"S","v":"Jessica","n":"Choice1"},{"t":"S","v":"","n":"DataMode"},{"t":"S","v":"Tiffany","n":"Choice2"},{"t":"S","v":"Female names. Probably pretty rude.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"530527_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen weiblichen Namen verbinden die Leute am ehesten mit einer, die unfreundlich zum Kellner ist?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welchen weiblichen Namen würdest du am meisten mit einer verbinden, die unfreundlich zum Kellner ist?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Brittany",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Nancy",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Brenda",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Jennifer",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Karen",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Becky",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Ashley",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Jessica",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Tiffany",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Weibliche Namen. Wahrscheinlich ziemlich unhöflich.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530527_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

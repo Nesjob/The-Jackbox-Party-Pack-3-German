@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "44",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute hängen beim Betreten des Hotelzimmers sofort das “Bitte nicht stören” Schild an die Tür, auch wenn sie noch nicht schlafen gehen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "vorm Schlafengehen",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Überwachungskameras",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wann hängst du im Hotel das Bitte nicht stören Schild an die Zimmertür?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "direkt sofort",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Hotel privacy. Sign-hanging patterns.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "510703_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "510701_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

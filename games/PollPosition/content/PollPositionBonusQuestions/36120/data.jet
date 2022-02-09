@@ -1,1 +1,153 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"19","n":"Val0"},{"t":"N","v":"10","n":"Val1"},{"t":"N","v":"7","n":"Val2"},{"t":"N","v":"7","n":"Val3"},{"t":"N","v":"5","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welches abergläubische Benehmen legen die meisten Leute an den Tag?","n":"QText"},{"t":"S","v":"Welches abergläubische Benehmen legst du am häufigsten an den Tag","n":"PollQ"},{"t":"S","v":"auf Holz klopfen","n":"Choice0"},{"t":"S","v":"an einer gelben Ampel aufs Dach klopfen","n":"Choice7"},{"t":"S","v":"schwarze Katzen vermeiden","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Finger kreuzen","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Centstücke mit Kopf nach oben aufheben","n":"Choice6"},{"t":"S","v":"nicht auf Rissen laufen","n":"Choice3"},{"t":"S","v":"keins","n":"Choice4"},{"t":"S","v":"nicht unter einer Leiter hergehen","n":"Choice1"},{"t":"S","v":"Field Operatives","n":"DataMode"},{"t":"S","v":"Salz über die Schulter werfen","n":"Choice2"},{"t":"S","v":"Bad luck. Supernatural causes.","n":"ExpResults"},{"t":"A","v":"496028_0","n":"Response"},{"t":"A","v":"496026_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welches abergläubische Benehmen legen die meisten Leute an den Tag?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welches abergläubische Benehmen legst du am häufigsten an den Tag",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "auf Holz klopfen",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "an einer gelben Ampel aufs Dach klopfen",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "schwarze Katzen vermeiden",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Finger kreuzen",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Centstücke mit Kopf nach oben aufheben",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "nicht auf Rissen laufen",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "keins",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "nicht unter einer Leiter hergehen",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Außendienstmitarbeiter",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Salz über die Schulter werfen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Pech. Schuld der Natur.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "496028_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496026_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

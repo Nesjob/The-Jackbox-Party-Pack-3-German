@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "16",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute würden ihren Eltern zutrauen, einen guten Ehepartner für sie zu finden?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Vorhersage künstlicher Intelligenz",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Würdest du deinen Eltern zutrauen, einen guten Ehepartner für dich zu finden?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Mom & Dad: Love gurus.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "482952_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "482950_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

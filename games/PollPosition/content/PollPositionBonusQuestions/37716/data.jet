@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"14","n":"Val0"},{"t":"N","v":"6","n":"Val1"},{"t":"N","v":"5","n":"Val2"},{"t":"N","v":"2","n":"Val3"},{"t":"N","v":"1","n":"Val4"},{"t":"N","v":"1","n":"Val5"},{"t":"N","v":"1","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Neben den Augen, welchen Teil des menschlichen Gesichts finden die Leute am meisten sexy?","n":"QText"},{"t":"S","v":"Was ist der sexiest Teil des menschlichen Gesichts?","n":"PollQ"},{"t":"S","v":"Lippen","n":"Choice0"},{"t":"S","v":"Zunge","n":"Choice7"},{"t":"S","v":"Kieferpartie","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Zähne","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Haare","n":"Choice6"},{"t":"S","v":"Wangen","n":"Choice3"},{"t":"S","v":"Nase","n":"Choice4"},{"t":"S","v":"Mund","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Lächeln","n":"Choice2"},{"t":"S","v":"Facial Features. Neck-up Arousal.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"525330_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Neben den Augen, welchen Teil des menschlichen Gesichts finden die Leute am meisten sexy?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist der sexiest Teil des menschlichen Gesichts?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Lippen",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Zunge",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Kieferpartie",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Zähne",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Haare",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Wangen",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Nase",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Mund",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lächeln",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Gesichtszüge. Nackenerregung.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525330_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

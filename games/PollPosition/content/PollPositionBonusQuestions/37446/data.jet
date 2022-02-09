@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"18","n":"Val0"},{"t":"N","v":"15","n":"Val1"},{"t":"N","v":"12","n":"Val2"},{"t":"N","v":"12","n":"Val3"},{"t":"N","v":"6","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Welchen Prominenten finden die Leute am nervigsten?","n":"QText"},{"t":"S","v":"Wer ist der nervigste Prominente?","n":"PollQ"},{"t":"S","v":"Kim Kardashian","n":"Choice0"},{"t":"S","v":"Ariana Grande","n":"Choice7"},{"t":"S","v":"Gwyneth Paltrow","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Miley Cyrus","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Alle","n":"Choice6"},{"t":"S","v":"Die Kardashians","n":"Choice3"},{"t":"S","v":"Justin Bieber","n":"Choice4"},{"t":"S","v":"Kanye West","n":"Choice1"},{"t":"S","v":"Human Microchip","n":"DataMode"},{"t":"S","v":"Donald Trump","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"521543_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Prominenten finden die Leute am nervigsten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist der nervigste Prominente?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Til Schweiger",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Matthias Schweighöfer",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Hella von Sinnen",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Die Geissens",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Heidi Klum",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Justin Bieber",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Kim Kardashian",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Mario Barth",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Menschliche Mikrochips",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Michael Wendler",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "521543_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

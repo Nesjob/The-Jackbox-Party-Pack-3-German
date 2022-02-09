@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "13",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute salzen fast immer das Essen, das ihnen serviert wird?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "fast nie",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Agenten im Außendienst",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "fast immer",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie oft salzst du das Essen, das dir serviert wird?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Food additives. Personal application.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "515077_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "515075_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

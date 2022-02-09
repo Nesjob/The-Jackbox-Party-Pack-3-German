@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben mit ihren Freunden schon mal einen Essens-Wettbewerb veranstaltet?",
+      "v": "Wie viel Prozent der Leute haben einmal auf einer Bar getanzt?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du schon mal mit Freunden einen Essens-Wettbewerb veranstaltet?",
+      "v": "Hast du schon mal auf einer Bar getanzt?",
       "n": "PollQ"
     },
     {

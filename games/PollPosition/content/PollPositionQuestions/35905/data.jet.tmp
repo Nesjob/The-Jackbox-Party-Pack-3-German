@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "38",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "Frauen",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Frauen haben mehr Paar Abendschuhe als Freundinnen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "gute Freundinnen",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Gefälschte Fokusgruppenstudie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "schwierig",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "An die Frauen: Wovon hast du mehr?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Abendschuhe",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Valued female assets. Shoes vs. friends.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "488440_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "488438_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

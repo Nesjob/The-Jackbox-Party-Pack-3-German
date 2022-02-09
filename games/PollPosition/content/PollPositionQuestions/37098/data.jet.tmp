@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "26",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute unterdrücken NIE in der Öffentlichkeit das Niesen, sondern niesen laut?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "manchmal",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Biometrie",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "nie",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Versuchst du in der Öffentlichkeit das Niesen durch geschlossenen Mund zu unterdrücken?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "normalerweise",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Personal expression. Unfettered nasal eruption.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "517366_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

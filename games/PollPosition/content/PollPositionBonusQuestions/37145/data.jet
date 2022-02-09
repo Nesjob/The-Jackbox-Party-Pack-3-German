@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"11","n":"Val0"},{"t":"N","v":"7","n":"Val1"},{"t":"N","v":"5","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Alaska und Hawaii ausgeschlossen, bei welchem U.S. Bundesstaat sind sich die Leute am sichersten, dass sie ihn nie besuchen werden?","n":"QText"},{"t":"S","v":"Bei welchem U.S. Bundesstaat bist du dir am sichersten, dass du ihn nie besuchen wirst?","n":"PollQ"},{"t":"S","v":"North Dakota","n":"Choice0"},{"t":"S","v":"Arkansas","n":"Choice7"},{"t":"S","v":"Nebraska","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Mississippi","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Alabama","n":"Choice6"},{"t":"S","v":"Montana","n":"Choice3"},{"t":"S","v":"Texas","n":"Choice4"},{"t":"S","v":"Wyoming","n":"Choice1"},{"t":"S","v":"Faked Focus-Group Study","n":"DataMode"},{"t":"S","v":"Idaho","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"517915_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Bei welchem Land sind sich die Leute am sichersten, dass sie ihn nie besuchen werden?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Bei welchem Land bist du dir am sichersten, dass du es nie besuchen wirst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nordkorea",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Alaska",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Saudi Arabien",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Syrien",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "China",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Türkei",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Südsudan",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Irak",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Gefälschte Fokusgruppenstudie",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Afghanistan",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517915_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"45","n":"Val0"},{"t":"N","v":"16","n":"Val1"},{"t":"N","v":"12","n":"Val2"},{"t":"N","v":"9","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Welcher Dr. Who war der beste?","n":"QText"},{"t":"S","v":"Wer ist dein Lieblings- Dr. Who (Schauspieler or Doktor Nummer)?","n":"PollQ"},{"t":"S","v":"David Tennant #10","n":"Choice0"},{"t":"S","v":"Colin Baker #6","n":"Choice7"},{"t":"S","v":"Jon Pertwee #3","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"William Hartnell #1","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Sylvester McCoy #7","n":"Choice6"},{"t":"S","v":"Tom Baker #4","n":"Choice3"},{"t":"S","v":"Peter Capaldi #12","n":"Choice4"},{"t":"S","v":"Matt Smith #11","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Christopher Eccleston #9","n":"Choice2"},{"t":"S","v":"Dr. Who. The greatest doctor.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"537634_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "45",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welcher Dr. Who war der beste?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist dein Lieblings- Dr. Who (Schauspieler or Doktor Nummer)?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "David Tennant #10",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Colin Baker #6",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Jon Pertwee #3",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "William Hartnell #1",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Sylvester McCoy #7",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Tom Baker #4",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Peter Capaldi #12",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Matt Smith #11",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Bevölkerungsprofilierung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Christopher Eccleston #9",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Who. Der Beste.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "537634_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

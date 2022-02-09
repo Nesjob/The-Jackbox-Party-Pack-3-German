@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "51",
+"n": "A"
+},
+{
+"t": "N",
+"v": "1",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute mögen Waffeln lieber als Pfannkuchen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Waffeln",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Versteckte Heimkamera",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Was magst du lieber: Pfannkuchen oder Waffeln?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Pfannkuchen",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Diner conundrums. Waffles vs. pancakes.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "494376_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "494374_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

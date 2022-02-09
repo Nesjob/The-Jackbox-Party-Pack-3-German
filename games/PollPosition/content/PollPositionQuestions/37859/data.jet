@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Robotic Spy Hummingbirds",
+      "v": "Roboter-Spionagekolibris",
       "n": "DataMode"
     },
     {
@@ -61,7 +61,6 @@
     },
     {
       "t": "A",
-      "v": "527372_2",
       "n": "Intro"
     }
   ]

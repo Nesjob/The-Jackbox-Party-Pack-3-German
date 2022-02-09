@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "16",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute haben beim Hören von Adele geweint?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Versteckte Mikros in Fake Steinen",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Musstest du beim Hören von Adele einmal weinen?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Emotionally evocative singers. British.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "000006_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "517043_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

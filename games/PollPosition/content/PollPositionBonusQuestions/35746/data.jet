@@ -1,1 +1,153 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"46","n":"Val0"},{"t":"N","v":"9","n":"Val1"},{"t":"N","v":"8","n":"Val2"},{"t":"N","v":"7","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Was vermuten die Leute als Ursache für Echos oder Brummen während ihrer Telefongespräche?","n":"QText"},{"t":"S","v":"Wenn du ein Echo oder Brummen während deines Telefongesprächs hörst, was ist deiner Meinung nach die Ursache?","n":"PollQ"},{"t":"S","v":"schlechte Verbindung","n":"Choice0"},{"t":"S","v":"elektronische Störung","n":"Choice7"},{"t":"S","v":"eigene Schuld","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Aliens","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"eingehender Anruf","n":"Choice6"},{"t":"S","v":"der Gesprächspartner","n":"Choice3"},{"t":"S","v":"defektes Telefon","n":"Choice4"},{"t":"S","v":"Lautsprecher","n":"Choice1"},{"t":"S","v":"Wiretapping","n":"DataMode"},{"t":"S","v":"Abhöraktion","n":"Choice2"},{"t":"S","v":"Telephone echo. Public explanations.","n":"ExpResults"},{"t":"A","v":"483921_0","n":"Response"},{"t":"A","v":"483919_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "46",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was vermuten die Leute als Ursache für Echos oder Brummen während ihrer Telefongespräche?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du ein Echo oder Brummen während deines Telefongesprächs hörst, was ist deiner Meinung nach die Ursache?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "schlechte Verbindung",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "elektronische Störung",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "eigene Schuld",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "eingehender Anruf",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "der Gesprächspartner",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "defektes Telefon",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Lautsprecher",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Abhören",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Abhöraktion",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Telefonprobleme. Öffentliche Erklärungsversuche.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "483921_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "483919_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

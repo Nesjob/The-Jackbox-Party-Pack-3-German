@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"18","n":"Val0"},{"t":"N","v":"16","n":"Val1"},{"t":"N","v":"9","n":"Val2"},{"t":"N","v":"8","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Welchen Cartoon Hund möchten die Leute am ehesten als Haustier haben?","n":"QText"},{"t":"S","v":"Welchen Cartoon Hund möchtest du als Haustier haben?","n":"PollQ"},{"t":"S","v":"Scooby-Doo","n":"Choice0"},{"t":"S","v":"Dug (<i>Up<\/i>)","n":"Choice7"},{"t":"S","v":"Krypto, der Superhund","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Courage der feige Hund","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Pluto (<i>Mickey Mouse<\/i>)","n":"Choice6"},{"t":"S","v":"Clifford, der große rote Hund","n":"Choice3"},{"t":"S","v":"Odie (<i>Garfield<\/i>)","n":"Choice4"},{"t":"S","v":"Snoopy (<i>Peanuts<\/i>)","n":"Choice1"},{"t":"S","v":"Population Profiling","n":"DataMode"},{"t":"S","v":"Brian (<i>Family Guy<\/i>)","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"526921_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Cartoon Hund möchten die Leute am ehesten als Haustier haben?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Cartoon Hund möchtest du als Haustier haben?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Scooby-Doo",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Dug (<i>Up</i>)",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Krypto, der Superhund",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Courage der feige Hund",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Pluto (<i>Mickey Mouse</i>)",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Clifford, der große rote Hund",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Odie (<i>Garfield</i>)",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Snoopy (<i>Peanuts</i>)",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Bevölkerungsprofilierung",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Brian (<i>Family Guy</i>)",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526921_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

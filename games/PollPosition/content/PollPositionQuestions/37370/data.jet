@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasResponse"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Satellite Imagery",
+      "v": "Satellitenbilder",
       "n": "DataMode"
     },
     {
@@ -67,6 +67,7 @@
     },
     {
       "t": "A",
+      "v": "000007_1",
       "n": "Response"
     },
     {

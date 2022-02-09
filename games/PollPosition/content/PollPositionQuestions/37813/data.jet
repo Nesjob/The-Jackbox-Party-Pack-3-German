@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Aerial Drone",
+      "v": "Drohnen",
       "n": "DataMode"
     },
     {
@@ -62,7 +62,6 @@
     },
     {
       "t": "A",
-      "v": "526678_1",
       "n": "Intro"
     }
   ]

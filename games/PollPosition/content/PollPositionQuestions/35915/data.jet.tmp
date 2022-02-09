@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "26",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute LIEBEN Attraktionen im Freizeitpark, die sie schnell im Kreis schleudern?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Ich hasse sie.",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Agenten im Außendienst",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Es kommt auf die Attraktion an.",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie ist deine Meinung zu Attraktionen im Freizeitpark, die dich schnell im Kreis schleudern?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Ich liebe sie!",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Amusement contraptions. Addiction to G-force.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "488700_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "488698_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

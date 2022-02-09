@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": true,
+      "v": false,
       "n": "HasIntro"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Toilet Cam",
+      "v": "Toilettenkamera",
       "n": "DataMode"
     },
     {
@@ -62,7 +62,6 @@
     },
     {
       "t": "A",
-      "v": "527268_1",
       "n": "Intro"
     }
   ]

@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": true,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "27",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute erlauben auf ihrer Kreditkarte Abbuchungen für Sachen, die sie nicht mehr nutzen, aber aus Faulheit nicht gekündigt haben?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Marktanalyse",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Wird auf deiner Kreditkarte etwas abgebucht, was du nicht mehr nutzt, aber zu faul bist, es zu kündigen?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Unwanted services. Minimum payments due.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "512036_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "512034_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

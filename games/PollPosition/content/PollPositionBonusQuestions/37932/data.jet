@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"61","n":"Val0"},{"t":"N","v":"14","n":"Val1"},{"t":"N","v":"10","n":"Val2"},{"t":"N","v":"4","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"2","n":"Val5"},{"t":"N","v":"1","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Mit welchem Buchstaben fängt das Lieblingsschimpfwort an?","n":"QText"},{"t":"S","v":"Mit welchem Buchstaben fängt dein Lieblingsschimpfwort an?","n":"PollQ"},{"t":"S","v":"F","n":"Choice0"},{"t":"S","v":"J","n":"Choice7"},{"t":"S","v":"P","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"A","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"M","n":"Choice6"},{"t":"S","v":"D","n":"Choice3"},{"t":"S","v":"B","n":"Choice4"},{"t":"S","v":"S","n":"Choice1"},{"t":"S","v":"Social Media Data Mining","n":"DataMode"},{"t":"S","v":"C","n":"Choice2"},{"t":"S","v":"Edited speech. Profane slang.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"528448_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "61",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Mit welchem Buchstaben fängt das Lieblingsschimpfwort der Leute an?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Mit welchem Buchstaben fängt dein Lieblingsschimpfwort an?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "S",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "J",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "P",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "A",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "M",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "D",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "B",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "F",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Social Media Datenanalyse",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "C",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Redigierte Rede. Profaner Slang.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528448_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

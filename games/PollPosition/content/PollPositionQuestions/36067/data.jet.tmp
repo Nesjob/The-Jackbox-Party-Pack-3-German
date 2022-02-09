@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "69",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wenn die Leute ein Haar in einem Stück Essen finden, wie viel Prozent von ihnen haben das Stück weitergegessen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Ich habe aufgehört es zu essen.",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Agenten im Außendienst",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Als du das letzte Mal in einem Stück Essen ein Haar fandest, was hast du mit dem Stück gemacht?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Ich habe es weiter gegessen.",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Shed locks as garnish. Levels of acceptance.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "494359_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "494357_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

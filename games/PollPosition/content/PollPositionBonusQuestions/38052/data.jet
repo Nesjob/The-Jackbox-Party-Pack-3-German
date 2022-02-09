@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"17","n":"Val0"},{"t":"N","v":"13","n":"Val1"},{"t":"N","v":"10","n":"Val2"},{"t":"N","v":"10","n":"Val3"},{"t":"N","v":"7","n":"Val4"},{"t":"N","v":"5","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Wer ist der lustigste britische Comedian?","n":"QText"},{"t":"S","v":"Wer ist der lustigste britische Comedian?","n":"PollQ"},{"t":"S","v":"Ricky Gervais","n":"Choice0"},{"t":"S","v":"Benny Hill","n":"Choice7"},{"t":"S","v":"David Mitchell","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Rowan Atkinson","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Simon Pegg","n":"Choice6"},{"t":"S","v":"John Cleese","n":"Choice3"},{"t":"S","v":"Jimmy Carr","n":"Choice4"},{"t":"S","v":"Eddie Izzard","n":"Choice1"},{"t":"S","v":"Hidden-Microphone Fake Rocks","n":"DataMode"},{"t":"S","v":"John Oliver","n":"Choice2"},{"t":"S","v":"British comedians. The funniest.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"529651_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist der lustigste britische Comedian?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist der lustigste britische Comedian?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ricky Gervais",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Benny Hill",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "David Mitchell",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Rowan Atkinson",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Simon Pegg",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "John Cleese",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Jimmy Carr",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Eddie Izzard",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Versteckte Mikrofone in Fake Steinen",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "John Oliver",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Britische Comedians. Die lustigsten.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529651_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

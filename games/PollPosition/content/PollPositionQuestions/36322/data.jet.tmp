@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "false",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "48",
+"n": "A"
+},
+{
+"t": "N",
+"v": "2",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute sind IMMER zurück an ihrem Auto, bevor die Parkuhr abläuft?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "10-15 Minuten",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Externe Untersuchungen",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "mehr als 15 Minuten",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Wie lange bist du bereit, dein Auto an einer gerade abgelaufenen Parkuhr stehen zu lassen, bevor du zurückkommst?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "ein paar Minuten",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Municipal brinkmanship. Beating expirations.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "500749_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

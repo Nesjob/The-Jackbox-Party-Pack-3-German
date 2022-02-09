@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "40",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute sagen “das” statt “die” Nutella?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "die Nutella",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Befragung der deutschen Community",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Was sagst du zu Nutella?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "das Nutella",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Lange ungelöstes Mysterium. Endlich gelöst.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "500802_1",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "500800_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"3","n":"Val0"},{"t":"N","v":"3","n":"Val1"},{"t":"N","v":"2","n":"Val2"},{"t":"N","v":"1","n":"Val3"},{"t":"N","v":"1","n":"Val4"},{"t":"N","v":"1","n":"Val5"},{"t":"N","v":"1","n":"Val6"},{"t":"N","v":"1","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Neben \u201cMama\u201d oder \u201cPaPa,\u201d was war das erste Wort, was die meisten Babys gesagt haben?","n":"QText"},{"t":"S","v":"Was war das erste Wort, das du als Baby gesagt hast?","n":"PollQ"},{"t":"S","v":"\u201cNein\u201d","n":"Choice0"},{"t":"S","v":"\u201cOben\u201d","n":"Choice7"},{"t":"S","v":"\u201cPuppe\u201d","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"\u201cHi\u201d","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"\u201cMond\u201d","n":"Choice6"},{"t":"S","v":"\u201cAuto\u201d","n":"Choice3"},{"t":"S","v":"\u201cGut\u201d","n":"Choice4"},{"t":"S","v":"\u201cBall\u201d","n":"Choice1"},{"t":"S","v":"Wiretapping","n":"DataMode"},{"t":"S","v":"\u201cBaby\u201d","n":"Choice2"},{"t":"S","v":"First words. As a baby.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"530391_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Neben “Mama” oder “Papa,” was war das erste Wort, was die meisten Babys gesagt haben?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was war das erste Wort, das du als Baby gesagt hast?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "“Nein”",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "“Oben”",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "“Puppe”",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "“Hi”",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "“Mond”",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "“Auto”",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "“Gut”",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "“Ball”",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Abhören",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "“Baby”",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Erste Worte. Als Baby.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530391_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"32","n":"Val0"},{"t":"N","v":"14","n":"Val1"},{"t":"N","v":"11","n":"Val2"},{"t":"N","v":"8","n":"Val3"},{"t":"N","v":"3","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"2","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"1","n":"Val8"},{"t":"S","v":"Welchen Charakter aus <i>Game of Thrones<\/i> mögen die Leute am meisten?","n":"QText"},{"t":"S","v":"Wer ist dein Lieblingscharakter aus <i>Game of Thrones<\/i>?","n":"PollQ"},{"t":"S","v":"Tyrion Lannister","n":"Choice0"},{"t":"S","v":"Davos Seewert","n":"Choice7"},{"t":"S","v":"Cersei Lennister","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Habe ich nicht gesehen","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Bran Stark","n":"Choice6"},{"t":"S","v":"Jon Schnee","n":"Choice3"},{"t":"S","v":"Brienne von Tarth","n":"Choice4"},{"t":"S","v":"Arya Stark","n":"Choice1"},{"t":"S","v":"Broadband Traffic Monitoring","n":"DataMode"},{"t":"S","v":"Daenerys Targaryen","n":"Choice2"},{"t":"S","v":"See also: Musical Chairs.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"539882_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "32",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welchen Charakter aus <i>Game of Thrones</i> mögen die Leute am meisten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wer ist dein Lieblingscharakter aus <i>Game of Thrones</i>?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Tyrion Lannister",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Davos Seewert",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Cersei Lennister",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Habe ich nicht gesehen",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Bran Stark",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Jon Schnee",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Brienne von Tarth",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Arya Stark",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Überwachung des Breitbandverkehrs",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Daenerys Targaryen",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Ebenfalls interessant: Musikalische Stühle.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "539882_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

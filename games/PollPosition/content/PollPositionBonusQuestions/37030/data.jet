@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"14","n":"Val0"},{"t":"N","v":"12","n":"Val1"},{"t":"N","v":"11","n":"Val2"},{"t":"N","v":"10","n":"Val3"},{"t":"N","v":"10","n":"Val4"},{"t":"N","v":"8","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"4","n":"Val8"},{"t":"S","v":"Welche Nudelsorte essen die Leute am liebsten?","n":"QText"},{"t":"S","v":"Welche Nudelsorte isst du am liebsten?","n":"PollQ"},{"t":"S","v":"Spaghetti","n":"Choice0"},{"t":"S","v":"Ravioli","n":"Choice7"},{"t":"S","v":"Fettuccine","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Capellini","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Muschel","n":"Choice6"},{"t":"S","v":"Penne","n":"Choice3"},{"t":"S","v":"Makkaroni","n":"Choice4"},{"t":"S","v":"Rotini","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"Farfalle","n":"Choice2"},{"t":"S","v":"Pasta proclivities. Shape-related.","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"516276_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Welche Nudelsorte essen die Leute am liebsten?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Welche Nudelsorte isst du am liebsten?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Spaghetti",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Ravioli",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fettuccine",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Capellini",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Muschel",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Penne",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Makkaroni",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Rotini",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Marktanalysen",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Farfalle",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Pasta-Vorlieben. Formorientiert.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "516276_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

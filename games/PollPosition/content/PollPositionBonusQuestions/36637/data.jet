@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"true","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"33","n":"Val0"},{"t":"N","v":"25","n":"Val1"},{"t":"N","v":"14","n":"Val2"},{"t":"N","v":"6","n":"Val3"},{"t":"N","v":"6","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"2","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Was ist Bill Murray\u2019s bester Film?","n":"QText"},{"t":"S","v":"Was ist Bill Murray\u2019s bester Film?","n":"PollQ"},{"t":"S","v":"<i>Ghostbusters<\/i>","n":"Choice0"},{"t":"S","v":"<i>Die Geister, die ich rief<\/i>","n":"Choice7"},{"t":"S","v":"<i>Die Tiefseetaucher<\/i>","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"<i>Ich glaub, mich knutscht ein Elch<\/i>","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"<i>Lost in Translation<\/i>","n":"Choice6"},{"t":"S","v":"<i>Zombieland<\/i>","n":"Choice3"},{"t":"S","v":"<i>Was ist mit Bob?<\/i>","n":"Choice4"},{"t":"S","v":"<i>Und täglich grüßt das Murmeltier<\/i>","n":"Choice1"},{"t":"S","v":"Consumer Analytics","n":"DataMode"},{"t":"S","v":"<i>Wahnsinn ohne Handicap<\/i>","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"507864_1","n":"Q"},{"t":"A","v":"507867_0","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was ist laut den Leuten der beste Film mit Matthias Schweighöfer?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was ist der beste Film mit Matthias Schweighöfer?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Der geilste Tag</i>",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>Rubbeldiekatz</i>",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>Friendship</i>",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>Vaterfreuden</i>",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>Frau Ella</i>",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Keiner</i>",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>Keinohrhasen</i>",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>Schlussmacher</i>",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Marktanalysen",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Army of Thieves</i>",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "507864_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

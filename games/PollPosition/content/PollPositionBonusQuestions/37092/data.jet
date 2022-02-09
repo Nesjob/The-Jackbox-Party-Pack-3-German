@@ -1,1 +1,152 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"false","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"19","n":"Val0"},{"t":"N","v":"11","n":"Val1"},{"t":"N","v":"6","n":"Val2"},{"t":"N","v":"6","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"4","n":"Val5"},{"t":"N","v":"4","n":"Val6"},{"t":"N","v":"4","n":"Val7"},{"t":"N","v":"3","n":"Val8"},{"t":"S","v":"Wo bewahren die Leute ihr Kleingeld auf?","n":"QText"},{"t":"S","v":"Wo bewahrst du dein Kleingeld auf?","n":"PollQ"},{"t":"S","v":"Glas","n":"Choice0"},{"t":"S","v":"Auto","n":"Choice7"},{"t":"S","v":"Portemonnaie","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Flasche","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Schüssel","n":"Choice6"},{"t":"S","v":"Schale","n":"Choice3"},{"t":"S","v":"Brieftasche","n":"Choice4"},{"t":"S","v":"Sparschwein","n":"Choice1"},{"t":"S","v":"","n":"DataMode"},{"t":"S","v":"Münzenbank (kein Sparschwein)","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","n":"Response"},{"t":"A","v":"517264_1","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Wo bewahren die Leute ihr Kleingeld auf?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Wo bewahrst du dein Kleingeld auf?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Glas",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Auto",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Portemonnaie",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Flasche",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Schüssel",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Schale",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Brieftasche",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Sparschwein",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Münzenbank (kein Sparschwein)",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517264_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

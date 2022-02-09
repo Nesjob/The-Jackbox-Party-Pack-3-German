@@ -1,0 +1,69 @@
+{
+"fields": [
+{
+"t": "B",
+"v": false,
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": false,
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "60",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "yn",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute inspizieren beim Essen zum Mitnehmen den Inhalt der Tüte, bevor sie das Restaurant verlassen?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Satellitenbilder",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "Inspizierst du beim Essen zum Mitnehmen den Inhalt der Tüte, bevor du das Restaurant verlässt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "Food pick up. Inspection methods.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+
+"n": "Response"
+},
+{
+"t": "A",
+"v": "516576_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}

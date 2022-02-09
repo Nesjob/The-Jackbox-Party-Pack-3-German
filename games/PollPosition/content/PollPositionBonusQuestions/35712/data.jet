@@ -1,1 +1,153 @@
-{"fields":[{"t":"B","v":"false","n":"HasIntro"},{"t":"B","v":"true","n":"HasResponse"},{"t":"N","v":"0","n":"PollAns"},{"t":"N","v":"21","n":"Val0"},{"t":"N","v":"16","n":"Val1"},{"t":"N","v":"15","n":"Val2"},{"t":"N","v":"8","n":"Val3"},{"t":"N","v":"4","n":"Val4"},{"t":"N","v":"3","n":"Val5"},{"t":"N","v":"3","n":"Val6"},{"t":"N","v":"3","n":"Val7"},{"t":"N","v":"2","n":"Val8"},{"t":"S","v":"Was vergessen die Leute am häufigsten, wenn sie aus der Haustür gehen?","n":"QText"},{"t":"S","v":"Was vergisst du am häufigsten, wenn du aus der Haustür gehst?","n":"PollQ"},{"t":"S","v":"Handy","n":"Choice0"},{"t":"S","v":"Wasserflasche","n":"Choice7"},{"t":"S","v":"Jacke","n":"Choice8"},{"t":"S","v":"","n":"Target"},{"t":"S","v":"Kopfhörer","n":"Choice5"},{"t":"S","v":"open","n":"Type"},{"t":"S","v":"Stempelkarte für die Arbeit","n":"Choice6"},{"t":"S","v":"Brille","n":"Choice3"},{"t":"S","v":"Mittagessen","n":"Choice4"},{"t":"S","v":"Schlüssel","n":"Choice1"},{"t":"S","v":"Hidden Home Cam","n":"DataMode"},{"t":"S","v":"Brieftasche","n":"Choice2"},{"t":"S","v":"","n":"ExpResults"},{"t":"A","v":"482982_0","n":"Response"},{"t":"A","v":"482980_2","n":"Q"},{"t":"A","n":"Intro"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Was vergessen die Leute am häufigsten, wenn sie aus der Haustür gehen?",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Was vergisst du am häufigsten, wenn du aus der Haustür gehst?",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Handy",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Wasserflasche",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Jacke",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Kopfhörer",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Stempelkarte für die Arbeit",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Brille",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Mittagessen",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Schlüssel",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Versteckte Heimkameras",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Brieftasche",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "482982_0",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482980_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

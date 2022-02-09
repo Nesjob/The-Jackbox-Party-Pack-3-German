@@ -1,0 +1,84 @@
+{
+"fields": [
+{
+"t": "B",
+"v": "false",
+"n": "HasIntro"
+},
+{
+"t": "B",
+"v": "true",
+"n": "HasResponse"
+},
+{
+"t": "N",
+"v": "38",
+"n": "A"
+},
+{
+"t": "N",
+"v": "0",
+"n": "PollAns"
+},
+{
+"t": "S",
+"v": "",
+"n": "Target"
+},
+{
+"t": "S",
+"v": "mc",
+"n": "Type"
+},
+{
+"t": "S",
+"v": "Wie viel Prozent der Leute ziehen iPhones den Android-Smartphones vor?",
+"n": "QText"
+},
+{
+"t": "S",
+"v": "Android",
+"n": "Choice1"
+},
+{
+"t": "S",
+"v": "Elektronische Datenentschlüsselung",
+"n": "DataMode"
+},
+{
+"t": "S",
+"v": "",
+"n": "Choice2"
+},
+{
+"t": "S",
+"v": "Welches mobile Betriebssystem benutzt du bevorzugt?",
+"n": "PollQ"
+},
+{
+"t": "S",
+"v": "iOS (iPhone)",
+"n": "Choice0"
+},
+{
+"t": "S",
+"v": "Cellular preferences. iPhone vs. Android.",
+"n": "ExpResults"
+},
+{
+"t": "A",
+"v": "529245_3",
+"n": "Response"
+},
+{
+"t": "A",
+"v": "529243_1",
+"n": "Q"
+},
+{
+"t": "A",
+
+"n": "Intro"
+}
+]
+}
