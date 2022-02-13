@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Männer haben mehr als 50$ für einen Haarschnitt ausgegeben?",
+      "v": "Wie viel Prozent der Männer haben mehr als 50€ für einen Haarschnitt ausgegeben?",
       "n": "QText"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "An die Männer: Hast du für einen Haarschnitt schon einmal mehr als 50$ ausgegeben?",
+      "v": "An die Männer: Hast du für einen Haarschnitt schon einmal mehr als 50€ ausgegeben?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Male salon treatments. Financial investments.",
+      "v": "Friseurbesuch für Männer. Finanzielle Investitionen.",
       "n": "ExpResults"
     },
     {
