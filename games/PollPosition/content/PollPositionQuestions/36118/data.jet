@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute sind mit jemandem auf Social Media befreundet, den sie noch nie persönlich getroffen haben?",
+      "v": "Wie viel Prozent der Leute sind mit jemandem auf Social Media befreundet, den sie GAR NICHT kennen?",
       "n": "QText"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Bist du mit jemandem auf Social Media befreundet, den du noch nie persönlich getroffen hast?",
+      "v": "Bist du mit jemandem auf Social Media befreundet, den du GAR NICHT kennst?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Freundschaften in sozialen Netzwerken. Digital vs. körperlioch.",
+      "v": "Freundschaften in sozialen Netzwerken. Digital vs. Körperlich.",
       "n": "ExpResults"
     },
     {
