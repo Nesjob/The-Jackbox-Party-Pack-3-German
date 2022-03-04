@@ -51,10 +51,10 @@
         "HELP_CLOSE": "Schliessen",
         "HELP_LINE_1": "Wähle ein Spiel aus.",
         "HELP_LINE_2": "Sobald du in der Spiel-Lobby bist, greif nach deinem Handy oder Tablet.",
-        "HELP_LINE_3": "Besuche unsere Website Jackbox.tv auf deinem Gerät.",
+        "HELP_LINE_3": "Besuche unsere Website Jackbox.gg auf deinem Gerät.",
         "HELP_LINE_4": "Tippe den 4-stelligen Code vom Bildschirm ab.",
         "HELP_LINE_5": "Tippe deinen Spielernamen ein.",
-        "HELP_LINE_6": "Der erste Spieler der die Lobby betritt (VIP), kann das Spiel starten.<br>Achte darauf, dass alle Mitspieler bereit sind."
+        "HELP_LINE_6": "Der erste Spieler, der die Lobby betritt (VIP), kann das Spiel starten.<br>Achte darauf, dass alle Mitspieler bereit sind."
     },
     "fr": {
         "LANGUAGE_NAME": "Français",
