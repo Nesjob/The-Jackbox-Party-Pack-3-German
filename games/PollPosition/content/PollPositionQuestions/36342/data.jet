@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du mehr als 1.00€ Bargeld bei dir, welches nicht auf der Bank liegt?",
+      "v": "Hast du mehr als 1.000€ Bargeld bei dir, welches nicht auf der Bank liegt?",
       "n": "PollQ"
     },
     {
