@@ -1,0 +1,82 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 51,
+    "clip": "TDSettingsWidget",
+    "items": [
+        {
+            "title": "Lautstärke",
+            "type": "Range",
+            "clip": "TDSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Macht das Spiel LAUT oder LEISE."
+        },
+        {
+            "title": "Vollbild-Modus",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Setzt das Spiel in den Vollbild-Modus."
+        },
+        {
+            "title": "Publikum",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "Mit dem Publikum können Spieler jederzeit beitreten und das Spiel beeinflussen."
+        },
+        {
+            "title": "Verlängerte Timer",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "Verlängerte Timer geben dir mehr Zeit, Entscheidungen zu treffen."
+        },
+        {
+            "title": "Twitch voraussetzen",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "Setze voraus, dass sich Spieler mit Twitch anmelden müssen."
+        },
+        {
+            "title": "Tutorials überspringen",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "Überspringt Tutorial-Abschnitte"
+        },
+        {
+            "title": "Kein Schreiben und Zeichnen",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUserEntryKillingFloors",
+            "description": "Du vertraust den Spielern nicht? Mit dieser Option gelangen keine Eingaben von Nutzern im Spiel."
+        },
+        {
+            "title": "Spiel nur vom PC starten",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "Das Spiel muss vom PC gestartet werden statt von den Geräten der Spieler."
+        },
+        {
+            "title": "Raumcode verstecken erlauben",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "Erlaubt, dass der Raumcode auf dem Bildschirm versteckt werden kann."
+        }
+    ]
+}
