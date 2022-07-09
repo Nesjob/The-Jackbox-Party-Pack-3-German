@@ -1,0 +1,56 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Spiel-Statistiken",
+            "description": "Statistiken der aktuellen Spielsession. (Werden zurückgesetzt, wenn das Spiel verlassen wird)."
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch-Statistiken",
+            "description": "Statistiken für Spiele mit Twitch. (Bleiben gespeichert, wenn das Spiel verlassen wird)."
+        }
+    ],
+    "columns": [
+        {
+            "id": "playerName",
+            "name": "Spielername",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "topScore",
+            "name": "Highscore",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "averageScore",
+            "name": "Ø-Punkte",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesPlayed",
+            "name": "Entführt",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesWon",
+            "name": "Entkommen",
+            "titleNumLines": 2
+        },
+        {
+            "id": "killingFloorsSurvived",
+            "name": "Tötungsräume überlebt",
+            "titleNumLines": 2
+        },
+        {
+            "id": "questionsCorrect",
+            "name": "Richtige Antworten",
+            "titleNumLines": 2
+        },
+        {
+            "id": "charisma",
+            "name": "Charisma",
+            "titleNumLines": 2
+        }
+    ]
+}

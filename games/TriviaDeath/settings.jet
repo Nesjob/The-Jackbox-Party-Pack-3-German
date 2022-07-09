@@ -1,0 +1,82 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 51,
+    "clip": "TDSettingsWidget",
+    "items": [
+        {
+            "title": "Lautstärke",
+            "type": "Range",
+            "clip": "TDSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Passt die Gesamtlautstärke an."
+        },
+        {
+            "title": "Vollbildmodus",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Schaltet das Spiel auf Vollbild."
+        },
+        {
+            "title": "Publikum",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "Einschalten, damit Zuschauer das Spiel beeinflussen können."
+        },
+        {
+            "title": "Längere Timer",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "Längere Timer geben dir mehr Zeit zum Antworten. Geeignet für Livestreams."
+        },
+        {
+            "title": "Twitch voraussetzen",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "Spieler müssen sich mit Twitch anmelden."
+        },
+        {
+            "title": "Tutorials überspringen",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "Überspringt die Tutorials."
+        },
+        {
+            "title": "Kein Zeichnen oder Schreiben",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUserEntryKillingFloors",
+            "description": "Deaktiviert Tötungsräume, in denen Spieler schreiben oder zeichnen müssen."
+        },
+        {
+            "title": "Spiel nur vom PC starten",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "Das Spiel muss am PC gestartet werden, anstatt vom VIP."
+        },
+        {
+            "title": "Raumcode verstecken",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "Erlaubt es, den Raumcode zu verstecken."
+        }
+    ]
+}
