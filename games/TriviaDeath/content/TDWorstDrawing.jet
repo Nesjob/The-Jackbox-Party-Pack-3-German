@@ -33,12 +33,12 @@
         {
             "x": false,
             "id": 39184,
-            "category": "ein Cartoon Charakter"
+            "category": "eine Cartoon-Figur"
         },
         {
             "x": false,
             "id": 39183,
-            "category": "etwas das man lecken kann"
+            "category": "etwas, das man lecken kann"
         },
         {
             "x": false,
@@ -53,12 +53,12 @@
         {
             "x": false,
             "id": 39180,
-            "category": "ein Videospiel Charakter"
+            "category": "eine Videospiel-Figur"
         },
         {
             "x": false,
             "id": 39179,
-            "category": "etwas das sexy ist"
+            "category": "etwas, das sexy ist"
         },
         {
             "x": false,
@@ -98,12 +98,12 @@
         {
             "x": false,
             "id": 39171,
-            "category": "etwas das dich glücklich macht"
+            "category": "etwas, das dich glücklich macht"
         },
         {
             "x": false,
             "id": 39170,
-            "category": "etwas das dich zum Weinen bringt"
+            "category": "etwas, das dich zum Weinen bringt"
         },
         {
             "x": false,
@@ -143,17 +143,17 @@
         {
             "x": false,
             "id": 38786,
-            "category": "Weezer"
+            "category": "Angela Merkel"
         },
         {
             "x": false,
             "id": 38783,
-            "category": "Panzerkrebs kochen"
+            "category": "Spinat zubereiten"
         },
         {
             "x": false,
             "id": 38781,
-            "category": "eine Karte von Missouri"
+            "category": "eine Karte von Deutschland"
         },
         {
             "x": false,
@@ -163,52 +163,52 @@
         {
             "x": false,
             "id": 38773,
-            "category": "Police Academy"
+            "category": "Polizei-Ausbildung"
         },
         {
             "x": false,
             "id": 38772,
-            "category": "Pilates"
+            "category": "Yoga"
         },
         {
             "x": false,
             "id": 38765,
-            "category": "swinger party"
+            "category": "Swinger party"
         },
         {
             "x": false,
             "id": 38759,
-            "category": "Machu Picchu"
+            "category": "Der Eiffelturm"
         },
         {
             "x": false,
             "id": 38756,
-            "category": "David Schwimmer "
+            "category": "Til Schweiger"
         },
         {
             "x": false,
             "id": 38696,
-            "category": "Rick and Morty"
+            "category": "Die Simpsons"
         },
         {
             "x": false,
             "id": 38683,
-            "category": "Law & Order"
+            "category": "Wer wird Millionär"
         },
         {
             "x": false,
             "id": 38676,
-            "category": "Conan O\u2019Brien"
+            "category": "Thomas Gottschalk"
         },
         {
             "x": false,
             "id": 38655,
-            "category": "Las Vegas"
+            "category": "Berlin"
         },
         {
             "x": false,
             "id": 38652,
-            "category": "80\u2019er Jahre Mode"
+            "category": "80er Jahre Mode"
         },
         {
             "x": false,
@@ -243,12 +243,12 @@
         {
             "x": false,
             "id": 38475,
-            "category": "Das Mädchen mit dem Perlenohrgehänge"
+            "category": "Der Schrei"
         },
         {
             "x": false,
             "id": 38474,
-            "category": "Valhalla"
+            "category": "Friedhof"
         },
         {
             "x": false,
@@ -268,7 +268,7 @@
         {
             "x": false,
             "id": 38396,
-            "category": "like a boss"
+            "category": "Like a Boss"
         },
         {
             "x": false,
@@ -293,7 +293,7 @@
         {
             "x": false,
             "id": 38384,
-            "category": "warmes flaumiges Gefühl"
+            "category": "warmes, flaumiges Gefühl"
         },
         {
             "x": false,
@@ -313,7 +313,7 @@
         {
             "x": false,
             "id": 38350,
-            "category": "arbeitslos "
+            "category": "arbeitslos"
         },
         {
             "x": false,
@@ -333,7 +333,7 @@
         {
             "x": false,
             "id": 38340,
-            "category": "Sozialismus "
+            "category": "Sozialismus"
         }
     ],
     "episodeid": 1258
