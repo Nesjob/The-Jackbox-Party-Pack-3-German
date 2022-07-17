@@ -2,13 +2,13 @@
     "views": [
         {
             "id": "session",
-            "name": "Session-Statistik",
-            "description": "Statistik der aktuellen Spielsession (wird mit Beenden des Spiels zurückgesetzt.)"
+            "name": "Spiel-Statistiken",
+            "description": "Statistiken der aktuellen Spielsession. (Werden zurückgesetzt, wenn das Spiel verlassen wird)."
         },
         {
             "id": "twitch",
-            "name": "Twitch-Statistik",
-            "description": "Statistik der Twitch-Sessions (Statistik bleibt gespeichert)"
+            "name": "Twitch-Statistiken",
+            "description": "Statistiken für Spiele mit Twitch. (Bleiben gespeichert, wenn das Spiel verlassen wird)."
         }
     ],
     "columns": [{
