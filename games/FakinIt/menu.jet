@@ -2,25 +2,25 @@
     {
         "title":"SPIELEN",
         "action":"doPlayGame",
-        "description":"Raum erstellen und spielen!",
+        "description":"Raum erstellen & spielen",
         "value":0
     },
     {
-        "title":"BESTENLISTE",
+        "title":"RANGLISTE",
         "action":"doLeaderboards",
         "description":"Statistiken der letzten Spiele",
         "value":1
     },
     {
-        "title":"EINSTELLUNGEN",
+        "title":"OPTIONEN",
         "action":"doSettings",
-        "description":"Familien-Filter, Publikumsoptionen & mehr...",
+        "description":"Familienmodus, Publikum & mehr",
         "value":2
     },
     {
-        "title":"ZURÜCK ZUM PACK",
+        "title":"ZURÜCK",
         "action":"doBackToPack",
-        "description":"Wechsle zurück zum Party Pack",
+        "description":"Zurück zum Party Pack",
         "value":3
     }
 ]

@@ -14,27 +14,27 @@
             "width": 1,
             "source": "Volume",
             "step": 0.1,
-            "description": "Mach das Spiel LAUT oder LEISE."
+            "description": "Passt die Gesamtlautstärke an."
         },
         {
-            "title": "Vollbild",
+            "title": "Vollbildmodus",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FullScreen",
-            "description": "Schalte das Spiel auf Vollbild."
+            "description": "Schaltet das Spiel auf Vollbild."
         },
         {
-            "title": "Familien-Filter",
+            "title": "Familienmodus",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItFamilyFriendly",
-            "description": "Die provokativsten Inhalte werden rausgefiltert."
+            "description": "Einschalten, um kontroverse Spielinhalte zu filtern."
         },
         {
             "title": "Publikum",
@@ -44,47 +44,47 @@
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItAudienceOn",
-            "description": "Zuschauer können das Spiel beeinflussen."
+            "description": "Einschalten, damit Zuschauer das Spiel beeinflussen können."
         },
         {
-            "title": "Twitch benötigt",
+            "title": "Twitch voraussetzen",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItRequireTwitch",
-            "description": "Spieler müssen bei Twitch eingeloggt sein, um am Spiel teilnehmen zu können."
+            "description": "Spieler müssen sich mit Twitch anmelden."
         },
         {
-            "title": "Zensur",
+            "title": "Manuelle Zensur",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItCensorable",
-            "description": "Der VIP (erster Spieler der den Raum betritt) kann Spielerantworten zensieren."
+            "description": "Erlaubt dem VIP (Spieler 1) Spielerantworten zu zensieren."
         },
         {
-            "title": "Spielstart über PC",
+            "title": "Spiel nur vom PC starten",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItGamepadStart",
-            "description": "Spiele können nur über PC gestartet werden."
+            "description": "Das Spiel muss am PC gestartet werden, anstatt vom VIP."
         },
         {
-            "title": "Raum-Code verstecken",
+            "title": "Raumcode verstecken",
             "type": "Toggle",
             "clip": "FakinItToggleWidget",
             "colorSelected": 16777215,
             "colorUnselected": 0,
             "width": 1,
             "source": "FakinItHideRoomCode",
-            "description": "Raum-Code verstecken, um Spieler daran zu hindern dem Spiel frühzeitig beizutreten."
+            "description": "Erlaubt es, den Raumcode zu verstecken."
         }
     ]
 }
