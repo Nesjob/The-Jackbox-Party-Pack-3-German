@@ -25,7 +25,7 @@
         {
             "x": false,
             "id": 41959,
-            "text": "Wie viele Darsteller tauchen laut IMDB im viralen Video <i>Too Many Cooks<\/i> auf?",
+            "text": "Wie viele Darsteller tauchen laut IMDB in der deutschen Verfilmung zum Roman <i>Die Welle<\/i> auf",
             "pic": false,
             "choices": [
                 {
@@ -39,7 +39,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "67"
+                    "text": "41"
                 }
             ]
         },
@@ -67,49 +67,49 @@
         {
             "x": false,
             "id": 41957,
-            "text": "Was war der Titel der Autobiografie von Davy Jones, Frontsänger der Monkees?",
+            "text": "Wie lautet der Titel der Autobiografie von Christian Lorenz, einem Mitglied der Band Rammstein?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Monkee Business<\/i>"
+                    "text": "<i>Der Bassbummser<\/i>"
                 },
                 {
-                    "text": "<i>Monkee See, Monkee Do<\/i>"
+                    "text": "<i>Der Mikromörder<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>They Made a Monkee Out of Me<\/i>"
+                    "text": "<i>Der Tastenficker<\/i>"
                 },
                 {
-                    "text": "<i>Monkee No More<\/i>"
+                    "text": "<i>Der Synthesizer<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 41956,
-            "text": "Welche dieser Textzeilen taucht NICHT im Titellied von <i>Friends<\/i>  auf?",
+            "text": "Welche dieser Textzeilen taucht NICHT im Titellied von <i>Cosmo und Wanda<\/i> auf?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201c...the rain starts to pour...\u201d"
+                    "text": "\u201c...Firlefanz, Gummigans...\u201d"
                 },
                 {
-                    "text": "\u201c\u2026the world has brought you down to your knees\u2026\u201d"
+                    "text": "\u201c\u2026Kolossal, genial, fühl mal, Drehzahl\u2026\u201d"
                 },
                 {
                     "correct": true,
-                    "text": "\u201c\u2026if it is the last night\u2026\u201d"
+                    "text": "\u201c\u2026Frittenpfund, bunter Hund\u2026\u201d"
                 },
                 {
-                    "text": "\u201c...no one could ever see me...\u201d"
+                    "text": "\u201c...Grüner Elch, Früchtekelch...\u201d"
                 }
             ]
         },
         {
             "x": false,
             "id": 41955,
-            "text": "Welches dieser Buchstaben beginnt NICHT mit einem von George Carlin\u2019s \u201cSeven Words You Can Never Say on Television?\u201d",
+            "text": "Welcher dieser Buchstaben beginnt NICHT eines von George Carlin\u2019s \u201cSeven Words You Can Never Say on Television?\u201d",
             "pic": false,
             "choices": [
                 {
@@ -130,21 +130,21 @@
         {
             "x": false,
             "id": 41954,
-            "text": "In welchem Film kommt der Satz \u201cWolfman\u2019s got nards\u201d vor?",
+            "text": "Aus welchem Film stammt das bekannte \u201cNein. Doch! Oh!\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Young Frankenstein<\/i>"
+                    "text": "<i>Der Gendarm von Saint Tropez<\/i>"
                 },
                 {
-                    "text": "<i>Scary Movie 2<\/i>"
+                    "text": "<i>Fantomas<\/i>"
                 },
                 {
-                    "text": "<i>An American Werewolf in London<\/i>"
+                    "text": "<i>Balduin, der Heiratsmuffel<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Monster Squad<\/i>"
+                    "text": "<i>Hasch mich, ich bin der Mörder<\/i>"
                 }
             ]
         },
@@ -403,28 +403,28 @@
         {
             "x": false,
             "id": 40967,
-            "text": "Welches der folgenden Schokoriegel enthält KEINE Erdnüsse?",
+            "text": "Welches der folgenden Schokoriegel enthält KEINE Haselnüsse?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Mr. Goodbar"
+                    "text": "Ferrero Duplo"
                 },
                 {
-                    "text": "Take 5"
+                    "text": "Knoppers"
                 },
                 {
-                    "text": "Payday"
+                    "text": "Kalter Hund"
                 },
                 {
                     "correct": true,
-                    "text": "100 Grand"
+                    "text": "Snickers"
                 }
             ]
         },
         {
             "x": false,
             "id": 40966,
-            "text": "In welchem der folgenden Filme wird kein Elefant transportiert?",
+            "text": "In welchem der folgenden Filme wird KEIN Elefant transportiert?",
             "pic": false,
             "choices": [
                 {
