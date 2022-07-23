@@ -33,7 +33,7 @@
         {
             "x": false,
             "id": 39184,
-            "category": "eine Cartoon-Figur"
+            "category": "ein Cartoon Charakter"
         },
         {
             "x": false,
@@ -53,7 +53,7 @@
         {
             "x": false,
             "id": 39180,
-            "category": "eine Videospiel-Figur"
+            "category": "ein Videospiel Charakter"
         },
         {
             "x": false,
@@ -143,12 +143,12 @@
         {
             "x": false,
             "id": 38786,
-            "category": "Angela Merkel"
+            "category": "Die fantastischen Vier"
         },
         {
             "x": false,
             "id": 38783,
-            "category": "Spinat zubereiten"
+            "category": "Panzerkrebs kochen"
         },
         {
             "x": false,
@@ -163,7 +163,7 @@
         {
             "x": false,
             "id": 38773,
-            "category": "Polizei-Ausbildung"
+            "category": "Polizeischule"
         },
         {
             "x": false,
@@ -173,42 +173,42 @@
         {
             "x": false,
             "id": 38765,
-            "category": "Swinger Party"
+            "category": "Swinger party"
         },
         {
             "x": false,
             "id": 38759,
-            "category": "Der Eiffelturm"
+            "category": "Machu Picchu"
         },
         {
             "x": false,
             "id": 38756,
-            "category": "Til Schweiger"
-        },
-        {
-            "x": false,
-            "id": 38696,
-            "category": "Die Simpsons"
-        },
-        {
-            "x": false,
-            "id": 38683,
-            "category": "Wer wird Millionär"
-        },
-        {
-            "x": false,
-            "id": 38676,
             "category": "Thomas Gottschalk"
         },
         {
             "x": false,
+            "id": 38696,
+            "category": "Rick and Morty"
+        },
+        {
+            "x": false,
+            "id": 38683,
+            "category": "Akte X"
+        },
+        {
+            "x": false,
+            "id": 38676,
+            "category": "Til Schweiger"
+        },
+        {
+            "x": false,
             "id": 38655,
-            "category": "Berlin"
+            "category": "Las Vegas"
         },
         {
             "x": false,
             "id": 38652,
-            "category": "80er Jahre Mode"
+            "category": "80\u2019er Jahre Mode"
         },
         {
             "x": false,
@@ -243,12 +243,12 @@
         {
             "x": false,
             "id": 38475,
-            "category": "Der Schrei"
+            "category": "Das Mädchen mit dem Perlenohrgehänge"
         },
         {
             "x": false,
             "id": 38474,
-            "category": "Friedhof"
+            "category": "Valhalla"
         },
         {
             "x": false,
@@ -268,7 +268,7 @@
         {
             "x": false,
             "id": 38396,
-            "category": "Like a Boss"
+            "category": "like a boss"
         },
         {
             "x": false,
@@ -293,7 +293,7 @@
         {
             "x": false,
             "id": 38384,
-            "category": "warmes, flaumiges Gefühl"
+            "category": "warmes flaumiges Gefühl"
         },
         {
             "x": false,
