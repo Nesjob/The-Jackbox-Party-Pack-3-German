@@ -29,13 +29,13 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "37"
+                    "text": "31"
                 },
                 {
-                    "text": "47"
+                    "text": "61"
                 },
                 {
-                    "text": "57"
+                    "text": "51"
                 },
                 {
                     "correct": true,
@@ -109,21 +109,21 @@
         {
             "x": false,
             "id": 41955,
-            "text": "Welcher dieser Buchstaben beginnt NICHT eines von George Carlin\u2019s \u201cSeven Words You Can Never Say on Television?\u201d",
+            "text": "Welche Frucht verzehrte Torsten Sträter in seinem \u201cDiättagebuch\u201d regelmäßig?",
             "pic": false,
             "choices": [
                 {
-                    "text": "P"
+                    "text": "Pfirsich"
                 },
                 {
                     "correct": true,
-                    "text": "B"
+                    "text": "Banane"
                 },
                 {
-                    "text": "M"
+                    "text": "Apfel"
                 },
                 {
-                    "text": "C"
+                    "text": "Mango"
                 }
             ]
         },
@@ -151,63 +151,63 @@
         {
             "x": false,
             "id": 41953,
-            "text": "Was ist die letzte Verszeile von Dr. Suess\u2019s \u201cOh the Places You\u2019ll Go?\u201d",
+            "text": "Im Grimmschen Märchen, wen nimmt der arme Mann als Paten für sein 13tes Kind?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cOh what a day!\u201d"
+                    "text": "Gott"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cSo... get on your way!\u201d"
+                    "text": "Tod"
                 },
                 {
-                    "text": "\u201cBut maybe I\u2019ll stay.\u201d"
+                    "text": "Teufel"
                 },
                 {
-                    "text": "\u201cNo time for delay.\u201d"
+                    "text": "König"
                 }
             ]
         },
         {
             "x": false,
             "id": 41952,
-            "text": "Welcher <i>Leprechaun<\/i>  Film trägt den Untertitel <i>Back 2 tha Hood<\/i> ?",
+            "text": "Was war die LETZTE Zeile, die in dem Film <i>Kevin allein zu Haus</i> gesprochen wurde?",
             "pic": false,
             "choices": [
                 {
-                    "text": "der vierte"
+                    "text": "Kevin! Wo warst du?"
                 },
                 {
-                    "text": "der fünfte"
+                    "text": "Kevin! Wo ist meine Spinne?"
                 },
                 {
                     "correct": true,
-                    "text": "der sechste"
+                    "text": "Kevin! Was hast du in meinem Zimmer gemacht?"
                 },
                 {
-                    "text": "der siebte"
+                    "text": "Kevin! Schnell! Welches Jahr ist das?"
                 }
             ]
         },
         {
             "x": false,
             "id": 41951,
-            "text": "Welchem Film mit Eddie Murphy gab die Seite Rotten Tomatoes eine 0% Wertung?",
+            "text": "Welchem Film von Til Schweiger gab die Seite Rotten Tomatoes eine 0% Wertung?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Norbit<\/i>"
+                    "text": "<i>Klassentreffen 1.0<\/i>"
                 },
                 {
-                    "text": "<i>I Spy<\/i>"
+                    "text": "<i>Kokowääh<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Noch Tausend Worte<\/i>"
+                    "text": "<i>Honig im Kopf<\/i>"
                 },
                 {
-                    "text": "<i>Pluto Nash<\/i>"
+                    "text": "<i>Keinohrhasen<\/i>"
                 }
             ]
         },
@@ -260,17 +260,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Professor Birch"
+                    "text": "Professor Birk"
                 },
                 {
-                    "text": "Professor Oak"
+                    "text": "Professor Eich"
                 },
                 {
                     "correct": true,
                     "text": "Professor Willow"
                 },
                 {
-                    "text": "Professor Bark"
+                    "text": "Professor Platan"
                 }
             ]
         },
@@ -319,63 +319,63 @@
         {
             "x": false,
             "id": 40971,
-            "text": "In welchem der folgenden Filme kommen keine fleischfressenden Zombies vor?",
+            "text": "Für welchen Film schrieb Til Schweiger das Drehbuch?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Land of the Dead<\/i>"
+                    "text": "<i>Bauchfrei<\/i>"
                 },
                 {
-                    "text": "<i>Dead Snow<\/i>"
+                    "text": "<i>Oberkörperfrei<\/i>"
                 },
                 {
-                    "text": "<i>Braindead<\/i>"
+                    "text": "<i>Unten Ohne<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Bringing Out the Dead<\/i>"
+                    "text": "<i>Barfuss<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 40970,
-            "text": "Welches der folgenden ist kein mutierter Gegner im Videospiel <i>BurgerTime<\/i> ?",
+            "text": "Welche Videospielserie beginnt immer mit der Phrase \u201cKrieg. Krieg bleibt immer gleich.\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Mr. Pickle"
+                    "text": "Call of Duty"
                 },
                 {
                     "correct": true,
-                    "text": "Mr. Bacon"
+                    "text": "Fallout"
                 },
                 {
-                    "text": "Mr. Egg"
+                    "text": "Wolfenstein"
                 },
                 {
-                    "text": "Mr. Hot Dog"
+                    "text": "God of War"
                 }
             ]
         },
         {
             "x": false,
             "id": 40969,
-            "text": "Gegen wen muss Shaquille O\u2019Neal im Videospiel <i>Shaq Fu<\/i> nicht kämpfen?",
+            "text": "Welcher ist KEIN Kämpfer in der <i>Street Fighter<\/i>-Serie?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Rajah"
+                    "text": "Dhalsim"
                 },
                 {
-                    "text": "Voodoo"
+                    "text": "Vega"
                 },
                 {
-                    "text": "Sett"
+                    "text": "Zangief"
                 },
                 {
                     "correct": true,
-                    "text": "Sai"
+                    "text": "Goro"
                 }
             ]
         },
@@ -445,28 +445,28 @@
         {
             "x": false,
             "id": 40965,
-            "text": "Welches der folgenden ist KEINER von den \u201cCraveables\u201d in Lean Cuisine\u2019s Sortiment der Tiefkühlmahlzeiten?",
+            "text": "Welches der folgenden ist KEIN Produkt von Dr. Oetker?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Four Cheese Pizza"
+                    "text": "Paula Müslispaß"
                 },
                 {
                     "correct": true,
-                    "text": "Spinach Artichoke Ravioli"
+                    "text": "Protein Grießpudding Vanille"
                 },
                 {
-                    "text": "Chicken Club Panini"
+                    "text": "Pizza Hot Dog Style"
                 },
                 {
-                    "text": "Garlic Chicken Spring Rolls"
+                    "text": "Russischer Zupfkuchen"
                 }
             ]
         },
         {
             "x": false,
             "id": 40964,
-            "text": "Ginger ist der Name von Barbies...",
+            "text": "\u201cGinger\u201d ist der Name von Barbies...",
             "pic": false,
             "choices": [
                 {
@@ -480,14 +480,14 @@
                     "text": "Chef"
                 },
                 {
-                    "text": "Dienstmädchen"
+                    "text": "Katze"
                 }
             ]
         },
         {
             "x": false,
             "id": 40963,
-            "text": "Wie heißt der Dämon, von dem Regan besessen ist in dem Film <i>Der Exorzist<\/i> ?",
+            "text": "Wie heißt der Dämon, von dem Regan in dem Film <i>Der Exorzist<\/i> besessen ist ?",
             "pic": false,
             "choices": [
                 {
@@ -508,21 +508,21 @@
         {
             "x": false,
             "id": 40962,
-            "text": "Wie heißt der gruselig aussehende Clown, der in den \u201890ern für den WWF rang?",
+            "text": "Welche Kampfkunst ist nicht aus Japan?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Boink"
+                    "text": "Judo"
                 },
                 {
-                    "text": "Zoink"
+                    "text": "Kendo"
                 },
                 {
-                    "text": "Yoink"
+                    "text": "Jiu Jitsu"
                 },
                 {
                     "correct": true,
-                    "text": "Doink"
+                    "text": "Taekwondo"
                 }
             ]
         },
