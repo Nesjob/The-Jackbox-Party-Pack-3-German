@@ -739,7 +739,7 @@
         {
             "x": false,
             "id": 39066,
-            "text": "Angenommen Maybrit Illner läuft konstant 4,99 km/h, wie lange würde sie für eine Erdumrundung brauchen?",
+            "text": "Angenommen Maybrit Illner läuft konstant 5 km/h, wie lange würde sie für eine Erdumrundung brauchen?",
             "pic": false,
             "choices": [
                 {
@@ -750,7 +750,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "345 Tage"
+                    "text": "333 Tage"
                 },
                 {
                     "text": "456 Tage"
@@ -970,7 +970,7 @@
         {
             "x": false,
             "id": 39043,
-            "text": "Was ist die Lieblings-Fußballmannschaft von Rapper Cro?",
+            "text": "Was ist die Lieblings-Fußballmannschaft vom Rapper Cro?",
             "pic": false,
             "choices": [
                 {
@@ -2272,7 +2272,7 @@
         {
             "x": false,
             "id": 38748,
-            "text": "Was ist laut <i>statista.de<\/i> das Land mit dem höchsten \u201cBig-Mac-Index\u201d im Juli 2022?",
+            "text": "Was ist laut <i>Statista<\/i> das Land mit dem höchsten \u201cBig-Mac-Index\u201d im Juli 2022?",
             "pic": false,
             "choices": [
                 {
