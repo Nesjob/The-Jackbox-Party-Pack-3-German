@@ -9507,51 +9507,51 @@
         {
             "x": false,
             "id": 35728,
-            "text": "Affen mit langem Schwanz",
+            "text": "Farben auf Widerständen in Schaltungen",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Pavian",
+                    "text": "Gold",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Krallenaffe",
+                    "text": "Rot",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Tamarin",
+                    "text": "Gelb",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Kapuzineraffe",
+                    "text": "Grün",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Rhesus",
+                    "text": "Blau",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Violett",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Schwarz",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Grau",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Schimpanse",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Orang-Utan",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Bonobo",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Gibbon",
+                    "text": "Bronze",
                     "easy": false
                 }
             ]
@@ -10597,6 +10597,11 @@
                     "correct": false,
                     "text": "<i>Santa Maria<\/i>",
                     "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "<i>Sonderzug nach Pankow<\/i>",
+                    "easy": false
                 }
             ]
         },
@@ -10816,7 +10821,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Duke University",
+                    "text": "Dunk",
                     "easy": false
                 },
                 {
@@ -10836,7 +10841,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Northwestern University",
+                    "text": "Northwestern",
                     "easy": false
                 },
                 {
@@ -11043,6 +11048,11 @@
                 {
                     "correct": true,
                     "text": "Crab Louie-Salat",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Eiersalat",
                     "easy": false
                 },
                 {
@@ -11395,7 +11405,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Slowakische Verteidigung mit Abzugsschach",
+                    "text": "Slowakische Verteidigung",
                     "easy": false
                 },
                 {
