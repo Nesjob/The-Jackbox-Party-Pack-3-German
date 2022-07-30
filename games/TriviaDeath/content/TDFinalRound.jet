@@ -10597,6 +10597,11 @@
                     "correct": false,
                     "text": "<i>Santa Maria<\/i>",
                     "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "<i>Sonderzug nach Pankow<\/i>",
+                    "easy": false
                 }
             ]
         },
@@ -10816,7 +10821,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Duke University",
+                    "text": "Dunk",
                     "easy": false
                 },
                 {
@@ -10836,7 +10841,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Northwestern University",
+                    "text": "Northwestern",
                     "easy": false
                 },
                 {
@@ -11400,7 +11405,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Slowakische Verteidigung mit Abzugsschach",
+                    "text": "Slowakische Verteidigung",
                     "easy": false
                 },
                 {
