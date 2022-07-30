@@ -571,21 +571,21 @@
         {
             "x": false,
             "id": 39150,
-            "text": "Welches dieser Lebensmittel ist NICHT Teil von Guy Fieri\u2019s American Menü?",
+            "text": "Was bedeutet es, wenn unser Zimmerservice-Frühstück à la carte ist?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Hangover Beef"
+                    "text": "einzeln bepreiste Artikel"
                 },
                 {
-                    "text": "Dragon Chili Cheese Fries"
+                    "text": "Festmenü zum Festpreis"
                 },
                 {
-                    "text": "\u201cAwesome\u201d Pretzel Chicken Tenders"
+                    "text": "umsonst"
                 },
                 {
-                    "text": "Vegas Fries"
+                    "text": "auf Rädern"
                 }
             ]
         },
@@ -596,7 +596,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Chiwetel Ejiofor"
+                    "text": "Bill Kaulitz"
                 },
                 {
                     "correct": true,
@@ -618,23 +618,23 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "13x Zac Efron"
+                    "text": "12x Otto Waalkes"
                 },
                 {
-                    "text": "1000 Dollar in 1 Cent Stücken"
+                    "text": "1000 Euro in 1 Cent Stücken"
                 },
                 {
-                    "text": "800 Pfund Pudding"
+                    "text": "800 Kilo Pudding"
                 },
                 {
-                    "text": "ein erwachsener Tümmler"
+                    "text": "ein erwachsenes Zebra"
                 }
             ]
         },
         {
             "x": false,
             "id": 39113,
-            "text": "Wie oft kommt \u201cLet it go\u201d im Song \u201cLet It Go\u201d vor?",
+            "text": "Wie oft kommt \u201cDu hast'n Freund in mir\u201d im Song \u201cDu hast'n Freund in mir\u201d vor?",
             "pic": false,
             "choices": [
                 {
@@ -642,25 +642,25 @@
                 },
                 {
                     "correct": true,
+                    "text": "9"
+                },
+                {
                     "text": "12"
                 },
                 {
-                    "text": "18"
-                },
-                {
-                    "text": "24"
+                    "text": "15"
                 }
             ]
         },
         {
             "x": false,
             "id": 39099,
-            "text": "Wie oft wird in Vanilla Ice\u2019s \u201cNinja Rap\u201d gesagt \u201cGo ninja, go ninja, go!\u201d?",
+            "text": "Wie oft wird im Lied \u201cDas Sägewerk Bad Segeberg\u201d von den Wise Guys \u201cSägewerk\u201d gesagt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "16"
+                    "text": "38"
                 },
                 {
                     "text": "24"
@@ -680,13 +680,13 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Lady"
+                    "text": "Brötchen"
                 },
                 {
                     "text": "Pfefferminz"
                 },
                 {
-                    "text": "Jo Jo"
+                    "text": "JoJo"
                 },
                 {
                     "correct": true,
@@ -697,21 +697,21 @@
         {
             "x": false,
             "id": 39068,
-            "text": "In welchem Film spielt Willem Dafoe NICHT mit?",
+            "text": "In welchem Film spielt Elyas M'Barek NICHT mit?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Grand Budapest Hotel<\/i>"
+                    "text": "<i>Liebesdings<\/i>"
                 },
                 {
-                    "text": "<i>American Psycho<\/i>"
+                    "text": "<i>Was wir wollten<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Birdman<\/i>"
+                    "text": "<i>Hinterland<\/i>"
                 },
                 {
-                    "text": "<i>Der blutige Pfad Gottes<\/i>"
+                    "text": "<i>Nightlife<\/i>"
                 }
             ]
         },
@@ -739,7 +739,7 @@
         {
             "x": false,
             "id": 39066,
-            "text": "Angenommen Kelly Ripa läuft konstant 3,1 mph, wie lange würde sie für eine Erdumrundung brauchen?",
+            "text": "Angenommen Maybrit Illner läuft konstant 4,99 km/h, wie lange würde sie für eine Erdumrundung brauchen?",
             "pic": false,
             "choices": [
                 {
@@ -760,28 +760,28 @@
         {
             "x": false,
             "id": 39065,
-            "text": "Laut Hot Topics Jahresbericht 2007 kommt knapp 40% des Umsatzes woher?",
+            "text": "Welche Autofirma baute den seltsamen kleinen Roboter namens ASIMO?",
             "pic": false,
             "choices": [
                 {
-                    "text": "nachtleuchtende Poster"
+                    "text": "Hyundai"
                 },
                 {
-                    "text": "Lavalampen"
+                    "text": "Tesla"
                 },
                 {
                     "correct": true,
-                    "text": "Band T-Shirts"
+                    "text": "Honda"
                 },
                 {
-                    "text": "Drachenstatuen"
+                    "text": "Toyota"
                 }
             ]
         },
         {
             "x": false,
             "id": 39063,
-            "text": "Welche Augenfarbe hat Adam Levine?",
+            "text": "Welche Augenfarbe hat Mark Forster?",
             "pic": false,
             "choices": [
                 {
@@ -802,21 +802,21 @@
         {
             "x": false,
             "id": 39061,
-            "text": "Welches der folgenden Sätze ist ein Anagramm zu: \u201cme and Chris Pratt on a beach\u201d?",
+            "text": "Welches der folgenden Wörter ist ein Anagramm zu: \u201cOsteranfang\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "No, eat more cranberry Rick"
+                    "text": "Anfangswort"
                 },
                 {
-                    "text": "Ho, a time to plop bacon proper"
+                    "text": "Sonntagsfrage"
                 },
                 {
                     "correct": true,
-                    "text": "Ha, a hotter crab imp scanned"
+                    "text": "Orangensaft"
                 },
                 {
-                    "text": "Neat, mascara balls prattling"
+                    "text": "Frostgarten"
                 }
             ]
         },
@@ -865,21 +865,21 @@
         {
             "x": false,
             "id": 39055,
-            "text": "Wie viele Liter passen in das Modell SCR300SS Crock-Pot?",
+            "text": "Welche Fläche hat ein Blatt Papier im Format DIN A0?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1"
+                    "text": "100cm²"
                 },
                 {
                     "correct": true,
-                    "text": "3"
+                    "text": "1m²"
                 },
                 {
-                    "text": "5"
+                    "text": "4 DIN A4 Blätter"
                 },
                 {
-                    "text": "7,5"
+                    "text": "97,8cm²"
                 }
             ]
         },
@@ -907,21 +907,21 @@
         {
             "x": false,
             "id": 39053,
-            "text": "Welcher Film mit einem sprechenden Schwein kam Mitte der 90er-Jahre neben <i>Ein Schweinchen namens Babe<\/i> heraus?",
+            "text": "Welcher <i>Sharknado</i>-Film trägt auch den Titel <i>Global Swarming</i>",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Wally<\/i>"
+                    "text": "<i>der zweite<\/i>"
                 },
                 {
-                    "text": "<i>Daisy<\/i>"
+                    "text": "<i>der vierte<\/i>"
                 },
                 {
-                    "text": "<i>Hugo<\/i>"
+                    "text": "<i>der dritte<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Gordy<\/i>"
+                    "text": "<i>der fünfte<\/i>"
                 }
             ]
         },
@@ -949,42 +949,42 @@
         {
             "x": false,
             "id": 39045,
-            "text": "Was ist Richard Gere\u2019s Charakter in <i>Pretty Woman<\/i> , sodass er sich eine teure Prostituierte leisten kann?",
+            "text": "In welchem der folgenden Filme ist Daniel Craig NICHT als James Bond zu sehen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Pilot"
+                    "text": "<i>Spectre</i>"
                 },
                 {
-                    "text": "Chirurg"
+                    "text": "<i>Casino Royale</i>"
                 },
                 {
                     "correct": true,
-                    "text": "Corporate Raider"
+                    "text": "<i>GoldenEye</i>"
                 },
                 {
-                    "text": "CEO"
+                    "text": "<i>Ein Quantum Trost</i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 39043,
-            "text": "Was ist die Lieblings- NBA Mannschaft von Rapper Drake?",
+            "text": "Was ist die Lieblings-Fußballmannschaft von Rapper Cro?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Los Angeles Clippers"
+                    "text": "Borussia Dortmund"
                 },
                 {
-                    "text": "Golden State Warriors"
+                    "text": "Hannover 96"
                 },
                 {
                     "correct": true,
-                    "text": "Toronto Raptors"
+                    "text": "VfB Stuttgart"
                 },
                 {
-                    "text": "New York Knicks"
+                    "text": "Würzburger Kickers"
                 }
             ]
         },
@@ -1012,105 +1012,105 @@
         {
             "x": false,
             "id": 39034,
-            "text": "Welcher Dichter hat gesagt \u201cKeep your face always toward the sunshine and shadows will fall behind you.\u201d?",
+            "text": "Welcher Dichter hat gesagt \u201cDummheit, die man bei anderen sieht, wirkt meist erhebend aufs Gemüt.\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Maya Angelou"
+                    "text": "Theodor Fontane"
                 },
                 {
                     "text": "Emily Dickinson"
                 },
                 {
-                    "text": "Robert Frost"
+                    "text": "Heinrich Heine"
                 },
                 {
                     "correct": true,
-                    "text": "Walt Whitman"
+                    "text": "Wilhelm Busch"
                 }
             ]
         },
         {
             "x": false,
             "id": 39033,
-            "text": "Was passierte mit Solomon Grundy am Donnerstag?",
+            "text": "Wie lautet in <i>Romeo & Julia</i> der Nachname von Julia?",
             "pic": false,
             "choices": [
                 {
-                    "text": "died"
+                    "text": "Montague"
                 },
                 {
                     "correct": true,
-                    "text": "took ill"
+                    "text": "Capulet"
                 },
                 {
-                    "text": "got buried"
+                    "text": "Rosaline"
                 },
                 {
-                    "text": "got married"
+                    "text": "wird nicht erwähnt"
                 }
             ]
         },
         {
             "x": false,
             "id": 39030,
-            "text": "Wer schrieb den Song \u201cCrazy\u201d?",
+            "text": "Wer veröffentlichte 2013 das Album \u201cdann mach's gut\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Patsy Cline"
+                    "text": "Annette Humpe"
                 },
                 {
-                    "text": "Dolly Parton"
+                    "text": "Konstantin Wecker"
                 },
                 {
                     "correct": true,
-                    "text": "Willie Nelson"
+                    "text": "Reinhard Mey"
                 },
                 {
-                    "text": "Emmylou Harris"
+                    "text": "Gisbert zu Knyphausen"
                 }
             ]
         },
         {
             "x": false,
             "id": 39023,
-            "text": "Welches war das erste Buch von Laura Ingalls Wilder?",
+            "text": "Welches war das erste Buch von Heinrich Heine?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Laura und ihre Freunde<\/i>"
+                    "text": "<i>Reisebilder. Erster Teil<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Laura im großen Wald<\/i>"
+                    "text": "<i>Gedichte von Heinrich Heine<\/i>"
                 },
                 {
-                    "text": "<i>Laura in der Prärie<\/i>"
+                    "text": "<i>Dreiunddreißig Gedichte<\/i>"
                 },
                 {
-                    "text": "<i>Laura und der lange Winter<\/i>"
+                    "text": "<i>Buch der Lieder<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 39019,
-            "text": "Welche Menge von Papa John\u2019s Garlic Dipping Sauce kommt in eine Verpackung?",
+            "text": "Ey man, was soll ich mit meinem neuen Hygrometer messen?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "1 oz"
+                    "text": "Die Luftfeuchtigkeit"
                 },
                 {
-                    "text": "2 oz"
+                    "text": "Den Luftdruck"
                 },
                 {
-                    "text": "3 oz"
+                    "text": "Den Salzgehalt"
                 },
                 {
-                    "text": "4 oz"
+                    "text": "Die Niederschlagsmenge"
                 }
             ]
         },
@@ -1205,17 +1205,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Sour Patch Kids"
+                    "text": "Ahoj-Brause"
                 },
                 {
                     "correct": true,
-                    "text": "Nerds"
+                    "text": "Nimm 2 Bonbons"
                 },
                 {
-                    "text": "Airheads"
+                    "text": "Center Shock"
                 },
                 {
-                    "text": "Jujyfruits"
+                    "text": "Studentenfutter"
                 }
             ]
         },
@@ -1264,21 +1264,21 @@
         {
             "x": false,
             "id": 38997,
-            "text": "Aus welchem magischen Land kommt Teddy Ruxpin?",
+            "text": "Luftpolsterfolie wurde ursprünglich erfunden als...",
             "pic": false,
             "choices": [
                 {
-                    "text": "Imagination Valley"
+                    "text": "Kleidung"
                 },
                 {
-                    "text": "Bearvania"
+                    "text": "Poolspielzeug"
                 },
                 {
                     "correct": true,
-                    "text": "Land of Grundo"
+                    "text": "Tapete"
                 },
                 {
-                    "text": "Storytelling Island"
+                    "text": "Körperpanzerung"
                 }
             ]
         },
@@ -1369,21 +1369,21 @@
         {
             "x": false,
             "id": 38986,
-            "text": "Welches von diesen gehört NICHT zu den fünf Haupt-Bratz-Puppen?",
+            "text": "Welcher Gassenhauer stammt nicht von Roberto Blanco?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Yasmin"
+                    "text": "<i>Heute so, morgen so</i>"
                 },
                 {
-                    "text": "Cloe"
+                    "text": "<i>Ein bisschen Spaß muss sein</i>"
                 },
                 {
                     "correct": true,
-                    "text": "Felicia"
+                    "text": "<i>Schöne Maid</i>"
                 },
                 {
-                    "text": "Jade"
+                    "text": "<i>Die Puppenspieler von Mexiko</i>"
                 }
             ]
         },
@@ -1432,21 +1432,21 @@
         {
             "x": false,
             "id": 38960,
-            "text": "Welche Distanz rennen die Pferde beim Kentucky Derby?",
+            "text": "Welche Distanz rennen die Läufer beim 100m Lauf?",
             "pic": false,
             "choices": [
                 {
+                    "text": "1,48 mal das Reichstagsgebäude"
+                },
+                {
+                    "text": "1,33 Airbus A380"
+                },
+                {
                     "correct": true,
-                    "text": "eineinviertel Meilen"
+                    "text": "0,3 mal die Höhe des Eifelturms"
                 },
                 {
-                    "text": "eineinhalb Meilen"
-                },
-                {
-                    "text": "eindreiviertel Meilen"
-                },
-                {
-                    "text": "zwei Meilen"
+                    "text": "0,1 Meilen"
                 }
             ]
         },
@@ -1474,21 +1474,21 @@
         {
             "x": false,
             "id": 38953,
-            "text": "Bei welchem Musikprojekt ist Diplo Frontmann?",
+            "text": "Bei welcher Band ist Johannes Strate der Frontmann?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Flosstradamus"
+                    "text": "Die Ärzte"
                 },
                 {
                     "correct": true,
-                    "text": "Major Lazer"
+                    "text": "Revolverheld"
                 },
                 {
-                    "text": "Bloc Party"
+                    "text": "Tokio Hotel"
                 },
                 {
-                    "text": "LCD Soundsystem"
+                    "text": "Silbermond"
                 }
             ]
         },
@@ -1537,7 +1537,7 @@
         {
             "x": false,
             "id": 38936,
-            "text": "Welches Theaterstück spielt in Grover\u2019s Corner?",
+            "text": "In welchem Theaterstück kommt die Figur Willy Loman vor?",
             "pic": false,
             "choices": [
                 {
@@ -1545,13 +1545,13 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>Unsere kleine Stadt<\/i>"
+                    "text": "<i>Tod eines Handlungsreisenden<\/i>"
                 },
                 {
                     "text": "<i>Wer den Wind sät<\/i>"
                 },
                 {
-                    "text": "<i>Tod eines Handlungsreisenden<\/i>"
+                    "text": "<i>Unsere kleine Stadt<\/i>"
                 }
             ]
         },
@@ -1562,7 +1562,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "2022"
+                    "text": "2028"
                 },
                 {
                     "correct": true,
@@ -1579,21 +1579,21 @@
         {
             "x": false,
             "id": 38924,
-            "text": "Was ist der richtige Name von Carrot Top?",
+            "text": "Was ist der richtige Name von Chris Tall?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Scott Thompson"
+                    "text": "Christopher Nast"
                 },
                 {
-                    "text": "Eric Foley"
+                    "text": "Christian Metzger"
                 },
                 {
-                    "text": "Daniel Whitney"
+                    "text": "Christoph Tall"
                 },
                 {
-                    "text": "John Stevens"
+                    "text": "Nils Griebel"
                 }
             ]
         },
@@ -1642,42 +1642,42 @@
         {
             "x": false,
             "id": 38915,
-            "text": "Wie viele Zeitzonen hat Russland?",
+            "text": "Wie viele Zeitzonen hat Frankreich?",
             "pic": false,
             "choices": [
                 {
                     "text": "3"
                 },
                 {
-                    "text": "6"
+                    "text": "1"
                 },
                 {
                     "correct": true,
-                    "text": "9"
+                    "text": "12"
                 },
                 {
-                    "text": "12"
+                    "text": "9"
                 }
             ]
         },
         {
             "x": false,
             "id": 38910,
-            "text": "Welcher Comedian ist der King of Confetti?",
+            "text": "Wer ist bitte Michael Haubold?!",
             "pic": false,
             "choices": [
                 {
-                    "text": "Carrot Top"
+                    "text": "Torsten Sträter"
                 },
                 {
-                    "text": "The Amazing Jonathan"
+                    "text": "Guido Cantz"
                 },
                 {
-                    "text": "Gallagher"
+                    "text": "Paul Panzer"
                 },
                 {
                     "correct": true,
-                    "text": "Rip Taylor"
+                    "text": "Olaf Schubert"
                 }
             ]
         },
@@ -1705,42 +1705,42 @@
         {
             "x": false,
             "id": 38897,
-            "text": "Die Magic Eye Illustration im Film <i>Mallrats<\/i>  zeigt anscheinend was für ein Objekt?",
+            "text": "Wer hat im Film <i>Zärtliche Chaoten II</i> mit Thomas Gottschalk in der Hauptrolle ebenfalls mitgespielt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Burg"
+                    "text": "Jack Lemmon"
                 },
                 {
                     "correct": true,
-                    "text": "Segelboot"
+                    "text": "David Hasselhoff"
                 },
                 {
-                    "text": "Flugzeug"
+                    "text": "Paul Newman"
                 },
                 {
-                    "text": "Rennwagen"
+                    "text": "Leonardo DiCaprio"
                 }
             ]
         },
         {
             "x": false,
             "id": 38896,
-            "text": "Wie lang ist die Spielfläche bei der NHL?",
+            "text": "Wie lang ist ein Handballfeld?",
             "pic": false,
             "choices": [
                 {
-                    "text": "100 Fuß"
+                    "text": "25 Meter"
                 },
                 {
                     "correct": true,
-                    "text": "200 Fuß"
+                    "text": "40 Meter"
                 },
                 {
-                    "text": "250 Fuß"
+                    "text": "30 Meter"
                 },
                 {
-                    "text": "300 Fuß"
+                    "text": "50 Meter"
                 }
             ]
         },
@@ -1768,21 +1768,21 @@
         {
             "x": false,
             "id": 38886,
-            "text": "Wie heißt das Bild von Georges Seurat, auf das Cameron im Film <i>Ferris macht blau<\/i> starrt?",
+            "text": "Wie lautet der Titel eines Gemäldes von Vincent van Gogh?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Woman with a Parasol<\/i>"
+                    "text": "<i>Reiche schwarze Katze wartet auf den einsamen Tod<\/i>"
                 },
                 {
-                    "text": "<i>Sunday in the Park with George<\/i>"
+                    "text": "<i>Gespenst, das im nassen Gras liegt<\/i>"
                 },
                 {
-                    "text": "<i>Starry Night Over the Rhone<\/i>"
+                    "text": "<i>Die Hexe, die Fledermaus, die Krähe und etwas Mais<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>A Sunday Afternoon on the Island of La Grande Jatte<\/i>"
+                    "text": "<i>Schädel mit brennender Zigarette<\/i>"
                 }
             ]
         },
@@ -1810,21 +1810,21 @@
         {
             "x": false,
             "id": 38878,
-            "text": "Wie lang ist eine amerikanische Routing Number auf einer Überweisung?",
+            "text": "Wie viele Stellen hat eine IBAN in Deutschland?",
             "pic": false,
             "choices": [
                 {
-                    "text": "fünf Stellen"
+                    "text": "20"
                 },
                 {
-                    "text": "sieben Stellen"
+                    "text": "16"
                 },
                 {
                     "correct": true,
-                    "text": "neun Stellen"
+                    "text": "22"
                 },
                 {
-                    "text": "elf Stellen"
+                    "text": "18"
                 }
             ]
         },
@@ -1898,17 +1898,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Belgien"
+                    "text": "Peru"
                 },
                 {
-                    "text": "Niederlande"
+                    "text": "Ungarn"
                 },
                 {
-                    "text": "Norwegen"
+                    "text": "Deutschland"
                 },
                 {
                     "correct": true,
-                    "text": "Pennsylvania"
+                    "text": "USA"
                 }
             ]
         },
@@ -1957,21 +1957,21 @@
         {
             "x": false,
             "id": 38852,
-            "text": "Welcher Comedian war in der US-Version von <i>Thomas, die kleine Lokomotive<\/i> mal der Erzähler?",
+            "text": "Was heißt \"Samsung\" auf Deutsch?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "George Carlin"
+                    "text": "Drei Sterne"
                 },
                 {
-                    "text": "Andrew Dice Clay"
+                    "text": "Samsung ist der Name der Stadt, in der der Firmensitz liegt"
                 },
                 {
-                    "text": "Richard Pryor"
+                    "text": "Schlau und Nützlich"
                 },
                 {
-                    "text": "Lenny Bruce"
+                    "text": "Samsung ist eine koreanische Süßspeise"
                 }
             ]
         },
@@ -2062,21 +2062,21 @@
         {
             "x": false,
             "id": 38828,
-            "text": "Wer war der jüngste Marx Brother?",
+            "text": "Auf welchem Platz steht das Brandenburger Tor?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Zeppo"
+                    "text": "Pariser Platz"
                 },
                 {
-                    "text": "Groucho"
+                    "text": "Brüsseler Platz"
                 },
                 {
-                    "text": "Harpo"
+                    "text": "Berliner Platz"
                 },
                 {
-                    "text": "Chico"
+                    "text": "Prager Platz"
                 }
             ]
         },
@@ -2087,17 +2087,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Edgar"
+                    "text": "Wladislaw"
                 },
                 {
                     "correct": true,
                     "text": "Wladimirowitsch"
                 },
                 {
-                    "text": "Anton"
+                    "text": "Vyacheslav"
                 },
                 {
-                    "text": "Boris"
+                    "text": "Edgar"
                 }
             ]
         },
@@ -2125,7 +2125,7 @@
         {
             "x": false,
             "id": 38816,
-            "text": "Wie viele Chakren sind hier?",
+            "text": "Wie viele Hauptchakren gibt es?",
             "pic": false,
             "choices": [
                 {
@@ -2146,28 +2146,28 @@
         {
             "x": false,
             "id": 38813,
-            "text": "Wie groß ist Kenny G?",
+            "text": "Wie groß ist das Pokémon Wiesenior?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1,49 m"
+                    "text": "1,00 m"
                 },
                 {
                     "correct": true,
-                    "text": "1,58 m"
+                    "text": "1,80 m"
                 },
                 {
-                    "text": "1,65 m"
+                    "text": "0,65 m"
                 },
                 {
-                    "text": "1,72 m"
+                    "text": "1,30 m"
                 }
             ]
         },
         {
             "x": false,
             "id": 38812,
-            "text": "Welche Augenfarbe hat Glenn Close?",
+            "text": "Welche Augenfarbe hat Barbara Salesch?",
             "pic": false,
             "choices": [
                 {
@@ -2209,21 +2209,21 @@
         {
             "x": false,
             "id": 38810,
-            "text": "Del Close war der Guru welcher Kunstform?",
+            "text": "Welche bedeutende Kunstbewegung wird NICHT als \u201cmoderne Kunst\u201d betrachtet?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Improvisationscomedy"
+                    "text": "Romantik"
                 },
                 {
-                    "text": "Breakdancing"
+                    "text": "Impressionismus"
                 },
                 {
-                    "text": "Jazzvereinigung"
+                    "text": "Kubismus"
                 },
                 {
-                    "text": "Pantomime"
+                    "text": "Surrealismus"
                 }
             ]
         },
@@ -2255,38 +2255,38 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Richard Nixon"
+                    "text": "Mark Twain"
                 },
                 {
                     "correct": true,
                     "text": "Benjamin Franklin"
                 },
                 {
-                    "text": "Mark Twain"
+                    "text": "Albert Einstein"
                 },
                 {
-                    "text": "Teddy Roosevelt"
+                    "text": "Gerhard Schröder"
                 }
             ]
         },
         {
             "x": false,
             "id": 38748,
-            "text": "Was war eine der Top 25 Skills 2015 bei LinkedIn?",
+            "text": "Was ist laut <i>statista.de<\/i> das Land mit dem höchsten \u201cBig-Mac-Index\u201d im Juli 2022?",
             "pic": false,
             "choices": [
                 {
+                    "text": "Deutschland"
+                },
+                {
+                    "text": "USA"
+                },
+                {
                     "correct": true,
-                    "text": "Shell Script Sprachen"
+                    "text": "Schweiz"
                 },
                 {
-                    "text": "Content Stream Management"
-                },
-                {
-                    "text": "interaktives Algorithmus Computing"
-                },
-                {
-                    "text": "Branding Interface"
+                    "text": "Uruguay"
                 }
             ]
         },
@@ -2297,14 +2297,14 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "blau"
+                    "text": "königsblau"
                 },
                 {
                     "correct": true,
                     "text": "burgundrot"
                 },
                 {
-                    "text": "grün"
+                    "text": "erbsengrün"
                 },
                 {
                     "text": "schwarz"
@@ -2314,42 +2314,42 @@
         {
             "x": false,
             "id": 38742,
-            "text": "Wie wird der Name der Bärenfamilie geschrieben, die in dutzenden Kinderbüchern auftaucht?",
+            "text": "Es sieht aus wie eine Kreuzung aus Waschbär und Ratte und kommt nachts raus, also muss es folgendes sein:",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bearenstein Bears"
+                    "text": "Wah-Wah"
                 },
                 {
-                    "text": "Berenstein Bears"
+                    "text": "Nay-Nay"
                 },
                 {
                     "correct": true,
-                    "text": "Berenstain Bears"
+                    "text": "Aye-Aye"
                 },
                 {
-                    "text": "Bearenstain Bears"
+                    "text": "Hee-Hee"
                 }
             ]
         },
         {
             "x": false,
             "id": 38738,
-            "text": "Wann ruft der Amerikaner \u201cPerdiddle!\u201d ?",
+            "text": "Was meint ein Österreicher, wenn er \u201cDafrurn san schau vü, dastunga nu kana\u201d sagt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "bei einem ausländischen Nummernschild"
+                    "text": "Nach was es dich lüstet, kann es dir nicht grausen."
                 },
                 {
-                    "text": "wenn man auf dem Vordersitz sitzen möchte"
+                    "text": "Es gibt nicht so viele Tage im Jahr, wie der Fuchs am Schweif Haare hat."
                 },
                 {
-                    "text": "beim Fahren über Bahngleise"
+                    "text": "Der Gescheitere gibt nach, der Dumme fällt in den Bach."
                 },
                 {
                     "correct": true,
-                    "text": "bei einem Auto im Dunkeln mit nur einem Scheinwerfer"
+                    "text": "Erfroren sind schon einige, erstunken ist noch keiner."
                 }
             ]
         },
@@ -2461,21 +2461,21 @@
         {
             "x": false,
             "id": 38725,
-            "text": "Wie groß ist Jake Gyllenhaal laut IMDB?",
+            "text": "Wie groß ist Hans Zimmer laut IMDB?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1,65 m"
+                    "text": "1,66 m"
                 },
                 {
-                    "text": "1,70 m"
+                    "text": "1,72 m"
                 },
                 {
                     "text": "1,75 m"
                 },
                 {
                     "correct": true,
-                    "text": "1,80 m"
+                    "text": "1,78 m"
                 }
             ]
         },
@@ -2524,21 +2524,21 @@
         {
             "x": false,
             "id": 38711,
-            "text": "Was wird für ein O \u201cO\u201d auf den Stoßstangenaufklebern verwendet?",
+            "text": "In welchem der Schlaflieder meiner Mutter kam NICHT eine Figur bei einem Autounfall ums Leben?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Smiley"
+                    "text": "Leader of the Pack"
                 },
                 {
-                    "text": "der Mond"
+                    "text": "Last Kiss"
                 },
                 {
-                    "text": "Yin und Yang"
+                    "text": "Teen Angel"
                 },
                 {
                     "correct": true,
-                    "text": "Friedenszeichen"
+                    "text": "Mustang Sally"
                 }
             ]
         },
@@ -2587,42 +2587,42 @@
         {
             "x": false,
             "id": 38698,
-            "text": "Wie beschreibt sich Funyuns auf der Verpackung?",
+            "text": "Was hat am meisten Fett?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cOnion ring snacks\u201d"
+                    "text": "Kabeljau"
                 },
                 {
-                    "text": "\u201cOnion ring puffs\u201d"
+                    "text": "Kartoffelchips"
                 },
                 {
-                    "text": "\u201cPuffed onion rings\u201d"
+                    "text": "Vollmilchschokolade"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cOnion flavored rings\u201d"
+                    "text": "Walnüsse"
                 }
             ]
         },
         {
             "x": false,
             "id": 38651,
-            "text": "Wie viel Zahnseide sollte man laut American Dental Hygienists\u2019 Association nehmen?",
+            "text": "Zu welchen Zähnen sagt mein Zahnarzt immer <i>Achter</i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "20 cm"
+                    "text": "Backenzähne"
                 },
                 {
-                    "text": "35 cm"
+                    "text": "Milchzähne"
                 },
                 {
                     "correct": true,
-                    "text": "45 cm"
+                    "text": "Weisheitszähne"
                 },
                 {
-                    "text": "60 cm"
+                    "text": "Schneidezähne"
                 }
             ]
         },
@@ -2650,7 +2650,7 @@
         {
             "x": false,
             "id": 38642,
-            "text": "Ist Stanford\u2019s Maskottchen ein Baum?",
+            "text": "Ist Stanford\u2019s Maskottchen echt ein Baum?",
             "pic": false,
             "choices": [
                 {
@@ -2671,21 +2671,21 @@
         {
             "x": false,
             "id": 38641,
-            "text": "Wann wurde der erste <i>Farmer\u2019s Almanac<\/i>  veröffentlicht?",
+            "text": "Wann wurde das erste <i>für Dummies<\/i>-Buch veröffentlicht?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "1792"
+                    "text": "1991"
                 },
                 {
-                    "text": "1822"
+                    "text": "2000"
                 },
                 {
-                    "text": "1852"
+                    "text": "1923"
                 },
                 {
-                    "text": "1882"
+                    "text": "2005"
                 }
             ]
         },
@@ -2717,24 +2717,24 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "800 bis 1200 Fahrenheit"
+                    "text": "400 bis 600 Grad Celsius"
                 },
                 {
                     "correct": true,
-                    "text": "1400 bis 1800 Fahrenheit"
+                    "text": "900 bis 1200 Grad Celsius"
                 },
                 {
-                    "text": "2500 bis 3000 Fahrenheit"
+                    "text": "1000 bis 1300 Grad Celsius"
                 },
                 {
-                    "text": "2500 bis 3000 Fahrenheit"
+                    "text": "300 bis 600 Grad Celsius"
                 }
             ]
         },
         {
             "x": false,
             "id": 38605,
-            "text": "Wie viele Sterne können bei Yelp vergeben werden?",
+            "text": "Wie viele Sterne können bei Trustpilot vergeben werden?",
             "pic": false,
             "choices": [
                 {
@@ -2776,21 +2776,21 @@
         {
             "x": false,
             "id": 38602,
-            "text": "Was ist das maximale Liefergewicht für ein UPS Paket?",
+            "text": "Wie schwer darf ein DHL Paket maximal sein?",
             "pic": false,
             "choices": [
                 {
-                    "text": "100 lbs"
+                    "text": "45,5 kg"
                 },
                 {
                     "correct": true,
-                    "text": "150 lbs"
+                    "text": "31,5 kg"
                 },
                 {
-                    "text": "200 lbs"
+                    "text": "68,5 kg"
                 },
                 {
-                    "text": "250 lbs"
+                    "text": "29,5 kg"
                 }
             ]
         },
@@ -2839,21 +2839,21 @@
         {
             "x": false,
             "id": 38463,
-            "text": "Welches von diesen ist KEIN Stil von Frauenjeans bei Old Navy?",
+            "text": "Mit welchem Kleidungsstück gewann Karl Lagerfeld 1955 einen internationalen Wettbewerb?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Flare"
+                    "text": "Strohhut"
                 },
                 {
-                    "text": "Boyfriend"
+                    "text": "Abendkleid"
                 },
                 {
-                    "text": "Rockstar"
+                    "text": "Baumwollhose"
                 },
                 {
                     "correct": true,
-                    "text": "Flirt"
+                    "text": "Wollmantel"
                 }
             ]
         },
@@ -2881,42 +2881,42 @@
         {
             "x": false,
             "id": 38455,
-            "text": "Was trinken die Sieger von Indianapolis 500 traditionell nach dem Rennen?",
+            "text": "Was versteht man in der Kunst unter \u201ctrompe l'oeil\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Traubensaft"
+                    "text": "das letzte Werk eines Künstlers"
                 },
                 {
                     "correct": true,
-                    "text": "Milch"
+                    "text": "eine optische Täuschung"
                 },
                 {
-                    "text": "Champagner"
+                    "text": "ein Moment des Sieges"
                 },
                 {
-                    "text": "Formaldehyd"
+                    "text": "ein Selbstporträt"
                 }
             ]
         },
         {
             "x": false,
             "id": 38454,
-            "text": "Wer verliert das Geschäftsgeld der Firma Building and Loan, sodass George Bailey in <i>Ist das Leben nicht schön<\/i> in Schwierigkeiten gerät?",
+            "text": "Was bedeutet <i>apokryph</i>?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Onkel Billy"
+                    "text": "zweifelhaft"
                 },
                 {
-                    "text": "Onkel George"
+                    "text": "anerkannt"
                 },
                 {
-                    "text": "Onkel Jack"
+                    "text": "unkonventionell"
                 },
                 {
-                    "text": "Onkel Chester"
+                    "text": "lautmalerisch"
                 }
             ]
         },
@@ -2965,63 +2965,63 @@
         {
             "x": false,
             "id": 38449,
-            "text": "Was ist keine der drei Güteklassen, welche die USDA zur Bewertung von Rindfleisch benutzt?",
+            "text": "Was ist keine der vier Güteklassen von Wein?",
             "pic": false,
             "choices": [
                 {
-                    "text": "select"
+                    "text": "Tafelwein"
                 },
                 {
-                    "text": "prime"
+                    "text": "Prädikatswein"
                 },
                 {
                     "correct": true,
-                    "text": "premium"
+                    "text": "Genusswein"
                 },
                 {
-                    "text": "choice"
+                    "text": "Qualitätswein"
                 }
             ]
         },
         {
             "x": false,
             "id": 38448,
-            "text": "An welchem Tag ist der International Talk Like a Pirate Day?",
+            "text": "An welchem Tag ist der internationale Tag des Bieres?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "19. September"
+                    "text": "am ersten Freitag im August"
                 },
                 {
-                    "text": "24. Januar"
+                    "text": "am zweiten Samstag im Oktober"
                 },
                 {
-                    "text": "17. April"
+                    "text": "am 17. April"
                 },
                 {
-                    "text": "1. Juli"
+                    "text": "am dritten Dienstag im März"
                 }
             ]
         },
         {
             "x": false,
             "id": 38447,
-            "text": "Welches der folgenden Zitate spricht David nicht aus in dem Video \u201cDavid After Dentist\u201d?",
+            "text": "Welches war das erste YouTube-Video, das jemals 1 Milliarde Aufrufe erreichte?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "\u201cMy face feels funny.\u201d"
+                    "text": "<i>Gangnam Style</i>"
                 },
                 {
-                    "text": "\u201cI have two fingers.\u201d"
+                    "text": "<i>Blank Space</i>"
                 },
                 {
-                    "text": "\u201cYou have four eyes.\u201d"
+                    "text": "<i>Baby-Shark</i>"
                 },
                 {
-                    "text": "\u201cIs this real life?\u201d"
+                    "text": "<i>Despacito</i>"
                 }
             ]
         },
@@ -3112,12 +3112,12 @@
         {
             "x": false,
             "id": 38442,
-            "text": "Wo in Walt Disney World\u2019s Magic Kingdom würde man die Haunted Mansion finden?",
+            "text": "Wo in Disneyland Paris würde man die Phantom Manor finden?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Liberty Square"
+                    "text": "Frontierland"
                 },
                 {
                     "text": "Adventureland"
@@ -3196,21 +3196,21 @@
         {
             "x": false,
             "id": 38435,
-            "text": "Wie nennt man diese kleinen hölzernen Spielsteine, die wie Figuren aussehen, wie im Spiel Carcassone?",
+            "text": "Wie nennt man diese kleinen Spielfiguren, die in Spielen wie <i>Mensch ärgere dich nicht</i> benutzt werden?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Youples"
+                    "text": "Mimmer"
                 },
                 {
-                    "text": "Meemen"
+                    "text": "Knöppies"
                 },
                 {
-                    "text": "Youmans"
+                    "text": "Stubbies"
                 },
                 {
                     "correct": true,
-                    "text": "Meeples"
+                    "text": "Pöppel"
                 }
             ]
         },
@@ -3238,21 +3238,21 @@
         {
             "x": false,
             "id": 38433,
-            "text": "Wie viele <i>Exploding Kittens<\/i> Karten hat ein Standardstapel des gleichnamigen Spiels?",
+            "text": "Wie viele Karten hat ein Standardstapel bei <i>UNO</i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "3"
+                    "text": "96"
                 },
                 {
                     "correct": true,
-                    "text": "4"
+                    "text": "108"
                 },
                 {
-                    "text": "5"
+                    "text": "140"
                 },
                 {
-                    "text": "6"
+                    "text": "121"
                 }
             ]
         },
@@ -3280,21 +3280,21 @@
         {
             "x": false,
             "id": 38431,
-            "text": "Wer war auf dem Cover der ersten Ausgabe des <i>Entertainment Weekly<\/i>  Magazins 1990?",
+            "text": "Wer war auf dem Cover der ersten Ausgabe der <i>Bravo<\/i> in 1956?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Juliette Lewis"
+                    "text": "Elizabeth Taylor"
                 },
                 {
-                    "text": "Jonathan Taylor-Thomas"
+                    "text": "Frank Sinatra"
                 },
                 {
                     "correct": true,
-                    "text": "k.d. lang"
+                    "text": "Marilyn Monroe"
                 },
                 {
-                    "text": "Lou Bega"
+                    "text": "Loriot"
                 }
             ]
         },
@@ -3343,42 +3343,42 @@
         {
             "x": false,
             "id": 38427,
-            "text": "Welchen der drei Amigos spielte Martin Short im gleichnamigen Film?",
+            "text": "Wer spielte Butler James im Klassiker <i>Dinner for One<\/i>?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Ned Nederlander"
+                    "text": "Freddie Frinton"
                 },
                 {
-                    "text": "Lucky Day"
+                    "text": "Henry Fonda"
                 },
                 {
-                    "text": "Dusty Bottoms"
+                    "text": "James Dean"
                 },
                 {
-                    "text": "Flavor Flav"
+                    "text": "Heinz Erhardt"
                 }
             ]
         },
         {
             "x": false,
             "id": 38426,
-            "text": "Welche Farbe von Crayola crayon wird gewöhnlich \u201cPrussian Blue\u201d genannt?",
+            "text": "Welche Farbe hat die Berliner Straße auf einem Standard-<i>Monopoly</i>-Brett?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Turquoise Blue"
+                    "text": "rot"
                 },
                 {
                     "correct": true,
-                    "text": "Midnight Blue"
+                    "text": "orange"
                 },
                 {
-                    "text": "Blizzard Blue"
+                    "text": "hellblau"
                 },
                 {
-                    "text": "Denim"
+                    "text": "gelb"
                 }
             ]
         },
@@ -3427,21 +3427,21 @@
         {
             "x": false,
             "id": 38423,
-            "text": "Wessen echter Name ist Steveland Morris?",
+            "text": "Wessen echter Name ist Dieter Tappert?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Steve Martin"
+                    "text": "Ingo Appelt"
                 },
                 {
-                    "text": "Steve Jobs"
+                    "text": "Atze Schröder"
                 },
                 {
                     "correct": true,
-                    "text": "Stevie Wonder"
+                    "text": "Paul Panzer"
                 },
                 {
-                    "text": "Stevie Ray Vaughn"
+                    "text": "Dieter Hallervorden"
                 }
             ]
         },
@@ -3469,80 +3469,80 @@
         {
             "x": false,
             "id": 38421,
-            "text": "Was sind die beiden Vornamen von H.P. Lovecraft?",
+            "text": "Was sind die beiden Vornamen von J.K. Rowling?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Harold Paul"
+                    "text": "Jasmine Kailynn"
                 },
                 {
                     "correct": true,
-                    "text": "Howard Phillips"
+                    "text": "Joanne Kathleen"
                 },
                 {
-                    "text": "Harrison Peter"
+                    "text": "Joyce Kadence"
                 },
                 {
-                    "text": "Horrible Person"
+                    "text": "Jämmerliche Kondenzmilch"
                 }
             ]
         },
         {
             "x": false,
             "id": 38420,
-            "text": "Wer ist der lustig benannte Erzähler in Dr. Seuss Buch <i>If I Ran the Circus<\/i> ?",
+            "text": "Wie hieß nochmal dieser Typ, der Löwenzahl nach Peter Lustig moderierte?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Morris McGurk"
+                    "text": "Fritz Fuchs"
                 },
                 {
-                    "text": "Dirk McShurk"
+                    "text": "Felix Frech"
                 },
                 {
-                    "text": "Larry McBurk"
+                    "text": "Emil Elster"
                 },
                 {
-                    "text": "Jay McJerk"
+                    "text": "Max Lustig"
                 }
             ]
         },
         {
             "x": false,
             "id": 38419,
-            "text": "In der Kurzgeschichte \u201cHis Last Bow\u201d verfasste Sherlock Holmes zu seinem Ruhestand ein Buch namens \u201cPractical Handbook of\u2026\u201d",
+            "text": "Was bedeutet \u201cAlibi\u201d auf Lateinisch?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201c...Oceanic Patterns\u201d"
+                    "text": "guter Freund"
                 },
                 {
                     "correct": true,
-                    "text": "\u201c...Bee Culture\u201d"
+                    "text": "anderswo"
                 },
                 {
-                    "text": "\u201c...Violin Music\u201d"
+                    "text": "wahre Geschichte"
                 },
                 {
-                    "text": "\u201c...Death and Dismemberment\u201d"
+                    "text": "unschuldig"
                 }
             ]
         },
         {
             "x": false,
             "id": 38417,
-            "text": "\u201cPenny Black\u201d ist der Name der oder des weltweit ersten",
+            "text": "\u201cPenny Black\u201d ist der Name der weltweit ersten",
             "pic": false,
             "choices": [
                 {
-                    "text": "Flussschiffes"
+                    "text": "Flussschiffflotte"
                 },
                 {
-                    "text": "Laufschuhs"
+                    "text": "Schnürsenkel"
                 },
                 {
-                    "text": "geklonten Hundes"
+                    "text": "geklonten Katze"
                 },
                 {
                     "correct": true,
@@ -3553,42 +3553,42 @@
         {
             "x": false,
             "id": 38416,
-            "text": "Wenn man 7 Jahre alt ist, in der zweiten Klasse und Mitglied der Girl Scouts of America, dann ist man eine",
+            "text": "Wenn man in der ersten Schulklasse ist, dann ist man ein",
             "pic": false,
             "choices": [
                 {
-                    "text": "Daisy"
+                    "text": "Tafelstreber"
                 },
                 {
                     "correct": true,
-                    "text": "Brownie"
+                    "text": "i-Dötzchen"
                 },
                 {
-                    "text": "Junior"
+                    "text": "D-Mäuschen"
                 },
                 {
-                    "text": "Cadette"
+                    "text": "Minikadett"
                 }
             ]
         },
         {
             "x": false,
             "id": 38415,
-            "text": "Welche berühmte Person heißt mit zweitem Vornamen \u201cMungo\u201d?",
+            "text": "Wie hieß Peter Lustig wirklich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Meryl Streep"
+                    "text": "Karl Rudolf Steiner"
                 },
                 {
-                    "text": "Jimmy Fallon"
+                    "text": "Achim Kallscheid"
                 },
                 {
-                    "text": "Kate Hudson"
+                    "text": "Ulrich-Egon Ahland"
                 },
                 {
                     "correct": true,
-                    "text": "Hugh Grant"
+                    "text": "Peter Lustig"
                 }
             ]
         },
