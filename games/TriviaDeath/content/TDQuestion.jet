@@ -24215,23 +24215,23 @@
             ]
         },
         {
-            "x": true,
+            "x": false,
             "id": 31726,
-            "text": "Welche Band hat den Song \u201cPretty Noose\u201d gesungen?",
+            "text": "Wofür steht das U in U-Bahn?",
             "pic": false,
             "choices": [
                 {
+                    "text": "Untergrund"
+                },
+                {
                     "correct": true,
-                    "text": "Soundgarden"
+                    "text": "Unabhängig"
                 },
                 {
-                    "text": "Nirvana"
+                    "text": "Urbanistik"
                 },
                 {
-                    "text": "Audioslave"
-                },
-                {
-                    "text": "Tool"
+                    "text": "Unpünktlich"
                 }
             ]
         },
