@@ -969,7 +969,7 @@
         {
             "x": false,
             "id": 36232,
-            "text": "Worte, die nicht \u201eUnheil\u201e sind",
+            "text": "Worte, die nicht \u201eUnheil\u201c sind",
             "choices": [
                 {
                     "correct": true,
@@ -2785,82 +2785,82 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "You\u2019re My Heart, You\u2019re My Soul",
+                    "text": "\u201eYou\u2019re My Heart, You\u2019re My Soul\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "You Can Win If You Want",
+                    "text": "\u201eYou Can Win If You Want\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cheri Cheri Lady",
+                    "text": "\u201eCheri Cheri Lady\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Brother Louie",
+                    "text": "\u201eBrother Louie\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Atlantis Is Calling (S.O.S. For Love)",
+                    "text": "\u201eAtlantis Is Calling (S.O.S. For Love)\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Geronimo\u2019s Cadillac",
+                    "text": "\u201eGeronimo\u2019s Cadillac\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Win the Race",
+                    "text": "\u201eWin the Race\u201c",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Ready for the Victory",
+                    "text": "\u201eReady for the Victory\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "JoJo Action",
+                    "text": "\u201eJoJo Action\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Rhythm Is a Dancer",
+                    "text": "\u201eRhythm Is a Dancer\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "It\u2019s My Life",
+                    "text": "\u201eIt\u2019s My Life\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "What Is Love",
+                    "text": "\u201eWhat Is Love\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "I Was Made for Lovin\u2019 You",
+                    "text": "\u201eI Was Made for Lovin\u2019 You\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Nessaja",
+                    "text": "\u201eNessaja\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Maria (I Like It Loud)",
+                    "text": "\u201eMaria (I Like It Loud)\u201c",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Suavemente",
+                    "text": "\u201eSuavemente\u201c",
                     "easy": false
                 }
             ]
@@ -4120,7 +4120,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Wie wird man Übersetzer von Trivia-Spielen?",
+                    "text": "Wie wird man geknechteter Übersetzer von Trivia-Spielen?",
                     "easy": false
                 },
                 {
@@ -10560,7 +10560,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>I Don\u2019 Feel Hate<\/i>",
+                    "text": "<i>I Don\u2019t Feel Hate<\/i>",
                     "easy": false
                 },
                 {
@@ -11345,7 +11345,7 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Sizilanische Verteidigung",
+                    "text": "Sizilianische Verteidigung",
                     "easy": false
                 },
                 {
