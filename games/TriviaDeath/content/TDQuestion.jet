@@ -3616,28 +3616,28 @@
         {
             "x": false,
             "id": 38344,
-            "text": "Wie endet die <i>Twilight Zone<\/i>  Episode \u201cAlle Zeit der Welt\u201d ?",
+            "text": "Durch welches Experiment wird das Haus der ersten Staffel von <i>Nicht Nachmachen!<\/i> komplett ruiniert?",
             "pic": false,
             "choices": [
                 {
+                    "text": "Großen Fettbrand mit Wasser löschen"
+                },
+                {
                     "correct": true,
-                    "text": "Er tritt auf seine Brille"
+                    "text": "Überflutung des Badezimmers"
                 },
                 {
-                    "text": "Die magische Stoppuhr zerbricht"
+                    "text": "Präzisionssprengung der Kellerdecke"
                 },
                 {
-                    "text": "Die Astronauten kommen auf die Erde"
-                },
-                {
-                    "text": "Es ist wirklich ein Kochbuch"
+                    "text": "Grillparty im Wohnzimmer"
                 }
             ]
         },
         {
             "x": false,
             "id": 38336,
-            "text": "Womit sollte man eine Flasche RosÃ© Wine paaren?",
+            "text": "Zu welchem Gericht passt eine Flasche Rosé am Besten?",
             "pic": false,
             "choices": [
                 {
@@ -3679,21 +3679,21 @@
         {
             "x": false,
             "id": 38333,
-            "text": "Welche Körbchengröße hatte 2013 ein Durchschnittsamerikaner?",
+            "text": "Was war 2019 die durchschnittliche Körbchengröße in Deutschland?",
             "pic": false,
             "choices": [
                 {
-                    "text": "34C"
+                    "text": "85C"
                 },
                 {
-                    "text": "32B"
+                    "text": "80B"
                 },
                 {
-                    "text": "36D"
+                    "text": "95D"
                 },
                 {
                     "correct": true,
-                    "text": "34DD"
+                    "text": "75B"
                 }
             ]
         },
@@ -3721,21 +3721,21 @@
         {
             "x": false,
             "id": 38329,
-            "text": "Wo liegt San Jose?",
+            "text": "Wo liegt Castrop-Rauxel?",
             "pic": false,
             "choices": [
                 {
-                    "text": "100 Meilen südlich von Los Angeles"
+                    "text": "30 km südwestlich von Iserlohn"
                 },
                 {
-                    "text": "50 Meilen westlich von Phoenix"
+                    "text": "70 km nördlich von Düsseldorf"
                 },
                 {
                     "correct": true,
-                    "text": "60 Meilen südöstlich von San Francisco"
+                    "text": "40 km nordöstlich von Duisburg"
                 },
                 {
-                    "text": "100 Meilen nordwestlich von San Diego"
+                    "text": "415km westlich von Leipzig"
                 }
             ]
         },
@@ -3826,21 +3826,21 @@
         {
             "x": false,
             "id": 38317,
-            "text": "Wann spricht dich \u201cCat\u2019s In the Cradle\u201d am meisten an?",
+            "text": "Was war Waluigis erster Auftritt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "wenn du und dein Vater sich nicht nahe sind"
+                    "text": "<i>Mario Tennis</i>"
                 },
                 {
-                    "text": "wenn dich deine Frau verlassen hat"
+                    "text": "<i>Mario Kart DS</i>"
                 },
                 {
-                    "text": "wenn dein Hund gestorben ist"
+                    "text": "<i>Super Mario Land 2: 6 Golden Coins</i>"
                 },
                 {
-                    "text": "wenn du weißt, wie Buddy Holly gestorben ist"
+                    "text": "<i>Mario Hoops 3-On-3</i>"
                 }
             ]
         },
@@ -3868,7 +3868,7 @@
         {
             "x": false,
             "id": 38306,
-            "text": "Wann wurde die Produktion des Getränks Zima eingestellt?",
+            "text": "Wann verschwand die Süßigkeit Fruity Smarties in Deutschland vom Markt?",
             "pic": false,
             "choices": [
                 {
@@ -3931,21 +3931,21 @@
         {
             "x": false,
             "id": 38293,
-            "text": "Wie bezeichnet NBC den Sound bei <i>Law & Order<\/i> , der immer in der Texteinblendung des aktuellen Handlungsortes kommt?",
+            "text": "Wie lautet die korrekte Bezeichnung für die Nordlichter?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cDoink doink\u201d"
+                    "text": "Faculae"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cChing ching\u201d"
+                    "text": "Aurora Borealis"
                 },
                 {
-                    "text": "\u201cChung chung\u201d"
+                    "text": "Cassiopeia"
                 },
                 {
-                    "text": "\u201cThunk thunk\u201d"
+                    "text": "Doppler-Effekt"
                 }
             ]
         },
@@ -3973,70 +3973,70 @@
         {
             "x": false,
             "id": 38285,
-            "text": "Wie viele Kugeln gibt es im Spiel <i>Hungry Hungry Hippos<\/i> ?",
+            "text": "Wie viele Figuzren gibt es im Spiel <i>Lotti Karotti<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "10"
+                    "text": "4"
                 },
                 {
-                    "text": "15"
+                    "text": "12"
                 },
                 {
                     "correct": true,
-                    "text": "20"
+                    "text": "16"
                 },
                 {
-                    "text": "25"
+                    "text": "20"
                 }
             ]
         },
         {
             "x": false,
             "id": 38280,
-            "text": "Wer ist in der Chuck E. Cheese Band am Keyboard?",
+            "text": "Welches dieser Instrumente spielt Dr. Teeth, der Bandleader aus <i>Die Muppet Show</i>",
             "pic": false,
             "choices": [
                 {
-                    "text": "Helen Henny"
+                    "text": "Schlagzeug"
                 },
                 {
-                    "text": "Jasper T. Jowls"
+                    "text": "Saxophon"
                 },
                 {
-                    "text": "Pasqually E. Pieplate"
+                    "text": "Gitarre"
                 },
                 {
                     "correct": true,
-                    "text": "Mr. Munch"
+                    "text": "Keyboard"
                 }
             ]
         },
         {
             "x": false,
             "id": 38278,
-            "text": "Wie lange war Kimmy in <i>Unbreakable Kimmy Schmidt<\/i> in einem Bunder eingesperrt?",
+            "text": "Was hat Thomas Gottschalk früher moderiert?",
             "pic": false,
             "choices": [
                 {
-                    "text": "5 Jahre"
+                    "text": "Wetten dass?"
                 },
                 {
-                    "text": "10 Jahre"
+                    "text": "Wetten, dass?"
                 },
                 {
                     "correct": true,
-                    "text": "15 Jahre"
+                    "text": "Wetten, dass..?"
                 },
                 {
-                    "text": "20 Jahre"
+                    "text": "Wetten, dass...?"
                 }
             ]
         },
         {
             "x": false,
             "id": 38273,
-            "text": "Wie heißt die Riesenschildkröte <i>Die unendliche Geschichte<\/i> ?",
+            "text": "Wie heißt die Riesenschildkröte in <i>Die unendliche Geschichte<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -4057,84 +4057,84 @@
         {
             "x": false,
             "id": 38268,
-            "text": "Wie heißt im Film <i>Meatballs<\/i>  das rivalisierende Camp, mit dem es Bill Murray\u2019s Camp in Form einer jährlichen Olympiade aufnimmt?",
+            "text": "Was ist auf <i>Rotten Tomatoes</i> die höchste Prozentzahl, die ein Film erreichen kann und trotzdem als \"mies\" gilt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Camp Mohawk"
+                    "text": "59%"
                 },
                 {
-                    "text": "Camp Salmon"
+                    "text": "55%"
                 },
                 {
-                    "text": "Camp Oakwood"
+                    "text": "54%"
                 },
                 {
-                    "text": "Camp North Star"
+                    "text": "49%"
                 }
             ]
         },
         {
             "x": false,
             "id": 38267,
-            "text": "Wie heißt Richies Falke im Wes Anderson Film <i>Die Royal Tenenbaums<\/i> ?",
+            "text": "Wie lautet die Adresse, die Dorie in dem Film <i>Findet Nemo</i> zwanghaft wiederholt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Mordecai"
+                    "text": "P. Sherman / 42 Wallaby Way / Sydney"
                 },
                 {
-                    "text": "Constance"
+                    "text": "C. Sherman / 42 Koala Way / Sydney"
                 },
                 {
-                    "text": "Bedivere"
+                    "text": "T. Sherman / 42 Kangaroo Way / Sydney"
                 },
                 {
-                    "text": "Snotty"
+                    "text": "D. Sherman / 42 Wombat Way / Sydney"
                 }
             ]
         },
         {
             "x": false,
             "id": 38266,
-            "text": "Welches der folgenden Schokoriegel wird von der Peter Paul Candy Manufacturing Company hergestellt?",
+            "text": "Welches der folgenden Schokoriegel wird NICHT von Mars Inc. hergestellt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Chick-o-Stick"
+                    "text": "Balisto"
                 },
                 {
                     "correct": true,
-                    "text": "Almond Joy"
+                    "text": "Lion"
                 },
                 {
-                    "text": "100 Grand"
+                    "text": "Mars"
                 },
                 {
-                    "text": "Toblerone"
+                    "text": "Dove"
                 }
             ]
         },
         {
             "x": false,
             "id": 38265,
-            "text": "Wie heißt Ziggy\u2019s Hauskatze im gleichnamigen Comicstreifen?",
+            "text": "Mit wem ist Gutemine in den Asterix-Comics verheiratet?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Zippy"
+                    "text": "Automatix"
                 },
                 {
-                    "text": "Ned"
+                    "text": "Methusalix"
                 },
                 {
                     "correct": true,
-                    "text": "Sid"
+                    "text": "Majestix"
                 },
                 {
-                    "text": "Tic"
+                    "text": "Verleihnix"
                 }
             ]
         },
@@ -4162,28 +4162,28 @@
         {
             "x": false,
             "id": 38263,
-            "text": "Welcher Apparat hilft Detektiven im Spiel <i>Where in Time is Carmen Sandiego<\/i> durch die Zeit zu reisen?",
+            "text": "Was war die längste Regierungszeit eines japanischen Kaisers?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Chronoskirter"
+                    "text": "42 Jahre"
                 },
                 {
-                    "text": "Chronoskinner"
+                    "text": "72 Jahre"
                 },
                 {
-                    "text": "Chronoskipper"
+                    "text": "52 Jahre"
                 },
                 {
                     "correct": true,
-                    "text": "Chronoskimmer"
+                    "text": "62 Jahre"
                 }
             ]
         },
         {
             "x": false,
             "id": 38262,
-            "text": "Was ist der Name des Films innerhalb des Films, der auf die Ereignisse der <i>Scream<\/i>  Filme basiert?",
+            "text": "Was ist der Name des Films innerhalb des Films, der auf die Ereignisse der <i>Scream<\/i>-Filme basiert?",
             "pic": false,
             "choices": [
                 {
@@ -4225,7 +4225,7 @@
         {
             "x": false,
             "id": 38259,
-            "text": "Welches von diesen hat am wenigsten Kalorien?",
+            "text": "Welches von diesen hat am meisten Kalorien?",
             "pic": false,
             "choices": [
                 {
@@ -4236,10 +4236,10 @@
                     "text": "ein Whopper"
                 },
                 {
-                    "text": "ein Wendy\u2019s Single"
+                    "text": "ein KFC Zinger Burger"
                 },
                 {
-                    "text": "ein 2/3 Lb. Monster Thickburger"
+                    "text": "ein Tuna Sub 15cm"
                 }
             ]
         },
@@ -4267,21 +4267,21 @@
         {
             "x": false,
             "id": 38257,
-            "text": "Wer sagt in <i>A Charlie Brown Christmas<\/i> \u201cOf all the Charlie Browns in the world, you\u2019re the Charlie Browniest\u201d?",
+            "text": "Wann haben diese Idioten von der Internationalen Astronomischen Union offiziell gesagt, dass Pluto kein Planet mehr ist?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Linus"
+                    "text": "2006"
                 },
                 {
-                    "text": "Lucy"
+                    "text": "2008"
                 },
                 {
-                    "text": "Sally"
+                    "text": "2010"
                 },
                 {
-                    "text": "Snoopy"
+                    "text": "2004"
                 }
             ]
         },
@@ -4309,21 +4309,21 @@
         {
             "x": false,
             "id": 38255,
-            "text": "Wie nennt man das, wenn Otter in der Gruppe Hände halten?",
+            "text": "Verdammt, wie nennt man nochmal eine Gruppe Rehe?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Raft"
+                    "text": "Sprung"
                 },
                 {
-                    "text": "Trust"
+                    "text": "Rudel"
                 },
                 {
-                    "text": "Lifeboat"
+                    "text": "Schoof"
                 },
                 {
-                    "text": "Orgy"
+                    "text": "Herde"
                 }
             ]
         },
@@ -4351,7 +4351,7 @@
         {
             "x": false,
             "id": 38251,
-            "text": "Welche Karte gibt im Spiel Hearts die meisten Punkte?",
+            "text": "Welche Karte gibt im Spiel <i>Hearts<\/i> die meisten Punkte?",
             "pic": false,
             "choices": [
                 {
@@ -4372,21 +4372,21 @@
         {
             "x": false,
             "id": 38250,
-            "text": "Welches der folgenden Orte kommt NICHT im Beach Boys\u2019 Song \u201cKokomo\u201d vor?",
+            "text": "Was war der erste Song, den Die Lochis parodiert haben?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bermuda"
+                    "text": "Gangnam Style"
                 },
                 {
-                    "text": "Jamaika"
+                    "text": "Hangover"
                 },
                 {
                     "correct": true,
-                    "text": "Antigua"
+                    "text": "It Will Rain"
                 },
                 {
-                    "text": "Aruba"
+                    "text": "Somebody that i used to know"
                 }
             ]
         },
@@ -4414,42 +4414,42 @@
         {
             "x": false,
             "id": 38248,
-            "text": "Wer kann seine Rollenkarten mit einem anderen Spieler tauschen, während die Augen geschlossen sind im Spiel <i>One Night: Ultimate Werewolf<\/i> ?",
+            "text": "Welcher Charakter im Spiel <i>Die Werwölfe von Düsterwald<\/i> hat doppeltes Stimmrecht?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Minion"
+                    "text": "Das Mädchen"
                 },
                 {
-                    "text": "Tanner"
+                    "text": "Der König"
                 },
                 {
-                    "text": "Troublemaker"
+                    "text": "Der Dieb"
                 },
                 {
                     "correct": true,
-                    "text": "Robber"
+                    "text": "Der Hauptmann"
                 }
             ]
         },
         {
             "x": false,
             "id": 38247,
-            "text": "Wie viele Karten braucht man für die Strecke Seattle - Portland - San Francisco - L.A. im Brettspiel <i>Zug um Zug<\/i> ?",
+            "text": "Was macht der Polizist, der auf dem Feld \"Geh ins Gefängnis\" auf einem <i>Monopoly</i>-Spielbrett abgebildet ist?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "9"
+                    "text": "in eine Pfeife blasen"
                 },
                 {
-                    "text": "10"
+                    "text": "Handschellen hochhalten"
                 },
                 {
-                    "text": "11"
+                    "text": "einen Fahrschein schreiben"
                 },
                 {
-                    "text": "12"
+                    "text": "ein Gewehr zielen"
                 }
             ]
         },
@@ -4498,42 +4498,42 @@
         {
             "x": false,
             "id": 38244,
-            "text": "Wie nennt man den 8 fl. oz. fassenden Becher bei Starbucks, der in der Größe direkt unterhalb von \u201cTall\u201d liegt?",
+            "text": "Wie nennt man den 590ml fassenden Becher bei Starbucks?",
             "pic": false,
             "choices": [
                 {
+                    "text": "Grande"
+                },
+                {
+                    "text": "Tall"
+                },
+                {
                     "correct": true,
-                    "text": "Short"
+                    "text": "Venti"
                 },
                 {
-                    "text": "Single"
-                },
-                {
-                    "text": "Small"
-                },
-                {
-                    "text": "Shy"
+                    "text": "Trenta"
                 }
             ]
         },
         {
             "x": false,
             "id": 38243,
-            "text": "Wie nennt man den Betrag des Einkommens auf dem U.S. Steuerformular nach Abzug des Steuerfreibetrages?",
+            "text": "Welches dieser Länder hat einige Berge?",
             "pic": false,
             "choices": [
                 {
-                    "text": "PGI"
+                    "text": "Litauen"
                 },
                 {
-                    "text": "DGI"
+                    "text": "Estland"
                 },
                 {
                     "correct": true,
-                    "text": "AGI"
+                    "text": "Rumänien"
                 },
                 {
-                    "text": "LGI"
+                    "text": "Lettland"
                 }
             ]
         },
@@ -4582,49 +4582,49 @@
         {
             "x": false,
             "id": 38240,
-            "text": "Wessen Vater ist \u201cSimon\u201d in der Simon & Schuster Verlagsgruppe?",
+            "text": "Wenn ich mir einen kleinen Hund zulegen wollte, welche Rasse sollte ich nehmen?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Sänger Carly Simon"
+                    "text": "einen Chihuahua"
                 },
                 {
-                    "text": "Musiker Paul Simon"
+                    "text": "einen Chihuaha"
                 },
                 {
-                    "text": "Senator Paul Simon"
+                    "text": "einen Chihahua"
                 },
                 {
-                    "text": "TV\u2019s Simon & Simon"
+                    "text": "einen Chiuahua"
                 }
             ]
         },
         {
             "x": false,
             "id": 38239,
-            "text": "Was ist die Telefonnummer von Edible Arrangements?",
+            "text": "Welche dieser Erfindungen hat Thomas Edison zuerst patentiert?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1-800-FRU-QUET"
+                    "text": "den Filmprojektor"
                 },
                 {
                     "correct": true,
-                    "text": "1-877-DO-FRUIT"
+                    "text": "den Phonograph / Audiorekorder"
                 },
                 {
-                    "text": "1-800-FRSH-FRT"
+                    "text": "die Glühbirne"
                 },
                 {
-                    "text": "1-877-FRT-FLWR"
+                    "text": "das Geistertelefon (um mit Geistern zu kommunizieren)"
                 }
             ]
         },
         {
             "x": false,
             "id": 38238,
-            "text": "Wer trennt sich mit einer Bügelsäge den eigenen Fuß ab, um der Fessel zu entkommen am Ende von <i>Saw<\/i> ?",
+            "text": "Wer trennt sich mit einer Bügelsäge den eigenen Fuß ab, um der Fessel zu entkommen am Ende von <i>Saw<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -4645,21 +4645,21 @@
         {
             "x": false,
             "id": 38237,
-            "text": "Wie oft sagt Bruno Mars, dass er \u201ctoo hot\u201d (hot damn) sei im Song \u201cUptown Funk\u201d?",
+            "text": "Wer war nicht Teil der Popgruppe ABBA?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "8"
+                    "text": "Alexa"
                 },
                 {
-                    "text": "14"
+                    "text": "Benny"
                 },
                 {
-                    "text": "23"
+                    "text": "Björn"
                 },
                 {
-                    "text": "36"
+                    "text": "Anni-Frid"
                 }
             ]
         },
@@ -4687,105 +4687,105 @@
         {
             "x": false,
             "id": 38235,
-            "text": "Welche Schauspielerin heißt genauso wie William Shakespeare\u2019s Ehefrau?",
+            "text": "Wer gilt als Erfinder des <i>Jingles<\/i>?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Anne Hathaway"
+                    "text": "Die Ehefrau von Theodor Heuss"
                 },
                 {
-                    "text": "Kate Winslet"
+                    "text": "Der Cousin von Walter Scheel"
                 },
                 {
-                    "text": "Mary Elizabeth Winstead"
+                    "text": "Der Ehemann von Marilyn Monroe"
                 },
                 {
-                    "text": "Whoopi Goldberg"
+                    "text": "Die Schwester von John F. Kennedy"
                 }
             ]
         },
         {
             "x": false,
             "id": 38234,
-            "text": "Wen hat das <i>Time<\/i>  Magazine als \u201cPerson of the Year\u201d 2006 ernannt?",
+            "text": "Wo wurde der Teebeutel erfunden?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "\u201cYou\u201d"
+                    "text": "USA"
                 },
                 {
-                    "text": "\u201cWe\u201d"
+                    "text": "Großbritannien"
                 },
                 {
-                    "text": "\u201cThem\u201d"
+                    "text": "China"
                 },
                 {
-                    "text": "\u201cNo One\u201d"
+                    "text": "Australien"
                 }
             ]
         },
         {
             "x": false,
             "id": 38233,
-            "text": "Welches der folgenden Kekse wird von Nabisco produziert?",
+            "text": "Welches der folgenden Kekse wird von DeBeukelaer produziert?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Sandies"
+                    "text": "Pick up!"
                 },
                 {
                     "correct": true,
-                    "text": "Lorna Doone"
+                    "text": "Cereola"
                 },
                 {
-                    "text": "Dunk-a-Roos"
+                    "text": "Dinkelchen"
                 },
                 {
-                    "text": "Star Crunch"
+                    "text": "Nocciola"
                 }
             ]
         },
         {
             "x": false,
             "id": 38232,
-            "text": "Wer spielte den namentlich passenden Massive Head Wound Harry bei <i>Saturday Night Live<\/i> ?",
+            "text": "Merkur war der Gott des was?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Dana Carvey"
+                    "text": "Handels und Reichtums"
                 },
                 {
-                    "text": "John Lovitz"
+                    "text": "Krieg und Feuer"
                 },
                 {
-                    "text": "Kevin Nealon"
+                    "text": "Schiffsfahrt"
                 },
                 {
-                    "text": "Phil Hartman"
+                    "text": "Feste und Feiern"
                 }
             ]
         },
         {
             "x": false,
             "id": 38231,
-            "text": "Welches der folgenden gehört NICHT zu Calvins Fantasiefiguren im Comicstrip <i>Calvin und Hobbes<\/i> ?",
+            "text": "Welches der folgenden ist KEIN Charakter aus den <i>Garfield<\/i>-Comics ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Raumfahrer Spiff"
+                    "text": "Arlene"
                 },
                 {
-                    "text": "Der Unfassbare"
+                    "text": "Odie"
                 },
                 {
                     "correct": true,
-                    "text": "General Freiheit"
+                    "text": "Butch"
                 },
                 {
-                    "text": "Kuno Knarre"
+                    "text": "Jon"
                 }
             ]
         },
@@ -4802,32 +4802,32 @@
                     "text": "Vivaldi"
                 },
                 {
-                    "text": "Händel"
+                    "text": "Corelli"
                 },
                 {
                     "correct": true,
-                    "text": "Monteverdi"
+                    "text": "Beethoven"
                 }
             ]
         },
         {
             "x": false,
             "id": 38228,
-            "text": "Im Film <i>Pee-Wee\u2019s irre Abenteuer<\/i> fährt Pee-Wee beim Geist eines verstorbenen Truckers mit namens\u2026",
+            "text": "Wie heißt der Mopedfahrende Antagonist im Film <i>(T)Raumschiff Surprise – Periode 1<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Big Sid"
+                    "text": "Darf Bräter"
                 },
                 {
                     "correct": true,
-                    "text": "Large Marge"
+                    "text": "Jens Maul"
                 },
                 {
-                    "text": "Giant Jill"
+                    "text": "Der Regulator"
                 },
                 {
-                    "text": "Heavy Chevy"
+                    "text": "Holunder-Herbert"
                 }
             ]
         },
@@ -4876,84 +4876,84 @@
         {
             "x": false,
             "id": 38225,
-            "text": "Wie parodierte der Musiker \u201cWeird Al\u201d Yankovic Miley Cyrus\u2019 \u201cParty in the USA\u201d auf seinem Album <i>Alpocalypse<\/i> ?",
+            "text": "Wie parodierte der Musiker \u201cWeird Al\u201d Yankovic Pharrell Williams \u201cHappy\u201d auf seinem Album <i>Mandatory Fun<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cParty in the AAA\u201d"
+                    "text": "\u201cSlappy\u201d"
                 },
                 {
-                    "text": "\u201cParty in the PTA\u201d"
+                    "text": "\u201cWhacky\u201d"
                 },
                 {
-                    "text": "\u201cParty in the NRA\u201d"
+                    "text": "\u201cBeccy\u201d"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cParty in the CIA\u201d"
+                    "text": "\u201cTacky\u201d"
                 }
             ]
         },
         {
             "x": false,
             "id": 38224,
-            "text": "Aus welchem Jahr ist das Foto, in dem Jack Nicholson am Ende von <i>Shining<\/i> auf mysteriöse Weise auftaucht?",
+            "text": "Auf welchen Philosophen ist das Zitat \u201cIch weiß, dass ich nichts weiß\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1911"
+                    "text": "Platon"
                 },
                 {
                     "correct": true,
-                    "text": "1921"
+                    "text": "Sokrates"
                 },
                 {
-                    "text": "1931"
+                    "text": "Aristoteles"
                 },
                 {
-                    "text": "1941"
+                    "text": "Xenophon"
                 }
             ]
         },
         {
             "x": false,
             "id": 38223,
-            "text": "Was ist der Name des gruseligen Hasen, der Jake Gyllenhaal im Film <i>Donnie Darko<\/i> vor dem Ende der Welt warnt?",
+            "text": "Was ist der Name des Hasen, der im Film <i>Zoomania<\/i> gegen das Verbrechen kämpft?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Frank"
+                    "text": "Judy Hopps"
                 },
                 {
-                    "text": "Harold"
+                    "text": "Lilli Wilde"
                 },
                 {
-                    "text": "Ralph"
+                    "text": "Bugs Bunny"
                 },
                 {
-                    "text": "Jake"
+                    "text": "Hanni Manchas"
                 }
             ]
         },
         {
             "x": false,
             "id": 38221,
-            "text": "Welches Land führte 1893 als erstes das Frauenwahlrecht ein?",
+            "text": "Wo liegt der Mittelpunkt Europas nach den Berechnugen aus 1989?",
             "pic": false,
             "choices": [
                 {
-                    "text": "USA"
+                    "text": "Preabocco, Italien"
                 },
                 {
-                    "text": "Belgien"
+                    "text": "Pásztó, Ungarn"
                 },
                 {
-                    "text": "Schottland"
+                    "text": "Posterstein, Deutschland"
                 },
                 {
                     "correct": true,
-                    "text": "Neuseeland"
+                    "text": "Purnuškės, Litauen"
                 }
             ]
         },
